@@ -1,6 +1,5 @@
 {% include head.html %}
 
-<!--enter your body content here-->
 <div id="mainText">
 <div align="center">
 	<h1>Welcome to the Ion Trap Group at UC Berkeley</h1>
@@ -11,12 +10,13 @@
 	We trap ions to investigate various aspects of quantum physics and quantum information. The motion of trapped ions can be accurately controlled in the quantum regime. Together with the ions' excellent quantum memory capabilities, trapped ions are thus an excellent system to investigate experimental quantum information  processing. Furthermore, we couple the motion of trapped ions to bulk materials to learn more about the quantum properties of mesoscopic systems. See our
 	research tab for more information about specific projects.
 </p>
+
 <!--
 <p>
 We have a limited number of undergraduate research positions available! If you are interested, please send your CV and transcript to Hartmut Haeffner (hhaeffner@berkeley.edu).
-
 </p>
 -->
+
 <div align="center">
 	<IMG src="members/pics/group_photo_2019_lowres.jpg" align="middle" width="600px">
 </div>
