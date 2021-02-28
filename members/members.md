@@ -6,8 +6,6 @@
 <DIV id="group-members">
 
 <TABLE>
-
-
 	<TD  width="112" valign="middle">
 	<DIV><IMG src="members/pics/hartmut.jpg" align="right" height="200px"></DIV>
 	</TD>
@@ -25,10 +23,8 @@ information over 10 micrometers. Notable current achievements of my
 group are ultra low-noise ion traps and a Michelson-Morley test for
 electrons. When not behind a keyboard, I love being outside such as on
 playgrounds with my daughters or on the water windsurfing.</p>
-
 	<div align="left"  style="margin-left:4em; margin-top:0.4em; margin-bottom:0.4em" >
 	</TD>
-
 </TABLE>
 
 <TABLE>
