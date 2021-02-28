@@ -1,0 +1,34 @@
+<?php 
+	include("../../head.html");
+?>
+<div id="mainText">
+<h3>Quantum emulation with ions trapped in optical lattices</h3>
+<p>The Quantum Emulation project uses trapped ions as building blocks to emulate complex quantum systems and study their behavior. Ions are trapped in micro-wells formed by an optical lattice thereby forming a chain of non-linear oscillators coupled through the Coulomb interaction. With this system, we plan to study the Frenkel-Kontorova model. When the optical forces are sufficiently strong, the ion string undergoes a phase transition from a sliding to a pinned phase. We are aiming to study this phase transition in both classical and quantum regimes. This dynamics can be used to explain such phenomena as dry friction, dislocations in crystals, glassy materials, arrays of Josephson junctions, epitaxial growth and others.
+<p>Aside from the phase transition itself, we plan to investigate the pinned phase in detail. In particular, we are interested in the energy transport as well as the thermalization within the ion chain.
+</p>
+<p>More details can be found in <a href="http://iopscience.iop.org/1367-2630/13/7/075012">New J. Phys. <strong>13</strong>, 075012 (2011)</a>.
+</p>
+<p><img src="research/quantum-emulation/lattice_setup.jpg" width="650" alt="lattice_setup" /></p>
+<br>
+<h3>Quantum spectroscopy with calcium ions</h3>
+<h4>Measusing branching fractions of the excited state</h4>
+<p>The ability to trap a crystal of calcium ions in a well-controlled environment allows us to perform spectroscopy measurements to study the atomic structure. Recently, we implemented a technique of using photon counting to measure the branching fractions of an excited state decay with high precision. This work recently appeared in <a href="http://prl.aps.org/abstract/PRL/v111/i2/e023004"> Phy. Rev. Lett. 111, 023004 (2013)</a>.</p>
+<p><img src="research/quantum-emulation/branching_diagram.jpg" width="650" alt="branching"/></p>
+<h4>Spectroscopy of dipole transitions</h4>
+<p>We use fast laser switchings to perform spectroscopy of dipole transitions of trapped calcium ions. This scheme circumvents the usual difficulties due to dark resonances and Doppler heating. We apply this scheme to observe micromotion modulated spectra of trapped calcium ions. More details can be found in <a href="http://arxiv.org/abs/1312.7617">arXiv:1312.7617</a>.</p>
+<p><img src="research/quantum-emulation/micromotion.jpg" width="650" alt="micromotion"/></p>
+<br>
+<h3>Local detection of quantum correlations</h3>
+<p>Detection of quantum correlations usually requires access to all of the correlated subsystems. Following a protocol proposed by M. Gessner and H.-P. Breuer for local detection of quantum correlations, we experimentally demonstate that it is possible to detect quantum correlations between two degrees of freedom of a trapped ion without accessing one of them. We use the ion's electronic degree of freedom to represent an open quantum system interacting with an inaccessible environment modeled by the ion's motion. For details, see <a href="http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys2829.html" onclick="window.open(this.href); return false;">Nature Phys.  doi:10.1038/nphys2851 (2013)</a>.
+<p><img src="research/quantum-emulation/local_detection.jpg" width="650" alt="local_detection" /></p>
+<h3>Energy transport in trapped ion chains</h3>
+<p>We use chains of trapped ions as a model system to study energy propagation in oscillator chain models. We create an out-of-equilibrium state by quickly exciting a single ion on the end of the chain and then observe how the excitation propagtes throughout the chain. We observe energy revivals that persist for a surprisingly long time and are explained by the normal mode evolution of the excited eigenmodes of the chain motion. This work enables the study thermalization of nanoscale systems in both classical and quantum regimes. More details can be found in <a href="http://arxiv.org/abs/1312.5786">arXiv:1312.5786</a>.
+</p>
+<p><img src="research/quantum-emulation/energy_transport_schematic.jpg" width="650" alt="energy_transport_schematic" /></p>
+<br>
+The quantum emulation experiments are supported by the NSF grant "CAREER: Quantum simulation with strings of trapped ions" and an DOE-SCGF fellowship.
+</div>
+<?php 
+	include("../../foot.html");
+?> 
+

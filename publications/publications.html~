@@ -1,0 +1,168 @@
+<?php 
+	include("../head.html");
+?> 
+
+<H3>Journal Papers</H3>
+<ul>
+ <li><b>"Investigation of two-frequency Paul traps for antihydrogen production"</b><br>
+N. Leefer, K. Krimmel, W. Bertsche, D. Budker, J. Fajans, R. Folman, H. H&auml;ffner, F. Schmidt-Kaler <br>
+<a href="http://arxiv.org/abs/1603.09444" onclick="window.open(this.href);return false;">arXiv:1603.09444</a>. <br>
+        <br>
+ <li><b>"Implications of surface noise for the motional coherence of trapped ions"</b><br>
+I. Talukdar, D. J. Gorman, N. Daniilidis, P. Schindler, S. Ebadi, H. Kaufmann, T. Zhang, H. H&auml;ffner <br>
+   <a href="http://journals.aps.org/pra/abstract/10.1103/PhysRevA.93.043415" onclick="window.open(this.href);return false;">Phys. Rev. A 93, 043415 (2016)</a>,
+<a href="http://arxiv.org/abs/1511.04819" onclick="window.open(this.href);return false;">arXiv:1511.04819</a>. <br>
+        <br>
+ <li><b>"Strongly enhanced effects of Lorentz symmetry violation in entangled Yb+ ions"</b><br>
+P. Dzuba, V. V. Flambaum, M. S. Safronova, S. G. Porsev, T. Pruttivarasin, M. A. Hohensee, H. H&auml;ffner <br>
+            <a href="http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3610.html" onclick="window.open(this.href);return false;">Nature Physics 12, 465 - 468 (2016)</a>,
+<a href="http://arxiv.org/abs/1507.06048" onclick="window.open(this.href);return false;">arXiv:1507.06048</a>. <br>
+        <br>
+
+ <li><b>"Polarization of electric field noise near metallic surfaces"</b><br>
+P. Schindler, D.J. Gorman, N. Daniilidis, H. H&auml;ffner <br>
+            <a href="http://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.013414"  onclick="window.open(this.href);return false;">Phys. Rev. A 92, 013414 (2015)</a>, <a href="http://arxiv.org/abs/1505.01237" onclick="window.open(this.href);return false;">arXiv:1505.01237</a>. <br>
+        <br>
+ <li><b>"Design of a Surface Trap for Freely Rotating Ion Ring Crystals"</b><br>
+P.J. Wang, T. Li,C. Noel, A. Chuang, X. Zhang, H. H&auml;ffner <br>
+            <a href="http://iopscience.iop.org/0953-4075/48/20/205002"  onclick="window.open(this.href);return false;">J. Phys. B, 48 205002 (2015)</a>, 
+            <a href="http://arxiv.org/abs/1412.3551" onclick="window.open(this.href);return false;">arXiv:1412.3551</a>. <br>
+        <br>
+ <li><b>"Michelson-Morley analogue for electrons using trapped ions to test Lorentz symmetry"</b><br>
+T. Pruttivarasin, M. Ramm, S. G. Porsev, I. I. Tupitsyn, M. Safronova, M. A. Hohensee, H. H&auml;ffner <br>
+            <a href="http://dx.doi.org/10.1038/nature14091" onclick="window.open(this.href);return false;">Nature 517, 592 (2015)</a>,
+            <a href="http://dx.doi.org/10.1038/517559a" onclick="window.open(this.href);return false;">News & Views</a>,
+            <a href="http://www.nature.com/nature/podcast/index-2015-01-29.html" onclick="window.open(this.href);return false;">podcast</a>,
+		<a href="http://arxiv.org/abs/1412.2194" onclick="window.open(this.href);return false;">arXiv:1412.2194</a>. <br>
+        <br>
+
+ <li><b>"Resistive and sympathetic cooling of highly-charged-ion clouds in a Penning trap"</b><br>
+        M. Vogel, H. H&auml;ffner, K. Hermanspahn, S. Stahl, J. Steinmann, W. Quint <br>
+            <a href="http://journals.aps.org/pra/abstract/10.1103/PhysRevA.90.043412" onclick="window.open(this.href);return false;">Phys. Rev. A 90, 043412 (2014)</a>. <br>
+        <br>
+ <li><b>"Two-mode coupling in a single-ion oscillator via parametric resonance"</b><br>
+        D. J. Gorman, P. Schindler, S. Selvarajan, N. Daniilidis, and H. H&auml;ffner <br>
+            <a href="http://journals.aps.org/pra/abstract/10.1103/PhysRevA.89.062332" onclick="window.open(this.href);return false;">Phys. Rev. A 89, 062332 (2014)</a>, 
+        <a href="http://arxiv.org/abs/1405.5571" onclick="window.open(this.href); return false;">arXiv:1405.5571</a>.<br>
+        <br>
+ <li><b>"Coherent all-optical control of ultracold atoms arrays in permanent magnetic traps"</b><br>
+        A. Abdelrahman, T. Mukai, H. H&auml;ffner, and T. Byrnes<br> 
+        <a href="http://www.opticsinfobase.org/oe/abstract.cfm?URI=oe-22-3-3501&origin=search" onclick="window.open(this.href); return false;">Optics Express 22, 3501 (2014)</a>.<br>
+	<br>
+ <li><b>"Observing a Quantum Phase Transition by Measuring a Single Spin"</b><br>
+        M. Gessner, M. Ramm, H. H&auml;ffner, A. Buchleitner, and H.-P. Breuer<br>
+        <a href="http://iopscience.iop.org/0295-5075/107/4/40005" onclick="window.open(this.href); return false;">Europhysics Letters 107, 4005 (2014)</a>,
+        <a href="http://arxiv.org/abs/1403.4066" onclick="window.open(this.href); return false;">arXiv:1403.4066</a>.<br>
+        <br>
+    <li><b>"Direct spectroscopy of the 2S1/2-2P1/2 and 2D3/2-2P1/2 transitions and observation of micromotion modulated spectra in trapped Ca+"</b><br>
+        T. Pruttivarasin, M. Ramm, and H. H&auml;ffner.<br>
+        <a href="http://iopscience.iop.org/0953-4075/47/13/135002/" onclick="window.open(this.href); return false;">J. Phys. B 47, 135002 (2014)</a>,
+        <a href="http://arxiv.org/abs/1312.7617" onclick="window.open(this.href); return false;">arXiv:1312.7617</a>.<br>
+        <br>
+    <li><b>"Energy Transport in Trapped Ion Chains"</b><br>
+        M. Ramm, T. Pruttivarasin, and H. H&auml;ffner.<br>
+        <a href="http://stacks.iop.org/1367-2630/16/063062" onclick="window.open(this.href); return false;">New J. Phys. 16 063062 (2014)</a>, 
+        <a href="http://arxiv.org/abs/1312.5786" onclick="window.open(this.href); return false;">arXiv:1312.5786</a>. Higlighted in <a href="http://Select.iop.org" onclick="window.open(this.href); return false;"> IOP select </a>.<br>
+        <br>
+    <li><b>"Nonlinear spectroscopy of controllable many-body quantum systems"</b><br>
+            M. Gessner, F. Schlawin, H. H&auml;ffner, S. Mukamel, and A. Buchleitner.<br>
+            <a href="http://stacks.iop.org/1367-2630/16/092001" onclick="window.open(this.href); return false;">New J. Phys. 16 092001 (2014)</a>, 
+            <a href="http://arxiv.org/abs/1312.3365" onclick="window.open(this.href); return false;">arXiv:1312.3365</a>. Selected for <a href="http://iopscience.iop.org/1367-2630/page/highlights-of-2014" onclick="window.open(this.href); return false;">Highlights of 2014</a> collection - New Journal of Physics.<br>
+            <br>
+    <li><b>"Local Detection of Quantum Correlations with a Single Trapped Ion"</b><br>
+            M. Gessner, M. Ramm, T. Pruttivarasin, A. Buchleitner,  H.-P. Breuer, and H. H&auml;ffner.<br>
+            <a href="http://www.nature.com/nphys/journal/v10/n2/full/nphys2829.html" onclick="window.open(this.href);return false;">Nature Phys. 10, 105-109 (2014)</a>, <a href="http://arxiv.org/abs/1311.4489" onclick="window.open(this.href); return false;">arXiv:1311.4489</a>.<br>
+            <br>
+    <li><b>"Probing surface electric field noise with a single ion"</b><br>
+            N. Daniilidis, S. Gerber, G. Bolloten, M. Ramm, A. Ransford, E. Ulin-Avila, I. Talukdar, and H. H&auml;ffner.<br>
+            <a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.89.245435" onclick="window.open(this.href); return false;">Phys. Rev. B 89 245435 (2014)</a>, <a href="http://arxiv.org/abs/1307.7194" onclick="window.open(this.href); return false;">arXiv:1307.7194</a>.<br>
+            <br>
+    <li><b>"Precision Measurement Method for Branching Fractions of Excited P1/2 States Applied to 40Ca+"</b><br>
+            M. Ramm, T. Pruttivarasin, M. Kokish, I. Talukdar, and H. H&auml;ffner.<br>
+            <a href= "http://prl.aps.org/abstract/PRL/v111/i2/e023004" onclick="window.open(this.href); return false;">Phys. Rev. Lett. 111, 023004 (2013)</a>, <a href= "http://arxiv.org/abs/1305.0858" onclick="window.open(this.href); return false;">arXiv:1305.0858</a>.<br>
+            <br>
+    <li><b>"Quantum information processing with trapped electrons and superconducting electronics"</b><br>
+            N. Daniilidis, D. J. Gorman, L. Tian, and H. H&auml;ffner.<br>
+            <a href= "http://iopscience.iop.org/1367-2630/15/7/073017/" onclick="window.open(this.href); return false;">New J. Phys. 15, 073017 (2013)</a>, <a href= "http://arxiv.org/abs/1304.4710" onclick="window.open(this.href); return false;">arXiv:1304.4710</a>.<br>
+            <br>
+    <li><b>"Quantum Interfaces Between Atomic and Solid-State Systems"</b><br>
+            N. Daniilidis and H. H&auml;ffner.<br>
+            <a href="http://www.annualreviews.org/eprint/zMyERRM8yXs6zkm3Cteg/full/10.1146/annurev-conmatphys-030212-184253" onclick="window.open(this.href); return false;">Annual Reviews Condensed Matter Physics 4, 83-112 (2013)</a>, <a href="publications/quantum-hybrids-annual-reviews-preprint-format.pdf" onclick="window.open('publications/quantum-hybrids-annual-reviews-preprint-format.pdf'); return false;">Download</a>.<br>
+            <br>
+    <li><b>"Collective Quantum Jumps of Rydberg Atoms"</b><br>
+        T.E. Lee, H. H&auml;ffner, and M.C. Cross.<br>
+        <a href="http://prl.aps.org/abstract/PRL/v108/i2/e023602" onclick="window.open(this.href); return false;">Phys. Rev. Lett. 108, 023602 (2012)</a>, <a href="http://xxx.lanl.gov/abs/1109.6506" onclick="window.open(this.href); return false;">arXiv:1109.6506</a>. Selected for a <a href="http://physics.aps.org/articles/v5/5" onclick="window.open(this.href); return false;"> Physics Viewpoint</a>.<br>
+        <br>
+    <li><b>"Electric field compensation and sensing with a single ion in a planar trap"</b><br>
+            S. Narayanan, N. Daniilidis, S. A. M&ouml;ller, R. Clark, F. Ziesel, K. Singer, F. Schmidt-Kaler,
+            and H. H&auml;ffner.<br>
+             <a href="http://scitation.aip.org/content/aip/journal/jap/110/11/10.1063/1.3665647" onclick="window.open(this.href); return false;">J. Appl. Phys. 110, 114909 (2011)</a>, <a href="http://xxx.lanl.gov/abs/1106.2730" onclick="window.open(this.href); return false;">arXiv:1106.2730</a>.<br>
+        <br>
+    <li><b>"Transport of charged particles by adjusting rf voltage amplitudes"</b><br>
+            T. Karin, I. Le Bras, A. Kehlberger, K. Singer, N. Daniilidis, and H. H&auml;ffner.<br>
+            <a href="http://link.springer.com/article/10.1007%2Fs00340-011-4738-2" onclick="window.open(this.href); return false;">Appl. Phys. B 106, 117 (2012)</a>, <a href="http://xxx.lanl.gov/abs/1011.6116" onclick="window.open(this.href); return false;">arXiv:1011.6116</a>.<br>
+        <br>
+    <li><b>"Antiferromagnetic phase transition in a nonequilibrium lattice of Rydberg atoms"</b><br>
+            T.E. Lee, H. H&auml;ffner, and M.C. Cross.<br>
+            <a href="http://pra.aps.org/abstract/PRA/v84/i3/e031402" onclick="window.open(this.href); return false;">Phys. Rev. A 84, 031402(R) (2011)</a>, <a href="http://xxx.lanl.gov/abs/1104.0908" onclick="window.open(this.href); return false;">arXiv:1104.0908</a>. Selected for a <a href="http://physics.aps.org/articles/v4/71" onclick="window.open(this.href); return false;">Physics Viewpoint</a>.<br>
+        <br>
+    <li><b>"All that is gold does not glitter"</b><br>
+            N. Daniilidis and H. H&auml;ffner.<br>
+            <a href="http://physics.aps.org/articles/v4/66" onclick="window.open(this.href); return false;">Physics 4, 66 (2011)</a>.<br>
+        <br>
+    <li><b>"Trapped ions in optical lattices for probing oscillator chain models"</b><br>
+        T. Pruttivarasin, M. Ramm, I. Talukdar, A. Kreuter, and H. H&auml;ffner.<br>
+        <a href="http://iopscience.iop.org/1367-2630/13/7/075012" onclick="window.open(this.href); return false;">New J. Phys. 13, 075012 (2011)</a>, <a href="http://arxiv.org/abs/1104.0451" onclick="window.open(this.href); return false;">arXiv:1104.0451</a>. Selected for <a href="http://iopscience.iop.org/1367-2630/page/Highlights%20of%202011" onclick="window.open(this.href); return false;">Highlights of 2011</a> collection - New Journal of Physics.<br>
+        <br>
+    <li><b>"Fabrication and heating rate study of microscopic surface electrode ion traps"</b><br>
+        N. Daniilidis, S. Narayanan, S.A. M&ouml;ller, R. Clark, T.E. Lee, P.J. Leek, A. Wallraff, St. Schulz, F. Schmidt-Kaler, and H. H&auml;ffner.<br>
+        <a href="http://iopscience.iop.org/1367-2630/13/1/013032/" onclick="window.open(this.href); return false;">New J. Phys. 13, 013032 (2011)</a>, <a href="http://xxx.lanl.gov/abs/1009.2834" onclick="window.open('http://xxx.lanl.gov/abs/1009.2834'); return false;">arXiv:1009.2834</a>.<br>
+        <br>
+    <li><b>"Frustrated trio mimicked"</b><br>
+        H. H&auml;ffner.<br>
+        <a href="http://www.nature.com/nature/journal/v465/n7298/full/465555a.html" onclick="window.open(this.href); return false;">Nature 465, 555, (2010)</a>.<br>
+        <br>
+    <li> Introductory article on <b>"Quantum computing with trapped ions"</b><br>
+        H. H&auml;ffner.<br>
+        Journal of the Indian Institute of Science <strong>89</strong>, No.3 (2009) in 'Quantum Computation-Curent trends and implementations', Eds. V. Natarajan, and A. Kumar. <a href="publications/review-QC-IISc-090306.pdf" onclick="window.open('publications/review-QC-IISc-090306.pdf'); return false;">Download</a>.<br>
+        <br>
+    <li><b>"Wiring up trapped ions to study aspects of quantum information"</b><br>
+        N. Daniilidis, T. Lee, R. Clark, S. Narayanan, and H. H&auml;ffner.<br>
+        <a href="http://iopscience.iop.org/0953-4075/42/15/154012" onclick="window.open(this.href); return false;">J. Phys. B 42, 144012 (2009)</a>, <a href="http://xxx.lanl.gov/abs/0903.3834" onclick="window.open(this.href); return false;">arXiv:0903.3834</a>.<br>
+        <br>
+    <li><b>"Optimal control of entangling operations for trapped-ion quantum computing"</b><br>
+        V. Nebendahl, H. H&auml;ffner, and C. F. Roos.<br>
+        <a href="http://pra.aps.org/abstract/PRA/v79/i1/e012312" onclick="window.open(this.href); return false;">Phys. Rev. A 79, 012312 (2009)</a>, <a href="http://xxx.lanl.gov/abs/0809.1414" onclick="window.open(this.href); return false;">arXiv:0809.1414</a>.<br>
+        <br>
+    <li> Review on <b>"Quantum computing with trapped ions"</b><br>
+        H. H&auml;ffner, C. F. Roos, and R. Blatt.<br>
+        <a href="http://www.sciencedirect.com/science/article/pii/S0370157308003463" onclick="window.open(this.href); return false;">Physics Reports 469, 155 (2008)</a>, <a href="http://xxx.lanl.gov/abs/0809.4368" onclick="window.open(this.href); return false;">arXiv:0809.4368</a>.<br>
+        <br>
+</ul>
+
+<H3>PhD Theses</H3>
+
+<ul>
+	<li><b>"Spectroscopy, fundamental symmetry tests and quantum simulation with trapped ions"</b>
+    	<br>T. Pruttivarasin (2014).
+        <a href="publications/pruttivarasin-thesis.pdf" onclick="window.open(this.href); return false;">Download.</a><br>
+        <br>
+	<li><b>"Quantum Correlations and Energy Transport in Trapped Ions"</b>
+    	<br>M. Ramm (2014).
+        <a href="publications/ramm-thesis.pdf" onclick="window.open(this.href); return false;">Download.</a>
+        <br>
+</ul>
+
+ 
+<H3>Masters Theses</H3>
+
+<ul>
+	<li><b>"Electrostatic Control and Transport of Ions on a Planar Trap for Quantum Information Processing"</b>
+    	<br>G. Littich (2011).
+        <a href="publications/littich-thesis.pdf" onclick="window.open('publications/littich-thesis.pdf'); return false;">Download.</a>
+        <br>
+</ul>
+
+<?php 
+	include("../foot.html");
+?> 

@@ -1,0 +1,33 @@
+<script type="text/javascript" language="JavaScript">
+
+
+
+function convert(text)
+{
+    var newText = "";
+
+    for (i=0; i<text.length; i++)
+        newText += "&#" + text.charCodeAt(i) + ";";
+
+    return newText;
+}
+
+
+
+
+function emicon(three, two, one)
+{
+
+   one = convert(one);
+   two = convert(two);
+   three = convert(three);
+   var mailto = convert('mailto:');
+
+   document.write('<a href="' + mailto +
+   one + '&#64' + two + '.' + three+ '">'+ '<img class="mail-icon" SRC="images/email.gif" alt="mail" BORDER=0 height=26 width=26></a>' );
+}
+
+
+//-->
+
+   </script>
