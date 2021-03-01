@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-    <img src="research/quantum-emulation/VAET_section.jpg" width="558" alt="" />
+    <img src="/research/quantum-emulation/VAET_section.jpg" width="558" alt="" />
 </p>
 
 
@@ -82,7 +82,7 @@ More information is available at:
     (denoted as <i>H</i><sub>rand</sub>), followed by an inversion sequence of subsets of the Hamiltonian terms which has been
     calculated to return the system approximately to a basis state.
 </caption>
-<TR><TD><img src="research/quantum-emulation/verification-protocols.png" alt="Illustration of verification protocols for analog quantum simulators." align="center" width="500"></TD></TR>
+<TR><TD><img src="/research/quantum-emulation/verification-protocols.png" alt="Illustration of verification protocols for analog quantum simulators." align="center" width="500"></TD></TR>
 </table>
 
 <h1>Precision measurements using trapped ions</h1>
@@ -120,7 +120,7 @@ More information is available at:
 </p>
 
 <p align="center">
-    <img src="research/quantum-emulation/Lattice_section_web.jpg" align="center" width="600" alt="" />
+    <img src="/research/quantum-emulation/Lattice_section_web.jpg" align="center" width="600" alt="" />
 </p>
 
 </div>

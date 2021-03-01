@@ -1,9 +1,9 @@
 <div id="mainText">
 	<h1>Publications</h1>
 Jump to:
-	<a href="publications/publications.html#journal-papers">Journal Papers</a> |
-	<a href="publications/publications.html#phd-theses">PhD Theses</a> |
-	<a href="publications/publications.html#masters-theses">Masters Theses</a>
+	<a href="#journal-papers">Journal Papers</a> |
+	<a href="#phd-theses">PhD Theses</a> |
+	<a href="#masters-theses">Masters Theses</a>
 	<a id="journal-papers"></a>
 	<h2>Journal Papers</h2>
 	<ul>
@@ -361,7 +361,7 @@ T. Pruttivarasin, M. Ramm, S. G. Porsev, I. I. Tupitsyn, M. Safronova, M. A. Hoh
             N. Daniilidis and H. H&auml;ffner.
 			<br/>
 			<a href="http://www.annualreviews.org/eprint/zMyERRM8yXs6zkm3Cteg/full/10.1146/annurev-conmatphys-030212-184253" target="_blank">Annual Reviews Condensed Matter Physics 4, 83-112 (2013)</a>,            
-			<a href="publications/quantum-hybrids-annual-reviews-preprint-format.pdf" target="_blank">Download</a>.
+			<a href="/publications/quantum-hybrids-annual-reviews-preprint-format.pdf" target="_blank">Download</a>.
 			<br/>
 			<br/>
 		</li>
@@ -455,7 +455,7 @@ T. Pruttivarasin, M. Ramm, S. G. Porsev, I. I. Tupitsyn, M. Safronova, M. A. Hoh
 			<br/>
         Journal of the Indian Institute of Science 
 			<strong>89</strong>, No. 3 (2009) in 'Quantum Computation-Current trends and implementations', Eds. V. Natarajan, and A. Kumar. 
-			<a href="publications/review-QC-IISc-090306.pdf" target="_blank">Download</a>.
+			<a href="/publications/review-QC-IISc-090306.pdf" target="_blank">Download</a>.
 			<br/>
 			<br/>
 		</li>
@@ -496,14 +496,14 @@ T. Pruttivarasin, M. Ramm, S. G. Porsev, I. I. Tupitsyn, M. Safronova, M. A. Hoh
 		<li>
 			<b>"Treatments of a Surface Ion Trap: A Study of Electric-Field Noise near a Contaminated Metal Surface"</b>
 			<br/>M. Berlin-Udi (2020).        
-			<a href="publications/Berlin-Udi-thesis.pdf" target="_blank">Download.</a>
+			<a href="/publications/Berlin-Udi-thesis.pdf" target="_blank">Download.</a>
 			<br/>
 			<br/>
 		</li>
 		<li>
 			<b>"High temperature studies of electric-field noise in a surface ion trap"</b>
 			<br/>C. Noel (2019).        
-			<a href="publications/Noel_thesis.pdf" target="_blank">Download.</a>
+			<a href="/publications/Noel_thesis.pdf" target="_blank">Download.</a>
 			<br/>
 			<br/>
 		</li>
@@ -511,42 +511,42 @@ T. Pruttivarasin, M. Ramm, S. G. Porsev, I. I. Tupitsyn, M. Safronova, M. A. Hoh
 			<b>"Implementation of a Rotationally Symmetric Ring Ion Trap and Coherent
 	Control of Rotational States"</b>
 			<br/>E. Urban (2019).        
-			<a href="publications/Urban_Thesis.pdf" target="_blank">Download.</a>
+			<a href="/publications/Urban_Thesis.pdf" target="_blank">Download.</a>
 			<br/>
 			<br/>
 		</li>
 		<li>
 			<b>"Establishing tools to optimize surface traps for wiring up trapped ions"</b>
 			<br/>S. Selvarajan (2017).        
-			<a href="publications/selvarajan-thesis.pdf" target="_blank">Download.</a>
+			<a href="/publications/selvarajan-thesis.pdf" target="_blank">Download.</a>
 			<br/>
 			<br/>
 		</li>
 		<li>
 			<b>"Noise sensing and quantum simulation with trapped atomic ions"</b>
 			<br/>D. Gorman (2017).        
-			<a href="publications/dylan_gorman_thesis.pdf" target="_blank">Download.</a>
+			<a href="/publications/dylan_gorman_thesis.pdf" target="_blank">Download.</a>
 			<br/>
 			<br/>
 		</li>
 		<li>
 			<b>"How to couple trapped ions to superconducting resonators: towards hybrid quantum devices"</b>
 			<br/>S. Moeller (2016).        
-			<a href="publications/Dissertation-Soenke-Moeller.pdf" target="_blank">Download.</a>
+			<a href="/publications/Dissertation-Soenke-Moeller.pdf" target="_blank">Download.</a>
 			<br/>
 			<br/>
 		</li>
 		<li>
 			<b>"Spectroscopy, fundamental symmetry tests and quantum simulation with trapped ions"</b>
 			<br/>T. Pruttivarasin (2014).        
-			<a href="publications/pruttivarasin-thesis.pdf" target="_blank">Download.</a>
+			<a href="/publications/pruttivarasin-thesis.pdf" target="_blank">Download.</a>
 			<br/>
 			<br/>
 		</li>
 		<li>
 			<b>"Quantum Correlations and Energy Transport in Trapped Ions"</b>
 			<br/>M. Ramm (2014).        
-			<a href="publications/ramm-thesis.pdf" target="_blank">Download.</a>
+			<a href="/publications/ramm-thesis.pdf" target="_blank">Download.</a>
 			<br/>
 			<br/>
 		</li>
@@ -557,7 +557,7 @@ T. Pruttivarasin, M. Ramm, S. G. Porsev, I. I. Tupitsyn, M. Safronova, M. A. Hoh
 		<li>
 			<b>"Electrostatic Control and Transport of Ions on a Planar Trap for Quantum Information Processing"</b>
 			<br/>G. Littich (2011).        
-			<a href="publications/littich-thesis.pdf" target="_blank">Download.</a>
+			<a href="/publications/littich-thesis.pdf" target="_blank">Download.</a>
 			<br/>
 			<br/>
 		</li>

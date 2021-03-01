@@ -4,15 +4,15 @@
   <table>
     <tr>
       <td width="112" valign="middle">
-        <div><img src="members/pics/hartmut.jpg" align="right" height="200px" /></div>
+        <div><img src="/members/pics/hartmut.jpg" align="right" height="200px" /></div>
       </td>
       <td width="750">
-        <h2><a href="members/hartmut/hartmut.html">Hartmut H&auml;ffner</a></h2>
+        <h2><a href="/members/hartmut/hartmut.html">Hartmut H&auml;ffner</a></h2>
         <script>
           emicon("edu", "berkeley", "hhaeffner");
         </script>
         <noscript>
-          <a href="./noscript_mail.html"> <img src="images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
+          <a href="./noscript_mail.html"> <img src="/images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
         </noscript>
         <h4 class="contact">
           PI<br />
@@ -38,7 +38,7 @@
           emicon("edu", "berkeley", "sarwexler3");
         </script>
         <noscript>
-          <a href="./noscript_mail.html"> <img src="images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
+          <a href="./noscript_mail.html"> <img src="/images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
         </noscript>
         <h4 class="contact">Administrative Assistant</h4>
       </td>
@@ -48,7 +48,7 @@
   <table>
     <tr>
       <td width="112">
-        <img src="members/pics/wei_ting.jpg" align="right" height="200px" />
+        <img src="/members/pics/wei_ting.jpg" align="right" height="200px" />
       </td>
       <td width="350">
         <h2>Wei-Ting Chen</h2>
@@ -56,7 +56,7 @@
           emicon("com", "gmail", "wtchen0108");
         </script>
         <noscript>
-          <a href="./noscript_mail.html"> <img src="images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
+          <a href="./noscript_mail.html"> <img src="/images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
         </noscript>
         <h4 class="contact">Post-Doc</h4>
         <p class="bio">
@@ -65,7 +65,7 @@
         </p>
       </td>
       <td width="112">
-        <img src="members/pics/sara.jpg" align="right" height="200px" />
+        <img src="/members/pics/sara.jpg" align="right" height="200px" />
       </td>
       <td width="350">
         <h2>Sara Mouradian</h2>
@@ -73,7 +73,7 @@
           emicon("edu", "berkeley", "smouradi");
         </script>
         <noscript>
-          <a href="./noscript_mail.html"> <img src="images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
+          <a href="./noscript_mail.html"> <img src="/images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
         </noscript>
         <h4 class="contact">Post-Doc</h4>
         <p class="bio">
@@ -84,7 +84,7 @@
     </tr>
     <tr>
       <td width="112">
-        <img src="members/pics/alberto.png" align="right" height="200px" />
+        <img src="/members/pics/alberto.png" align="right" height="200px" />
       </td>
       <td width="350">
         <h2>Alberto Alonso</h2>
@@ -92,7 +92,7 @@
           emicon("edu", "berkeley", "a.alonso");
         </script>
         <noscript>
-          <a href="./noscript_mail.html"> <img src="images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
+          <a href="./noscript_mail.html"> <img src="/images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
         </noscript>
         <h4 class="contact">Post-Doc</h4>
         <p class="bio">
@@ -102,7 +102,7 @@
         <br />
       </td>
       <td width="112">
-        <img src="members/pics/khan.jpg" align="right" height="200px" />
+        <img src="/members/pics/khan.jpg" align="right" height="200px" />
       </td>
       <td width="350">
         <h2>Sumanta Khan</h2>
@@ -110,7 +110,7 @@
           emicon("edu", "berkeley", "sumanta");
         </script>
         <noscript>
-          <a href="./noscript_mail.html"> <img src="images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
+          <a href="./noscript_mail.html"> <img src="/images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
         </noscript>
         <h4 class="contact">Post-Doc</h4>
         <p class="bio">
@@ -122,7 +122,7 @@
     </tr>
     <tr>
       <td width="112">
-        <img src="members/pics/joe.JPG" align="right" height="200px" />
+        <img src="/members/pics/joe.JPG" align="right" height="200px" />
       </td>
       <td width="230">
         <h2>Joseph Broz</h2>
@@ -130,7 +130,7 @@
           emicon("edu", "berkeley", "jbroz");
         </script>
         <noscript>
-          <a href="./noscript_mail.html"> <img src="images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
+          <a href="./noscript_mail.html"> <img src="/images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
         </noscript>
         <h4 class="contact">Grad Student</h4>
         <p class="bio">
@@ -139,7 +139,7 @@
         </p>
       </td>
       <td width="112">
-        <img src="members/pics/da.jpg" align="right" height="200px" />
+        <img src="/members/pics/da.jpg" align="right" height="200px" />
       </td>
       <td width="350">
         <h2>Da An (Chi Chi)</h2>
@@ -147,7 +147,7 @@
           emicon("edu", "berkeley", "da.an");
         </script>
         <noscript>
-          <a href="./noscript_mail.html"> <img src="images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
+          <a href="./noscript_mail.html"> <img src="/images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
         </noscript>
         <h4 class="contact">Grad Student</h4>
         <p class="bio">I'm a graduate student, excited to learn about the theory and techniques of ion trapping, along with its applications to quantum information. Outside of the lab, I enjoy playing card/board games and eating.</p>
@@ -156,7 +156,7 @@
     </tr>
     <tr>
       <td width="112">
-        <img src="members/pics/neil.jpg" align="right" height="200px" />
+        <img src="/members/pics/neil.jpg" align="right" height="200px" />
       </td>
       <td width="350">
         <h2>Neil Glikin</h2>
@@ -164,14 +164,14 @@
           emicon("edu", "berkeley", "glikin");
         </script>
         <noscript>
-          <a href="./noscript_mail.html"> <img src="images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
+          <a href="./noscript_mail.html"> <img src="/images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
         </noscript>
         <h4 class="contact">Grad Student</h4>
         <p class="bio">I love being able to see the effects of quantum mechanics on a tabletop, as well as just learning and discovering how the universe works. I enjoy exploring the bay area, video games, and making lists.</p>
         <br />
       </td>
       <td width="112">
-        <img src="members/pics/nicole.jpg" align="right" height="200px" />
+        <img src="/members/pics/nicole.jpg" align="right" height="200px" />
       </td>
       <td width="350">
         <h2>Nicole Greene</h2>
@@ -179,7 +179,7 @@
           emicon("edu", "berkeley", "nsgreene");
         </script>
         <noscript>
-          <a href="./noscript_mail.html"> <img src="images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
+          <a href="./noscript_mail.html"> <img src="/images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
         </noscript>
         <h4 class="contact">Grad Student</h4>
         <p class="bio">
@@ -191,7 +191,7 @@
     </tr>
     <tr>
       <td width="112">
-        <img src="members/pics/ryan.JPG" align="right" height="200px" />
+        <img src="/members/pics/ryan.JPG" align="right" height="200px" />
       </td>
       <td width="350">
         <h2>Ryan Shaffer</h2>
@@ -199,7 +199,7 @@
           emicon("edu", "berkeley", "ryan.shaffer");
         </script>
         <noscript>
-          <a href="./noscript_mail.html"> <img src="images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
+          <a href="./noscript_mail.html"> <img src="/images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
         </noscript>
         <h4 class="contact">Grad Student</h4>
         <p class="bio">
@@ -209,7 +209,7 @@
         <br />
       </td>
       <td width="112">
-        <img src="members/pics/qian.jpg" align="right" height="200px" />
+        <img src="/members/pics/qian.jpg" align="right" height="200px" />
       </td>
       <td width="350">
         <h2>Qian Yu</h2>
@@ -217,7 +217,7 @@
           emicon("edu", "berkeley", "qian_yu");
         </script>
         <noscript>
-          <a href="./noscript_mail.html"> <img src="images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
+          <a href="./noscript_mail.html"> <img src="/images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
         </noscript>
         <h4 class="contact">Grad Student</h4>
         <p class="bio">
@@ -228,7 +228,7 @@
     </tr>
     <tr>
       <td width="112">
-        <img src="members/pics/shuqi.jpg" align="right" height="200px" />
+        <img src="/members/pics/shuqi.jpg" align="right" height="200px" />
       </td>
       <td width="350">
         <h2>Shuqi Xu</h2>
@@ -236,7 +236,7 @@
           emicon("edu", "berkeley", "sqxu");
         </script>
         <noscript>
-          <a href="./noscript_mail.html"> <img src="images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
+          <a href="./noscript_mail.html"> <img src="/images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
         </noscript>
         <h4 class="contact">Grad Student</h4>
         <p class="bio">
@@ -317,7 +317,7 @@
     <tr>
       <td>Thaned (Hong) Pruttivarasin<br /></td>
       <td>
-        <i>Lecturer at Mahidol University, Thailand <a href=" http://mpec.sc.mahidol.ac.th/thanedp/index.html"> http://mpec.sc.mahidol.ac.th/thanedp/index.html</a><br /></i>
+        <i>Lecturer at Mahidol University, Thailand <a href="http://mpec.sc.mahidol.ac.th/thanedp/index.html"> http://mpec.sc.mahidol.ac.th/thanedp/index.html</a><br /></i>
       </td>
     </tr>
   </table>
@@ -386,26 +386,26 @@
     <tbody>
       <tr>
         <td width="425" align="center">
-          <img src="members/pics/groupphoto_2018_final.jpg" align="left" width="425px" />
+          <img src="/members/pics/groupphoto_2018_final.jpg" align="left" width="425px" />
         </td>
         <td width="425" align="center">
-          <img src="members/pics/group_photo_2017.JPG" align="left" width="425px" />
+          <img src="/members/pics/group_photo_2017.JPG" align="left" width="425px" />
         </td>
       </tr>
       <tr>
         <td width="425" align="center">
-          <img src="members/pics/group_fall2015.JPG" align="left" width="425px" />
+          <img src="/members/pics/group_fall2015.JPG" align="left" width="425px" />
         </td>
         <td width="425" align="center">
-          <img src="members/pics/group_photo_2015.jpg" align="left" width="425px" />
+          <img src="/members/pics/group_photo_2015.jpg" align="left" width="425px" />
         </td>
       </tr>
       <tr>
         <td width="425" align="left">
-          <img src="members/pics/group_pic_2014.jpg" align="left" width="425px" />
+          <img src="/members/pics/group_pic_2014.jpg" align="left" width="425px" />
         </td>
         <td width="425" align="left">
-          <img src="members/pics/group_picture_2013_IMG_6170_lower_res.JPG" align="left" width="425px" />
+          <img src="/members/pics/group_picture_2013_IMG_6170_lower_res.JPG" align="left" width="425px" />
         </td>
       </tr>
     </tbody>

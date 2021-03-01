@@ -19,14 +19,14 @@
 		height of z = 175 &mu;m, with electrode geometry shown for reference.
 		(c) Side view of rf potentials.
 </caption>
-<TR><TD><img src="research/quantum-electronics/SingleTrap.jpeg" alt="" align="center" height="200"></TD></TR>
+<TR><TD><img src="/research/quantum-electronics/SingleTrap.jpeg" alt="" align="center" height="200"></TD></TR>
 </table>
 	
 <table class="image" align="center">
 <caption class="caption" align="bottom" style="caption-side: bottom">
 		Fig. 2. Simulated shuttling of the ion perpendicular to the trap surface.
 </caption>
-<TR><TD><img src="research/quantum-electronics/potential_lines.gif" alt="" align="center" height="350"></TD></TR>
+<TR><TD><img src="/research/quantum-electronics/potential_lines.gif" alt="" align="center" height="350"></TD></TR>
 </table>
 
 
@@ -34,7 +34,7 @@
 
 <p>
 	With the capability of shuttling the ion up and down, we can perform measurements of the
-	electric-field noise (see <a href="research/quantum-computing/quantum-computing.html">SQIP</a>).
+	electric-field noise (see <a href="/research/quantum-computing/quantum-computing.html">SQIP</a>).
 	We find the distance dependence of the noise to scale as d<sup>-2.6</sup> in our trap and a frequency dependence
 	which is consistent with 1/f noise. With significant evidence that we are not limited by technical
 	noise sources, our distance scaling data is consistent with a noise correlation length of about 100
@@ -46,7 +46,7 @@
 		Fig. 3. Planar (blue) and normal (red) heating rates as a function of ion-surface distance for a
 		fixed secular frequency of 1 MHz. Power-law fits are overlayed for reference.
 </caption>
-<TR><TD><img src="research/quantum-electronics/DistanceScaling.png" alt="" align="center" height="300"></TD></TR>
+<TR><TD><img src="/research/quantum-electronics/DistanceScaling.png" alt="" align="center" height="300"></TD></TR>
 </table>
 
 <h1>Quantum information transfer through a classical conductor</h1>
@@ -67,7 +67,7 @@
 		which are connected via an electrically floating wire. Out-of-phase RF is applied to the green electrodes,
 		and DC is applied to the blue electrodes.
 </caption>
-<TR><TD><img src="research/quantum-electronics/DoubleTrap.png" alt="" align="center" height="300"></TD></TR>
+<TR><TD><img src="/research/quantum-electronics/DoubleTrap.png" alt="" align="center" height="300"></TD></TR>
 </table>
 
 <p>

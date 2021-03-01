@@ -25,8 +25,8 @@ the quantum rotor. For more information see
 	The diameter of this ion ring is 90 &mu;m.		
 </caption>
 <TR><TD>
-	<img src="research/ring-trap/ringtrap_image.png" alt="" align="center" height="300" />
-	<img src="research/ring-trap/8_ion_delocalization.gif" alt="" align="center" height="300" />
+	<img src="/research/ring-trap/ringtrap_image.png" alt="" align="center" height="300" />
+	<img src="/research/ring-trap/8_ion_delocalization.gif" alt="" align="center" height="300" />
 </TD></TR>
 </table>
 
@@ -67,7 +67,7 @@ states, thus directly interfering them with each other.
 	demonstrating that they are indeed indistinguishable.
 </caption>
 <TR><TD>
-	<img src="research/ring-trap/exchange_cartoon.png" alt="" align="center" height="100" />
+	<img src="/research/ring-trap/exchange_cartoon.png" alt="" align="center" height="100" />
 </TD></TR>
 </table>
 

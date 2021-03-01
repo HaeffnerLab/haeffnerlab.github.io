@@ -2,9 +2,9 @@
 <h1>High Optical Access Trap</h1>
 
 <p align="center">
-	<img src="research/staq/SETUP1.png" alt="Setup" width="676.5" height=" 201">
+	<img src="/research/staq/SETUP1.png" alt="Setup" width="676.5" height=" 201">
 	<br>
-	<img src="research/staq/SETUP2.png" alt="Setup" width="490.5" height="166.5">
+	<img src="/research/staq/SETUP2.png" alt="Setup" width="490.5" height="166.5">
 </p>
 
 <p>
@@ -21,14 +21,14 @@
 Entangling long chains of ions using pairwise M&oslash;lmer-S&oslash;rensen gates on distant ions and ion shuttling.
 </p>
 <p align="center">
-	<img src="research/staq/STAQ1.png" alt="Staq1" width="398.3" height="168.3">
+	<img src="/research/staq/STAQ1.png" alt="Staq1" width="398.3" height="168.3">
 </p>
 
 <p>
 	Splitting and shuttling entangled states:
 </p>
 <p align="center">
-	<img src="research/staq/STAQ2.png" alt="Setup" width="370.8" height="141.7">
+	<img src="/research/staq/STAQ2.png" alt="Setup" width="370.8" height="141.7">
 </p>
 
 <p>
@@ -47,13 +47,13 @@ Entangling long chains of ions using pairwise M&oslash;lmer-S&oslash;rensen gate
 	Fast B-field fluctuation compensation by measuring spectator qubits and adjusting laser frequency:
 </p>
 <p align="center">
-	<img src="research/staq/MURI1.png" alt="Setup" width="360.75" height="185.25">
+	<img src="/research/staq/MURI1.png" alt="Setup" width="360.75" height="185.25">
 </p>
 
 <p>
 	Sympathetic cooling on spectator ions' motional modes to cool logical qubits:
 </p>
 <p align="center">
-	<img src="research/staq/MURI2.png" alt="Setup" width="220.7" height="155.3">
+	<img src="/research/staq/MURI2.png" alt="Setup" width="220.7" height="155.3">
 </p>
 </div>

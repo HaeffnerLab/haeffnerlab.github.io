@@ -16,7 +16,7 @@ We have a limited number of undergraduate research positions available! If you a
 -->
 
 <div align="center">
-	<IMG src="members/pics/group_photo_2019_lowres.jpg" align="middle" width="600px">
+	<IMG src="/members/pics/group_photo_2019_lowres.jpg" align="middle" width="600px">
 </div>
 
 <p>

@@ -14,10 +14,10 @@ Parking on campus is very limited and on-street parking around campus is usually
 </p>
 <h4>Map Legend</h4>
 <p id="visitorLegend">
-	<img src="images/office.png">Hartmut's office at 301H Old LeConte Hall
+	<img src="/images/office.png">Hartmut's office at 301H Old LeConte Hall
 	<br/>
-	<img src="images/lab.png">Lab at 144 LeConte Hall
+	<img src="/images/lab.png">Lab at 144 LeConte Hall
 	<br/>
-	<img src="images/campanile.png">Campanile (Sather tower), easy-to-spot landmark
+	<img src="/images/campanile.png">Campanile (Sather tower), easy-to-spot landmark
 </p>
 </div>
