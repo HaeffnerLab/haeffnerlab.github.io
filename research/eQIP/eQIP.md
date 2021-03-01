@@ -1,5 +1,3 @@
-{% include head.html %}
-
 <div id="mainText">
 <h1>Electron Quantum Information Processing</h1>
 <img src="research/eQIP/Trap.png" alt="Setup" width="655.5" height="350.25">
@@ -30,5 +28,3 @@ superconducting circuits in the long run.</p>
 <a href= "http://iopscience.iop.org/1367-2630/15/7/073017/" onclick="window.open(this.href); return false;">New J. Phys. 15, 073017 (2013)</a>, <a href= "http://arxiv.org/abs/1304.4710" onclick="window.open(this.href); return false;">arXiv:1304.4710</a>.<br>
 
 </div>
-
-{% include foot.html %}

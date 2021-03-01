@@ -1,5 +1,3 @@
-{% include head.html %}
-
 <div id="mainText">
 <h1>High Optical Access Trap</h1>
 
@@ -59,5 +57,3 @@ Entangling long chains of ions using pairwise M&oslash;lmer-S&oslash;rensen gate
 	<img src="research/staq/MURI2.png" alt="Setup" width="220.7" height="155.3">
 </p>
 </div>
-
-{% include foot.html %}

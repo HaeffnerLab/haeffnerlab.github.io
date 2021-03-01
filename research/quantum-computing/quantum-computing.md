@@ -1,5 +1,3 @@
-{% include head.html %}
-
 <div id="mainText">
 <h1>Surface treatment of ion traps</h1>
 <p>
@@ -18,5 +16,3 @@ Argon cleaning of a planar trap.
 <TR><TD><img src="research/quantum-computing/argon_cleaning.jpg" alt="" align="center" height="400" ></TD></TR>
 </table>
 </div>
-
-{% include foot.html %}

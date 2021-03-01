@@ -1,6 +1,3 @@
-{% include head.html %}
-{% include e-mail-script.html %}
-
 <h1>Group Members</h1>
 
 <div id="group-members">
@@ -414,5 +411,3 @@
     </tbody>
   </table>
 </div>
-
-{% include foot.html %}

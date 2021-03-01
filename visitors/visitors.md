@@ -1,5 +1,3 @@
-{% include head.html %}
-
 <div id="mainText">
 <h1>Visitor Information</h1>
 <p>
@@ -23,5 +21,3 @@ Parking on campus is very limited and on-street parking around campus is usually
 	<img src="images/campanile.png">Campanile (Sather tower), easy-to-spot landmark
 </p>
 </div>
-
-{% include foot.html %}

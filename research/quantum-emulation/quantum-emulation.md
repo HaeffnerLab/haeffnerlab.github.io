@@ -1,5 +1,3 @@
-{% include head.html %}
-
 <div id="mainText">
 
 <h1>Quantum simulation</h1>
@@ -126,5 +124,3 @@ More information is available at:
 </p>
 
 </div>
-
-{% include foot.html %}

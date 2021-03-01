@@ -1,5 +1,3 @@
-{% include head.html %}
-
 <div id="mainText">
 <div align="center">
 	<h1>Welcome to the Ion Trap Group at UC Berkeley</h1>
@@ -39,11 +37,3 @@ We have a limited number of undergraduate research positions available! If you a
 </div>
 
 </div>
-
-<!-- <div id="rightLogos">
-	<a href="http://berkeley.edu" target="_blank"><IMG src="images/UCB-logo.gif" width="100" border="0"></a>
-	<a href="http://ciqc.berkeley.edu/" target="_blank"><IMG src="images/CIQC-logo.png" width="300" border="0" ></a>
-	<a href="http://nano.berkeley.edu/welcome/welcome.html" target="_blank"><IMG src="images/BNNI-logo.jpg" width="100" border="0"></a>
-</div> -->
-
-{% include foot.html %}

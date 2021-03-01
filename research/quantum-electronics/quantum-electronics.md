@@ -1,5 +1,3 @@
-{% include head.html %}
-
 <div id="mainText">
 <!--enter your body content here-->
 <h1>Ion trap with tunable ion height</h1>
@@ -78,5 +76,3 @@
 
 <br>
 </div>
-
-{% include foot.html %}

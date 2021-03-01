@@ -1,5 +1,3 @@
-{% include head.html %}
-
 <div id="mainText">
 <!--enter your body content here-->
 <h1>Ion Ring Trap</h1>
@@ -16,7 +14,7 @@ the quantum rotor. For more information see
 <a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.053001" target="_blank">PRL 118, 053001 (2017)</a>.
 </p>
 
-<table class="image"; align="center"><caption class="caption" align="bottom" style="caption-side: bottom">
+<table class="image" align="center"><caption class="caption" align="bottom" style="caption-side: bottom">
 	<i>Left:</i> Optical image of the ring trap, showing its electrode structure. Radio-frequency voltage is applied
 	to the three inner circular electrodes to create the trapping potential. The eight surrounding electrodes are
 	used to compensate for stray electric fields using DC voltages.
@@ -60,7 +58,7 @@ rotor to exchange a single pair of <sup>40</sup>Ca<sup>+</sup> ions by using a s
 states, thus directly interfering them with each other.
 </p>
 
-<table class="image"; align="center"><caption class="caption" align="bottom" style="caption-side: bottom">
+<table class="image" align="center"><caption class="caption" align="bottom" style="caption-side: bottom">
 	Cartoon of the exchange procedure. The quantum rotor consists of two ions, na&iuml;vely distinguished by their
 	positions and labeled 1 and 2. The rotor is placed into a superposition of two different rotational states,
 	such that in one arm of the superposition, the pair of ions is rotating (here shown counterclockwise, in red)
@@ -75,5 +73,3 @@ states, thus directly interfering them with each other.
 
 <br>
 </div>
-
-{% include foot.html %}
