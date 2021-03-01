@@ -1,0 +1,14 @@
+Raw data as obtained after preselection (see the paper).
+For N={4,5} no preselection is done. 
+The first column indicates the measurement basis. To resolve
+it, leave the decimal systeme and go the the 3-system.
+Then each digit corresponds to an ion, where the
+value of the digit codes the rotation as follows:
+0=no rotation
+1=sigma_x
+2=sigma_y
+
+The other columns are the probabilities for the different
+quantum states: We start with DDDDD, DDDDS, DDDSD, DDDSS, .... SSSSS.
+
+
