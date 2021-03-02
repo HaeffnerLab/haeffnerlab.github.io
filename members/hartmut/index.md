@@ -1,4 +1,9 @@
-<H3>Hartmut H&auml;ffner</H3>
+---
+title: Hartmut Häffner
+---
 
-<li><a href="/members/hartmut/CV-haeffner.pdf">CV</a> <br></li>
-<li><a href="/members/hartmut/publications-haeffner.pdf">Publications</a> <br></li>
+# {{ page.title }}
+
+[CV](/members/hartmut/CV-haeffner.pdf)
+
+[Publications](/members/hartmut/publications-haeffner.pdf)

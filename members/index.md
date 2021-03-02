@@ -1,4 +1,8 @@
-<h1>Group Members</h1>
+---
+title: Group Members
+---
+
+# {{ page.title }}
 
 <div id="group-members">
   <table>

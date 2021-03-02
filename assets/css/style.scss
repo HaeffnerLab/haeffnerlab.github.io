@@ -19,9 +19,19 @@ h1, h2, h3, h4, h5, h6, #masthead {
 }
 
 #mainBody {
+	text-align: justify;
+	margin: 0px 50px 50px 50px;
+	width: 750px;
+}
+
+#mainBody h1, #mainBody h2, #mainBody h3, #mainBody h4, #mainBody h5, #mainBody h6 {
 	text-align: center;
-	margin: 10px;
-	width: 850px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #box {
@@ -40,20 +50,6 @@ h1, h2, h3, h4, h5, h6, #masthead {
 	vertical-align: middle;
 }
 
-#mainText {
-	margin: auto;
-	width: 100%;
-	text-align: justify;
-	height: auto;
-	max-width: 650px;
-}
-
-#TableCentered {
-	float: center;
-	width: 300px;
-	margin-left: 2px;
-}
-
 #contactInfo {
   text-align: center;
 }
@@ -62,16 +58,6 @@ h1, h2, h3, h4, h5, h6, #masthead {
   display: inline-block;
   width: auto;
   text-align: left;
-}
-
-#rightLogos {
-	margin-top: 20px;
-}
-
-#rightLogos a {
-	display: inline-block;
-	padding-right: 35px;
-	vertical-align: middle;
 }
 
 .caption {
@@ -109,24 +95,28 @@ ul {
 	list-style: none;
 }
 
-.stackheading {
-	position: absolute;
-	text-align: center;
-	left: 20%;
-	width: 80%;
-	top: 50%;
-	margin-top: -1.5em;
-	height: 3em;
-}
-
 #visitorLegend {
-	display: inline-block;
-	margin: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
 	text-align: left;
 }
 
 #visitorLegend img {
 	margin-right: 10px;
+}
+
+#publications ~ h2 {
+  text-align: left;
+}
+
+#publications ~ h2 ~ p {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+  text-align: left;
 }
 
 #group-members {
@@ -135,6 +125,10 @@ ul {
 
 #group-members h2 {
 	display: inline;
+}
+
+#group-members h4 {
+  text-align: left;
 }
 
 #group-members td {
