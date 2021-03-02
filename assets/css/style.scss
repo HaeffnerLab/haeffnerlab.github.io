@@ -72,8 +72,8 @@ h1, h2, h3, h4, h5, h6, #masthead {
 	display: block;
 	text-align: center;
 	font-size: smaller;
-	width: 850px;
-  max-width: 850px;
+	width: 750px;
+  max-width: 750px;
 }
 
 #foot img {
@@ -121,6 +121,8 @@ ul {
 
 #group-members {
 	text-align: left;
+  margin-left: -50px;
+  width: 850px;
 }
 
 #group-members h2 {
