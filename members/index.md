@@ -233,5 +233,5 @@ title: Group Members
 <br/>
 
 | <img src="/members/pics/groupphoto_2018_final.jpg" width="375px"/> |<img src="/members/pics/group_photo_2017.JPG" width="375px"/> |
-| <img src="/members/pics/group_fall2015.jpg" width="375px"/> | <img src="/members/pics/group_photo_2015.JPG" width="375px"/> |
+| <img src="/members/pics/group_fall2015.JPG" width="375px"/> | <img src="/members/pics/group_photo_2015.jpg" width="375px"/> |
 | <img src="/members/pics/group_pic_2014.jpg" width="375px"/> | <img src="/members/pics/group_picture_2013_IMG_6170_lower_res.JPG" width="375px"/> |
