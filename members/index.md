@@ -7,7 +7,7 @@
         <div><img src="/members/pics/hartmut.jpg" align="right" height="200px" /></div>
       </td>
       <td width="750">
-        <h2><a href="/members/hartmut/hartmut.html">Hartmut H&auml;ffner</a></h2>
+        <h2><a href="/members/hartmut/">Hartmut H&auml;ffner</a></h2>
         <script>
           emicon("edu", "berkeley", "hhaeffner");
         </script>

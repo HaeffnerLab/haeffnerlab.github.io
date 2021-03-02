@@ -14,17 +14,17 @@ Here are some of the important files:
 
 ### General website pages
 - Home page: [index.md](index.md)
-- Group members page: [members/members.md](members/members.md)
-- Publications page: [publications/publications.md](publications/publications.md)
-- Visitor information page: [visitors/visitors.md](visitors/visitors.md)
+- Group members page: [members/index.md](members/index.md)
+- Publications page: [publications/index.md](publications/index.md)
+- Visitor information page: [visitors/index.md](visitors/index.md)
 
 ### Research pages
-- CCT: [research/quantum-electronics/quantum-electronics.md](research/quantum-electronics/quantum-electronics.md)
-- Electron: [research/eQIP/eQIP.md](research/eQIP/eQIP.md)
-- Lattice: [research/quantum-emulation/quantum-emulation.md](research/quantum-emulation/quantum-emulation.md)
-- Spacetime: [research/ring-trap/ring-trap.md](research/ring-trap/ring-trap.md)
-- SQIP: [research/quantum-computing/quantum-computing.md](research/quantum-computing/quantum-computing.md)
-- STAQ: [research/staq/staq.md](research/staq/staq.md)
+- CCT: [research/quantum-electronics/index.md](research/quantum-electronics/index.md)
+- Electron: [research/eQIP/index.md](research/eQIP/index.md)
+- Lattice: [research/quantum-emulation/index.md](research/quantum-emulation/index.md)
+- Spacetime: [research/ring-trap/index.md](research/ring-trap/index.md)
+- SQIP: [research/quantum-computing/index.md](research/quantum-computing/index.md)
+- STAQ: [research/staq/index.md](research/staq/index.md)
 
 ### Details
 
