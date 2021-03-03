@@ -47,7 +47,7 @@ operating consistently, but that it is also operating faithfully according to th
 Such techniques can be applied to subsets of a larger system to allow an experimentalist to characterize
 and diagnose the behavior in a scalable way.
 
-More information is available at: [arXiv:2003.04500](https://arxiv.org/abs/2003.04500).
+More information is available at: [npj Quantum Inf. 7, 46 (2021)](https://www.nature.com/articles/s41534-021-00380-8).
 
 <table class="image" align="center">
 <caption class="caption" align="bottom" style="caption-side: bottom">
