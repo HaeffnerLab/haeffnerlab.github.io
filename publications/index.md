@@ -30,7 +30,7 @@ C. Matthiesen, Q. Yu, J. Guo, A. M. Alonso, H. Häffner
 See also Physics Focus story by Philip Ball:  
 _"New Electron Trap Might Help Quantum Computers"_, [Physics 14, 16](https://physics.aps.org/articles/v14/16).  
 
-**"Benchmarking protocols for analog quantum simulators"**  
+**"Practical verification protocols for analog quantum simulators"**  
 R. Shaffer, E. Megidish, J. Broz, W.-T. Chen, H. Häffner  
 [npj Quantum Inf. 7, 46 (2021)](https://www.nature.com/articles/s41534-021-00380-8), [arXiv:2003.04500](https://arxiv.org/abs/2003.04500).  
 
