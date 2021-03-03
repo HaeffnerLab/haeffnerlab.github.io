@@ -26,7 +26,6 @@ K. R. Brown, J. Chiaverini, J. Sage, H. Häffner
 **"Trapping electrons in a room-temperature quadrupole trap"**  
 C. Matthiesen, Q. Yu, J. Guo, A. M. Alonso, H. Häffner  
 [Phys. Rev. X 11, 011019 (2021)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.011019), [arXiv:2005.06681](https://arxiv.org/abs/2005.06681).  
-
 See also Physics Focus story by Philip Ball:  
 _"New Electron Trap Might Help Quantum Computers"_, [Physics 14, 16](https://physics.aps.org/articles/v14/16).  
 
