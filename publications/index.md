@@ -32,7 +32,7 @@ _"New Electron Trap Might Help Quantum Computers"_, [Physics 14, 16](https://phy
 
 **"Benchmarking protocols for analog quantum simulators"**  
 R. Shaffer, E. Megidish, J. Broz, W.-T. Chen, H. Häffner  
-[arXiv:2003.04500](https://arxiv.org/abs/2003.04500).  
+[npj Quantum Inf. 7, 46 (2021)](https://www.nature.com/articles/s41534-021-00380-8), [arXiv:2003.04500](https://arxiv.org/abs/2003.04500).  
 
 **"Distance scaling and polarization of electric-field noise in a surface ion trap"**  
 D. An, C. Matthiesen, E. Urban, H. Häffner  
