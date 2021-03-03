@@ -21,7 +21,7 @@ structures south of campus. See also the
 
 #### Map Legend
 
-<p id="visitorLegend">
+<p id="visitor-legend">
 	<img src="/images/office.png">Hartmut's office at 301H Old LeConte Hall
 	<br/>
 	<img src="/images/lab.png">Lab at 144 LeConte Hall

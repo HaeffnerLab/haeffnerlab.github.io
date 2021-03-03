@@ -4,7 +4,7 @@ title: Group Members
 
 # {{ page.title }}
 
-<div id="group-members">
+<div id="members-grid">
   <table>
     <tr>
       {% include member.html

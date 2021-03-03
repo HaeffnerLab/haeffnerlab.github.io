@@ -18,13 +18,13 @@ h1, h2, h3, h4, h5, h6, #masthead {
 	font-family: Oswald, sans-serif;
 }
 
-#mainBody {
+#main-body {
 	text-align: justify;
 	margin: 0px 50px 50px 50px;
 	width: 750px;
 }
 
-#mainBody h1, #mainBody h2, #mainBody h3, #mainBody h4, #mainBody h5, #mainBody h6 {
+#main-body h1, #main-body h2, #main-body h3, #main-body h4, #main-body h5, #main-body h6 {
 	text-align: center;
 }
 
@@ -45,16 +45,16 @@ h1, h2, h3, h4, h5, h6, #masthead {
 	margin: 5px;
 }
 
-#mastheadLogo {
+#masthead-logo {
 	width: 120px;
 	vertical-align: middle;
 }
 
-#contactInfo {
+#contact-info {
   text-align: center;
 }
 
-#contactInfo p {
+#contact-info p {
   display: inline-block;
   width: auto;
   text-align: left;
@@ -95,7 +95,7 @@ ul {
 	list-style: none;
 }
 
-#visitorLegend {
+#visitor-legend {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -103,7 +103,7 @@ ul {
 	text-align: left;
 }
 
-#visitorLegend img {
+#visitor-legend img {
 	margin-right: 10px;
 }
 
@@ -119,45 +119,50 @@ ul {
   text-align: left;
 }
 
-#group-members {
+#members-grid {
 	text-align: left;
   margin-left: -50px;
   width: 850px;
 }
 
-#group-members h2 {
+#members-grid h2 {
 	display: inline;
 }
 
-#group-members h4 {
+#members-grid h4 {
   text-align: left;
 }
 
-#group-members td {
+#members-grid td {
 	vertical-align: top;
 	padding-bottom: 20px;
 	padding-left: 3px;
 }
 
-#group-members img {
+#members-grid img {
   border-radius: 5px;
 	margin-left: 5px;
 	margin-right: 5px;
 }
 
-#group-members .contact {
+#members-grid .contact {
 	margin: 0px;
 	font-weight: normal;
 }
 
-#group-members .bio {
+#members-grid .bio {
 	font-size: 80%;
 	text-align: justify;
 }
 
-#group-members .mail-icon {
+#members-grid .mail-icon {
 	vertical-align: text-bottom;
 	margin-left: 5px;
+}
+
+#group-alumni ~ table td {
+  text-align: left;
+  padding: 5px;
 }
 
 .row {

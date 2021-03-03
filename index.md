@@ -22,7 +22,7 @@ We have a limited number of undergraduate research positions available! If you a
 	<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
-<div id="contactInfo">
+<div id="contact-info">
 	<p>
 		Mailing address:<br>
 		&nbsp;&nbsp;Department of Physics, University of California<br>
