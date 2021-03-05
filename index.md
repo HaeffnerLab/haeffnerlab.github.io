@@ -13,7 +13,7 @@ research tab for more information about specific projects.
 We have a limited number of undergraduate research positions available! If you are interested, please send your CV and transcript to Hartmut Haeffner (hhaeffner@berkeley.edu).
 -->
 
-<img src="/members/pics/group_photo_2019_lowres.jpg" width="600px" class="center">
+<img src="/members/pics/group_photo_2019_lowres.jpg" width="600px" class="center" alt="Group photo 2019">
 
 <div align="center">
 	<a class="twitter-timeline" data-width="650" data-height="1000" data-dnt="true" data-theme="light" href="https://twitter.com/Berkeley_ions?ref_src=twsrc%5Etfw">

@@ -20,14 +20,14 @@ and potential applications for scalable quantum computers with surface ion traps
 	height of z = 175 &mu;m, with electrode geometry shown for reference.
 	(c) Side view of rf potentials.
 </caption>
-<TR><TD><img src="/research/quantum-electronics/SingleTrap.jpeg" alt="" height="200"></TD></TR>
+<TR><TD><img src="/research/quantum-electronics/SingleTrap.jpeg" alt="Trap layout and potentials" height="200"></TD></TR>
 </table>
 	
 <table class="image" align="center">
 <caption class="caption" align="bottom" style="caption-side: bottom">
 	Fig. 2. Simulated shuttling of the ion perpendicular to the trap surface.
 </caption>
-<TR><TD><img src="/research/quantum-electronics/potential_lines.gif" alt="" height="350"></TD></TR>
+<TR><TD><img src="/research/quantum-electronics/potential_lines.gif" alt="Potential during ion shuttling" height="350"></TD></TR>
 </table>
 
 ## Electric-field noise vs. ion height
@@ -44,7 +44,7 @@ noise sources, our distance scaling data is consistent with a noise correlation 
 		Fig. 3. Planar (blue) and normal (red) heating rates as a function of ion-surface distance for a
 		fixed secular frequency of 1 MHz. Power-law fits are overlayed for reference.
 	</caption>
-	<TR><TD><img src="/research/quantum-electronics/DistanceScaling.png" alt="" height="300"></TD></TR>
+	<TR><TD><img src="/research/quantum-electronics/DistanceScaling.png" alt="Heating rate vs. distance" height="300"></TD></TR>
 </table>
 
 ## Quantum information transfer through a classical conductor
@@ -63,7 +63,7 @@ e.g. a system of Josephson junctions.
 	which are connected via an electrically floating wire. Out-of-phase RF is applied to the green electrodes,
 	and DC is applied to the blue electrodes.
 </caption>
-<TR><TD><img src="/research/quantum-electronics/DoubleTrap.png" alt="" height="300"></TD></TR>
+<TR><TD><img src="/research/quantum-electronics/DoubleTrap.png" alt="Double trap" height="300"></TD></TR>
 </table>
 
 This project is supported by AFOSR project "Prototype solid state quantum interface for trapped ions".

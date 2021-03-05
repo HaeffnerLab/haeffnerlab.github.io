@@ -1,6 +1,6 @@
 <td width="112">
     {% if include.image != "" %}
-        <img src="{{ include.image }}" align="right" height="200px" />
+        <img src="{{ include.image }}" align="right" height="200px" alt="{{ include.name }}" />
     {% endif %}
 </td>
 {% if include.full_row %}
@@ -12,10 +12,6 @@
     <script>
         emicon("{{ include.email_suffix }}", "{{ include.email_domain }}", "{{ include.email_name }}");
     </script>
-    <noscript>
-        <a href="./noscript_mail.html">
-        <img src="/images/email.gif" alt="mail" border="0" height="26" width="26" /></a>
-    </noscript>
     <h4 class="contact">{{ include.title }}</h4>
     <p class="bio">{{ include.bio }}</p>
 </td>

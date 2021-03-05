@@ -4,7 +4,7 @@ title: Electron Quantum Information Processing
 
 # {{ page.title }}
 
-<img src="/research/eQIP/Trap.png" alt="Setup" width="655.5" height="350.25" class="center" />
+<img src="/research/eQIP/Trap.png" alt="Electron trap" width="655.5" height="350.25" class="center" />
 
 Trapped ions are currently one of the most promising candidates for
 building quantum computers. Building large-scale devices with trapped

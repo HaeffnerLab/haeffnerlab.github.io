@@ -16,5 +16,5 @@ we combine an ion trap with variable temperature together with surface cleaning 
 <table class="image" align="center"><caption class="caption" align="bottom" style="caption-side: bottom">
 Argon cleaning of a planar trap.
 </caption>
-<TR><TD><img src="/research/quantum-computing/argon_cleaning.jpg" alt="" class="center" height="400" ></TD></TR>
+<TR><TD><img src="/research/quantum-computing/argon_cleaning.jpg" alt="Argon cleaning of a planar trap" class="center" height="400" ></TD></TR>
 </table>

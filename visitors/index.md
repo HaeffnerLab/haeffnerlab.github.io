@@ -22,9 +22,9 @@ structures south of campus. See also the
 #### Map Legend
 
 <p id="visitor-legend">
-	<img src="/images/office.png">Hartmut's office at 301H Old LeConte Hall
+	<img src="/images/office.png" alt="Map icon for Hartmut's office">Hartmut's office at 301H Old LeConte Hall
 	<br/>
-	<img src="/images/lab.png">Lab at 144 LeConte Hall
+	<img src="/images/lab.png" alt="Map icon for lab">Lab at 144 LeConte Hall
 	<br/>
-	<img src="/images/campanile.png">Campanile (Sather tower), easy-to-spot landmark
+	<img src="/images/campanile.png" alt="Map icon for Campanile">Campanile (Sather tower), easy-to-spot landmark
 </p>
