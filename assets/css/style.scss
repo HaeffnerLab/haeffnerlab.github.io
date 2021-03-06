@@ -266,7 +266,8 @@ ul {
   top: 19px;
 }
 #cssmenu > ul > li.has-sub:hover > a,
-#cssmenu > ul > li.has-sub > a:focus {
+#cssmenu > ul > li.has-sub > a:focus,
+#cssmenu > ul > li.has-sub:focus-within {
   padding-bottom: 14px;
   z-index: 999;
   border-color: #3f3f3f;
@@ -282,7 +283,8 @@ ul {
 }
 #cssmenu > ul > li.has-sub > a:hover,
 #cssmenu > ul > li.has-sub > a:focus,
-#cssmenu > ul > li.has-sub:hover > a {
+#cssmenu > ul > li.has-sub:hover > a,
+#cssmenu > ul > li.has-sub:focus-within {
   background: #3f3f3f;
   border-color: #3f3f3f;
 }
