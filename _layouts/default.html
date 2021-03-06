@@ -11,14 +11,14 @@
     {% include e-mail-script.html %}
   </head>
   <body>
-    <div id="masthead">
+    <div role="banner" id="masthead">
         <img id="masthead-logo" src="/images/logo.png" alt="Berkeley Ions logo" />
         <span id="mastheadTitle">Quantum Information with Trapped Ions</span>
     </div>
     {% include menu.html %}
-    <div id="main-body">
+    <div role="main" id="main-body">
         {{ content }}
-        {% include foot.html %}
     </div>
+    {% include foot.html %}
   </body>
 </html>

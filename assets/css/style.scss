@@ -9,7 +9,7 @@ body {
 	margin: auto;
 	color: #000000;
 	background-color: #ffffff;
-	font-family: Open Sans, sans-serif;
+	font-family: "Open Sans", sans-serif;
 	width: 850px;
 	text-align: center;
 }
@@ -67,8 +67,7 @@ h1, h2, h3, h4, h5, h6, #masthead {
 }
 
 #foot {
-	margin-top: 30px;
-	margin-bottom: 30px;
+	margin: 0px 50px 50px 50px;
 	display: block;
 	text-align: center;
 	font-size: smaller;
@@ -207,7 +206,6 @@ ul {
 #cssmenu > ul > li {
   list-style: inside none;
   float: left;
-  display: inline-block;
   position: relative;
   margin: 0;
   padding: 0;
@@ -267,29 +265,36 @@ ul {
 #cssmenu > ul > li.has-sub:hover > a:before {
   top: 19px;
 }
-#cssmenu > ul > li.has-sub:hover > a {
+#cssmenu > ul > li.has-sub:hover > a,
+#cssmenu > ul > li.has-sub > a:focus {
   padding-bottom: 14px;
   z-index: 999;
   border-color: #3f3f3f;
 }
 #cssmenu ul li.has-sub:hover > ul,
-#cssmenu ul li.has-sub:hover > div {
-  display: block;
+#cssmenu ul li.has-sub:hover > div,
+#cssmenu ul li.has-sub > a:focus ~ ul,
+#cssmenu ul li.has-sub > a:focus ~ div,
+#cssmenu ul li.has-sub > ul:focus-within,
+#cssmenu ul li.has-sub > div:focus-within  {
+  opacity: 1;
+  z-index: 999;
 }
 #cssmenu > ul > li.has-sub > a:hover,
+#cssmenu > ul > li.has-sub > a:focus,
 #cssmenu > ul > li.has-sub:hover > a {
   background: #3f3f3f;
   border-color: #3f3f3f;
 }
 #cssmenu ul li > ul,
 #cssmenu ul li > div {
-  display: none;
+  opacity: 0;
   width: auto;
   position: absolute;
   top: 38px;
   background: #3f3f3f;
   border-radius: 0 0 5px 5px;
-  z-index: 999;
+  z-index: -999;
   padding: 10px 0;
 }
 #cssmenu ul li > ul {
@@ -324,7 +329,9 @@ ul {
 }
 #cssmenu,
 #cssmenu ul ul > li:hover > a,
-#cssmenu ul ul li a:hover {
+#cssmenu ul ul > li > a:focus,
+#cssmenu ul ul li a:hover,
+#cssmenu ul ul li a:focus {
   background: #003262;
   background: -moz-linear-gradient(top, #003262 0%, #222222 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #003262), color-stop(100%, #222222));
@@ -333,11 +340,13 @@ ul {
   background: -ms-linear-gradient(top, #003262 0%, #222222 100%);
   background: linear-gradient(top, #003262 0%, #222222 100%);
 }
-#cssmenu > ul > li > a:hover {
+#cssmenu > ul > li > a:hover,
+#cssmenu > ul > li > a:focus {
   background: #080808;
   color: #ffffff;
 }
-#cssmenu ul ul a:hover {
+#cssmenu ul ul a:hover,
+#cssmenu ul ul a:focus {
   color: #ffffff;
 }
 #cssmenu > ul > li.has-sub > a:hover:before {
