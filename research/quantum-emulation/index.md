@@ -27,9 +27,16 @@ In collaboration with Birgitta Whaley (University of California, Berkeley) and M
 we aim to bring new understanding to energy transduction and transport in materials, and help improve the design of
 new photodetectors and new photovoltaic systems.
 
-More details can be found in: [Phys. Rev. X 8, 011038 (2018)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.011038).
+More details can be found in:  
+[Phys. Rev. X 8, 011038 (2018)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.011038)
 
-<img src="/research/quantum-emulation/VAET_section.jpg" width="558" alt="Vibrationally-assisted energy transfer" class="center" />
+<figure>
+	<img src="/research/quantum-emulation/VAET_section.jpg" alt="Figures related to vibrationally-assisted energy transfer experiment" />
+	<figcaption>
+		Schematic illustrations of the VAET process, the ion trap apparatus, the implementation of the experiment,
+        and the experimental energy transfer results. Figures from Phys. Rev. X 8, 011038.
+	</figcaption>
+</figure>
 
 ## Verifying an analog quantum simulator
 
@@ -47,26 +54,27 @@ operating consistently, but that it is also operating faithfully according to th
 Such techniques can be applied to subsets of a larger system to allow an experimentalist to characterize
 and diagnose the behavior in a scalable way.
 
-More information is available at: [npj Quantum Inf. 7, 46 (2021)](https://www.nature.com/articles/s41534-021-00380-8).
+More information is available at:  
+[npj Quantum Inf. 7, 46 (2021)](https://www.nature.com/articles/s41534-021-00380-8)
 
-<table class="image" align="center">
-<caption class="caption" align="bottom" style="caption-side: bottom">
-    <b>Illustration of verification protocols for analog
-    quantum simulators.</b> Various protocols yield information
-    about the accuracy of a quantum simulator by propagating
-    a state along a closed loop and verifying to what degree the
-    system returns to its original state, labeled here as |0&#10217;.
-    The state |&#968;&#10217; denotes the state of the system after applying the dynamics of Hamiltonian <i>H</i>
-    for a time &#964;, whereas the state |&#632;&#10217; denotes an arbitrary state.
-    <br/>(a) <i>Time-reversal analog verification:</i> Running an analog simulation forward in time, followed by the same analog simulation backward in time.
-    <br/>(b) <i>Multi-basis analog verification:</i> Running an analog simulation forward in time, rotating the state, performing the
-    backward simulation by an analog version in the rotated basis, and finally rotating the state back.
-    <br/>(c) <i>Randomized analog verification:</i> Running a random sequence of subsets of the Hamiltonian terms
-    (denoted as <i>H</i><sub>rand</sub>), followed by an inversion sequence of subsets of the Hamiltonian terms which has been
-    calculated to return the system approximately to a basis state.
-</caption>
-<TR><TD><img src="/research/quantum-emulation/verification-protocols.png" alt="Illustration of verification protocols for analog quantum simulators" width="500"></TD></TR>
-</table>
+<figure>
+	<img src="/research/quantum-emulation/verification-protocols.png" alt="Diagrams of verification protocols for analog quantum simulators" width="500" />
+	<figcaption>
+        <b>Illustration of verification protocols for analog
+        quantum simulators.</b> Various protocols yield information
+        about the accuracy of a quantum simulator by propagating
+        a state along a closed loop and verifying to what degree the
+        system returns to its original state, labeled here as |0&#10217;.
+        The state |&#968;&#10217; denotes the state of the system after applying the dynamics of Hamiltonian <i>H</i>
+        for a time &#964;, whereas the state |&#632;&#10217; denotes an arbitrary state.
+        <br/>(a) <i>Time-reversal analog verification:</i> Running an analog simulation forward in time, followed by the same analog simulation backward in time.
+        <br/>(b) <i>Multi-basis analog verification:</i> Running an analog simulation forward in time, rotating the state, performing the
+        backward simulation by an analog version in the rotated basis, and finally rotating the state back.
+        <br/>(c) <i>Randomized analog verification:</i> Running a random sequence of subsets of the Hamiltonian terms
+        (denoted as <i>H</i><sub>rand</sub>), followed by an inversion sequence of subsets of the Hamiltonian terms which has been
+        calculated to return the system approximately to a basis state.
+	</figcaption>
+</figure>
 
 ## Precision measurements using trapped ions
 
@@ -86,9 +94,14 @@ states may yield substantial further improvements. Our measurements improve the 
 local Lorentz invariance of the electron using calcium ions by factor of two to about 5e-19.
 
 More details can be found in:  
-[Nature 517, 592 (2015)](http://dx.doi.org/10.1038/nature14091).  
-[Nature Physics 12, 465-468 (2016)](http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3610.html).  
-[Phys. Rev. Lett. 120, 103202 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.103202).  
-[Phys. Rev. Lett. 122, 123605 (2019)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.123605).
+[Nature 517, 592 (2015)](http://dx.doi.org/10.1038/nature14091)  
+[Nature Physics 12, 465-468 (2016)](http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3610.html)  
+[Phys. Rev. Lett. 120, 103202 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.103202)  
+[Phys. Rev. Lett. 122, 123605 (2019)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.123605)
 
-<img src="/research/quantum-emulation/Lattice_section_web.jpg" width="600" alt="Experimental test of local Lorentz invariance" class="center" />
+<figure>
+    <img src="/research/quantum-emulation/Lattice_section_web.jpg" alt="Experimental test of local Lorentz invariance" width="650" />
+    <figcaption>
+        Overview of local Lorentz invariance test and results.
+    </figcaption>
+</figure>

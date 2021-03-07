@@ -1,6 +1,6 @@
 <td width="112">
     {% if include.image != "" %}
-        <img src="{{ include.image }}" align="right" height="200px" alt="{{ include.name }}" />
+        <img src="{{ include.image }}" align="right" height="200px" alt="Photo of {{ include.name }}" />
     {% endif %}
 </td>
 {% if include.full_row %}
@@ -12,6 +12,6 @@
     <script>
         emicon("{{ include.email_suffix }}", "{{ include.email_domain }}", "{{ include.email_name }}");
     </script>
-    <h4 class="contact">{{ include.title }}</h4>
+    <h3 class="contact">{{ include.title }}</h3>
     <p class="bio">{{ include.bio }}</p>
 </td>

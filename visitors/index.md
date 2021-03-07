@@ -19,7 +19,7 @@ structures south of campus. See also the
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=12NK0Y9m7jsDqGasaXk-gwNaBoJP_iVRT" width="750" height="480"></iframe>
 
-#### Map Legend
+## Map Legend
 
 <p id="visitor-legend">
 	<img src="/images/office.png" alt="Map icon for Hartmut's office">Hartmut's office at 301H Old LeConte Hall

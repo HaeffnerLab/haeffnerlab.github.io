@@ -5,7 +5,7 @@ title: Group Members
 # {{ page.title }}
 
 <div id="members-grid">
-  <table>
+  <table role="presentation">
     <tr>
       {% include member.html
           full_row=true
@@ -230,8 +230,11 @@ title: Group Members
 | Christopher Reilly | Alex Georges | Jessica Yu | Andre He | Thomas Lloyd |
 | Zhao Zhang | Nadav Drechsler | Lara Ostertag | Samuel Cui | Tim Guo |
 
-<br/>
-
-| <img src="/members/pics/groupphoto_2018_final.jpg" width="375px" alt="Group photo 2018"/> |<img src="/members/pics/group_photo_2017.JPG" width="375px" alt="Group photo 2017"/> |
-| <img src="/members/pics/group_fall2015.JPG" width="375px" alt="Group photo fall 2015"/> | <img src="/members/pics/group_photo_2015.jpg" width="375px" alt="Group photo spring 2015"/> |
-| <img src="/members/pics/group_pic_2014.jpg" width="375px" alt="Group photo 2014"/> | <img src="/members/pics/group_picture_2013_IMG_6170_lower_res.JPG" width="375px" alt="Group photo 2013"/> |
+<figure>
+  <img src="/members/pics/groupphoto_2018_final.jpg" width="325px" alt="Group photo 2018"/>
+  <img src="/members/pics/group_photo_2017.JPG" width="325px" alt="Group photo 2017"/>
+  <img src="/members/pics/group_fall2015.JPG" width="325px" alt="Group photo fall 2015"/>
+  <img src="/members/pics/group_photo_2015.jpg" width="325px" alt="Group photo spring 2015"/>
+  <img src="/members/pics/group_pic_2014.jpg" width="325px" alt="Group photo 2014"/>
+  <img src="/members/pics/group_picture_2013_IMG_6170_lower_res.JPG" width="325px" alt="Group photo 2013"/>
+</figure>

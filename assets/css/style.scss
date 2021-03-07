@@ -14,24 +14,18 @@ body {
 	text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6, #masthead {
+h1, h2, h3, h4, h5, h6, #masthead, #affiliations {
 	font-family: Oswald, sans-serif;
 }
 
 #main-body {
-	text-align: justify;
+	text-align: left;
 	margin: 0px 50px 50px 50px;
 	width: 750px;
 }
 
 #main-body h1, #main-body h2, #main-body h3, #main-body h4, #main-body h5, #main-body h6 {
 	text-align: center;
-}
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 #box {
@@ -50,6 +44,12 @@ h1, h2, h3, h4, h5, h6, #masthead {
 	vertical-align: middle;
 }
 
+#affiliations {
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+}
+
 #contact-info {
   text-align: center;
 }
@@ -60,8 +60,11 @@ h1, h2, h3, h4, h5, h6, #masthead {
   text-align: left;
 }
 
-.caption {
-	text-align: justify;
+figure {
+  text-align: center;
+}
+
+figcaption {
 	font-size: 80%;
 	width: inherit;
 }
@@ -128,7 +131,7 @@ ul {
 	display: inline;
 }
 
-#members-grid h4 {
+#members-grid h3 {
   text-align: left;
 }
 
@@ -151,7 +154,7 @@ ul {
 
 #members-grid .bio {
 	font-size: 80%;
-	text-align: justify;
+	text-align: left;
 }
 
 #members-grid .mail-icon {

@@ -4,7 +4,12 @@ title: Electron Quantum Information Processing
 
 # {{ page.title }}
 
-<img src="/research/eQIP/Trap.png" alt="Electron trap" width="655.5" height="350.25" class="center" />
+<figure>
+    <img src="/research/eQIP/Trap.png" alt="Electron trap" height="350" />
+    <figcaption>
+        Proposed schematic for electron trap.
+    </figcaption>
+</figure>
 
 Trapped ions are currently one of the most promising candidates for
 building quantum computers. Building large-scale devices with trapped
@@ -26,6 +31,5 @@ The combination of fast gate operations and long coherence times make
 electrons a very attractive system, that could rival trapped ions and
 superconducting circuits in the long run.
 
-[Phys. Rev. A 95, 012312 (2017)](http://journals.aps.org/pra/abstract/10.1103/PhysRevA.95.012312), [arXiv:1611.00130](http://arxiv.org/abs/1611.00130).  
-
-[New J. Phys. 15, 073017 (2013)](http://iopscience.iop.org/1367-2630/15/7/073017/), [arXiv:1304.4710](http://arxiv.org/abs/1304.4710).
+[Phys. Rev. A 95, 012312 (2017)](http://journals.aps.org/pra/abstract/10.1103/PhysRevA.95.012312), [arXiv:1611.00130](http://arxiv.org/abs/1611.00130)  
+[New J. Phys. 15, 073017 (2013)](http://iopscience.iop.org/1367-2630/15/7/073017/), [arXiv:1304.4710](http://arxiv.org/abs/1304.4710)  
