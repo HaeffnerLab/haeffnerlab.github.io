@@ -94,8 +94,8 @@ states may yield substantial further improvements. Our measurements improve the 
 local Lorentz invariance of the electron using calcium ions by factor of two to about 5e-19.
 
 More details can be found in:  
-[Nature 517, 592 (2015)](http://dx.doi.org/10.1038/nature14091)  
-[Nature Physics 12, 465-468 (2016)](http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3610.html)  
+[Nature 517, 592 (2015)](https://dx.doi.org/10.1038/nature14091)  
+[Nature Physics 12, 465-468 (2016)](https://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3610.html)  
 [Phys. Rev. Lett. 120, 103202 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.103202)  
 [Phys. Rev. Lett. 122, 123605 (2019)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.123605)
 

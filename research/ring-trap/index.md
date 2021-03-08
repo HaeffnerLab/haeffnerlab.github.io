@@ -14,7 +14,7 @@ boundary conditions, in which one can study effects such as quantum friction and
 transitions of a one-dimensional periodic crystal. The rotational symmetry of this system also
 makes it a great platform to study and control one of the most conceptually simple quantum systems:
 the quantum rotor. For more information see
-[PRL 118, 053001 (2017)](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.053001).
+[PRL 118, 053001 (2017)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.053001).
 
 <figure>
 	<img src="/research/ring-trap/ringtrap_image.png" alt="Ring trap electrode layout" height="300" />

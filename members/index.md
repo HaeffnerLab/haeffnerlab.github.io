@@ -209,7 +209,7 @@ title: Group Members
 | Crystal Noel | *Post-Doc at University of Maryland, College Park* |
 | Erik Urban | *Electrical Engineer at Exponent* |
 | Alex Chuang | *NSF Fellow, PhD Student at Massachusetts Institute of Technology* |
-| Boerge Hemmerling | *Assistant Professor of Physics, UC Riverside [http://molecules.ucr.edu](http://molecules.ucr.edu)* |
+| Boerge Hemmerling | *Assistant Professor of Physics, UC Riverside [https://molecules.ucr.edu](https://molecules.ucr.edu)* |
 | Soenke Moeller | *Senior Research Engineer at Cutera* |
 | Dylan Gorman | *Data Scientist at Credit Karma [http://www.djgorman.com/](http://www.djgorman.com/)* |
 | Philipp Schindler | *Staff Scientist at Innsbruck University, Austria* |
