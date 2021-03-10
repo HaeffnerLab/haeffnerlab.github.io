@@ -31,7 +31,7 @@ More details can be found in:
 [Phys. Rev. X 8, 011038 (2018)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.011038)
 
 <figure>
-	<img src="/research/quantum-emulation/VAET_section.jpg" alt="Figures related to vibrationally-assisted energy transfer experiment" />
+	<img src="/research/quantum-simulation/VAET_section.jpg" alt="Figures related to vibrationally-assisted energy transfer experiment" />
 	<figcaption>
 		Schematic illustrations of the VAET process, the ion trap apparatus, the implementation of the experiment,
         and the experimental energy transfer results. Figures from Phys. Rev. X 8, 011038.
@@ -58,7 +58,7 @@ More information is available at:
 [npj Quantum Inf. 7, 46 (2021)](https://www.nature.com/articles/s41534-021-00380-8)
 
 <figure>
-	<img src="/research/quantum-emulation/verification-protocols.png" alt="Diagrams of verification protocols for analog quantum simulators" width="500" />
+	<img src="/research/quantum-simulation/verification-protocols.png" alt="Diagrams of verification protocols for analog quantum simulators" width="500" />
 	<figcaption>
         <b>Illustration of verification protocols for analog
         quantum simulators.</b> Various protocols yield information
@@ -100,7 +100,7 @@ More details can be found in:
 [Phys. Rev. Lett. 122, 123605 (2019)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.123605)
 
 <figure>
-    <img src="/research/quantum-emulation/Lattice_section_web.jpg" alt="Experimental test of local Lorentz invariance" width="650" />
+    <img src="/research/quantum-simulation/Lattice_section_web.jpg" alt="Experimental test of local Lorentz invariance" width="650" />
     <figcaption>
         Overview of local Lorentz invariance test and results.
     </figcaption>

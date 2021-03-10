@@ -33,7 +33,7 @@ and potential applications for scalable quantum computers with surface ion traps
 ## Electric-field noise vs. ion height
 
 With the capability of shuttling the ion up and down, we can perform measurements of the
-electric-field noise (see [SQIP](/research/quantum-computing/)).
+electric-field noise (see [SQIP](/research/surface-treatment/)).
 We find the distance dependence of the noise to scale as d<sup>-2.6</sup> in our trap and a frequency dependence
 which is consistent with 1/f noise. With significant evidence that we are not limited by technical
 noise sources, our distance scaling data is consistent with a noise correlation length of about 100

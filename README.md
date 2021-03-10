@@ -20,10 +20,10 @@ Here are some of the important files:
 
 ### Research pages
 - CCT: [research/quantum-electronics/index.md](research/quantum-electronics/index.md)
-- Electron: [research/eQIP/index.md](research/eQIP/index.md)
-- Lattice: [research/quantum-emulation/index.md](research/quantum-emulation/index.md)
+- Electron: [research/electron-trap/index.md](research/electron-trap/index.md)
+- Lattice: [research/quantum-simulation/index.md](research/quantum-simulation/index.md)
 - Spacetime: [research/ring-trap/index.md](research/ring-trap/index.md)
-- SQIP: [research/quantum-computing/index.md](research/quantum-computing/index.md)
+- SQIP: [research/surface-treatment/index.md](research/surface-treatment/index.md)
 - STAQ: [research/staq/index.md](research/staq/index.md)
 
 ### Details

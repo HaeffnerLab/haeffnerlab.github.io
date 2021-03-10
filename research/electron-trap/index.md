@@ -5,7 +5,7 @@ title: Electron Quantum Information Processing
 # {{ page.title }}
 
 <figure>
-    <img src="/research/eQIP/Trap.png" alt="Electron trap" height="350" />
+    <img src="/research/electron-trap/Trap.png" alt="Electron trap" height="350" />
     <figcaption>
         Proposed schematic for electron trap.
     </figcaption>

@@ -14,7 +14,7 @@ interferes with the most popular quantum gates for trapped ions. In order to att
 we combine an ion trap with variable temperature together with surface cleaning and analyzation tools.
 
 <figure>
-    <img src="/research/quantum-computing/argon_cleaning.jpg" alt="Photo of argon cleaning process" height="400" />
+    <img src="/research/surface-treatment/argon_cleaning.jpg" alt="Photo of argon cleaning process" height="400" />
     <figcaption>
         Argon cleaning of a planar trap.
     </figcaption>
