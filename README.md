@@ -1,8 +1,10 @@
-# Haeffner Lab group website
+# Haeffner Lab group website ([https://ions.berkeley.edu](https://ions.berkeley.edu))
+
 This repo contains the Haeffner Lab group website.
 
 To update the website, simply commit your changes to the appropriate file.
-The changes will be automatically deployed to the live website, typically within 5-10 minutes.
+The changes will be automatically deployed to the live website
+at [https://ions.berkeley.edu](https://ions.berkeley.edu), typically within 5-10 minutes.
 
 Here are some of the important files:
 
