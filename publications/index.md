@@ -11,6 +11,10 @@ Jump to:
 
 ## Journal Papers
 
+**"Changes in electric-field noise due to thermal transformation of a surface ion trap"**  
+M. Berlin-Udi, C. Matthiesen, P.N.T. Lloyd, A. Alonso, C. Noel, C. Orme, C.-E. Kim, V. Lordi, H. Häffner  
+[arXiv:2103.04482](https://arxiv.org/abs/2103.04482).
+
 **"Stochastic search for approximate compilation of unitaries"**  
 R. Shaffer  
 [arXiv:2101.04474](https://arxiv.org/abs/2101.04474).  
