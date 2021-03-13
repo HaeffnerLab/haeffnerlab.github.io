@@ -206,15 +206,15 @@ title: Group Members
 | Eli Megidish | *Physicist at Atom Computing* |
 | Clemens Matthiesen | *Senior Scientist at Oxford Ionics* |
 | Maya Berlin-Udi | *Process Engineer at DiCon Fiberoptics* |
-| Crystal Noel | *Post-Doc at University of Maryland, College Park* |
+| Crystal Noel | *Assistant Professor of Physics, Duke University* |
 | Erik Urban | *Electrical Engineer at Exponent* |
 | Alex Chuang | *NSF Fellow, PhD Student at Massachusetts Institute of Technology* |
 | Boerge Hemmerling | *Assistant Professor of Physics, UC Riverside [https://molecules.ucr.edu](https://molecules.ucr.edu)* |
 | Soenke Moeller | *Senior Research Engineer at Cutera* |
-| Dylan Gorman | *Data Scientist at Credit Karma [http://www.djgorman.com/](http://www.djgorman.com/)* |
+| Dylan Gorman | *Physicist at Honeywell Quantum Solutions [http://www.djgorman.com/](http://www.djgorman.com/)* |
 | Philipp Schindler | *Staff Scientist at Innsbruck University, Austria* |
 | Nikos Daniilidis | *Data Scientist at Credit Karma* |
-| Anthony Ransford | *PhD Student at UC Los Angeles* |
+| Anthony Ransford | *Physicist at Honeywell Quantum Solutions, was PhD Student at UC Los Angeles* |
 | Michael Ramm | *Data Science Manager at Netflix* |
 | Thaned (Hong) Pruttivarasin | *Lecturer at Mahidol University, Thailand [http://mpec.sc.mahidol.ac.th/thanedp/index.html](http://mpec.sc.mahidol.ac.th/thanedp/index.html)* |
 
