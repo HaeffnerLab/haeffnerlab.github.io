@@ -95,13 +95,13 @@ quantum information in Innsbruck (Rainer Blatt) <br>
 quantum information in Oxford (UK) (Andrew Steane / Derek Stacey) <br>
 &nbsp;&nbsp; <a href="http://www.imperial.ac.uk/research/qols/research_areas/ion_traps.htm">ww.imperial.ac.uk</a> - Trapped ions in
 London (R. C. Thompson and D. M. Segal)<br>
-&nbsp;&nbsp; </span><a href="http://monroelab2.physics.lsa.umich.edu/">monroelab2.physics.lsa.umich.edu</a> - Trapped ions for
+&nbsp;&nbsp; <a href="http://monroelab2.physics.lsa.umich.edu/">monroelab2.physics.lsa.umich.edu</a> - Trapped ions for
 quantum computation in Ann-Arbor (US) (Chris Monroe)<br>
       &nbsp;&nbsp;
-      </span><a href="http://www.phys.au.dk/iontrapgroup/">www.phys.au.dk</a> - Trapped ions in
+      <a href="http://www.phys.au.dk/iontrapgroup/">www.phys.au.dk</a> - Trapped ions in
 Aarhus (UK) (Michael Drewsen)<br>
       &nbsp;&nbsp;
-      <a  href="http://www.physics.mcmaster.ca/people/faculty/King/King_B_h.html">www.physics.mcmaster.ca</a> - Trapped ions in
+      <a href="http://www.physics.mcmaster.ca/people/faculty/King/King_B_h.html">www.physics.mcmaster.ca</a> - Trapped ions in
 Canada (Brian King)<br>
       <br>
 &nbsp;<strong>Neutral atoms:</strong><br>
