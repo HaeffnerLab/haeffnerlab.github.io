@@ -21,7 +21,7 @@ R. Shaffer
 
 **"Quantum Sensing of Intermittent Stochastic Signals"**  
 S. Mouradian, N. Glikin, E. Megidish, K.-I. Ellers, H. Häffner  
-[arXiv:2010.03678](https://arxiv.org/abs/2010.03678).  
+[Phys. Rev. A 103, 032419 (2021)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.032419), [arXiv:2010.03678](https://arxiv.org/abs/2010.03678).  
 
 **"Materials Challenges for Trapped-Ion Quantum Computers"**  
 K. R. Brown, J. Chiaverini, J. Sage, H. Häffner  
