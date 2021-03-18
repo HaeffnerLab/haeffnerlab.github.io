@@ -9,6 +9,7 @@ at [https://ions.berkeley.edu](https://ions.berkeley.edu), typically within 5-10
 Here are some of the important files:
 
 ### Global website layout
+- Site properties: [_config.yml](_config.yml)
 - Global page layout: [_layouts/default.html](_layouts/default.html)
 - Global navigation menu: [_includes/menu.html](_includes/menu.html)
 - Global page footer: [_includes/foot.html](_includes/foot.html)
