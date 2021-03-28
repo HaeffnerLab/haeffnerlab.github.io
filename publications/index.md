@@ -25,7 +25,7 @@ S. Mouradian, N. Glikin, E. Megidish, K.-I. Ellers, H. Häffner
 
 **"Materials Challenges for Trapped-Ion Quantum Computers"**  
 K. R. Brown, J. Chiaverini, J. Sage, H. Häffner  
-[arXiv:2009.00568](https://arxiv.org/abs/2009.00568).  
+[Nat. Rev. Mater. (2021)](https://www.nature.com/articles/s41578-021-00292-1), [arXiv:2009.00568](https://arxiv.org/abs/2009.00568).  
 
 **"Trapping electrons in a room-temperature quadrupole trap"**  
 C. Matthiesen, Q. Yu, J. Guo, A. M. Alonso, H. Häffner  
