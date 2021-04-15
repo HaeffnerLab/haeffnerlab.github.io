@@ -13,11 +13,11 @@ Jump to:
 
 **"Trapped electrons and ions as particle detectors"**  
 D. Carney, H. Häffner, D. C. Moore, J. M. Taylor  
-[arXiv:2103.04482](https://arxiv.org/abs/2103.04482).
+[arXiv:2104.05737](https://arxiv.org/abs/2104.05737).
 
 **"Changes in electric-field noise due to thermal transformation of a surface ion trap"**  
 M. Berlin-Udi, C. Matthiesen, P.N.T. Lloyd, A. Alonso, C. Noel, C. Orme, C.-E. Kim, V. Lordi, H. Häffner  
-[arXiv:2104.05737](https://arxiv.org/abs/2104.05737).
+[arXiv:2103.04482](https://arxiv.org/abs/2103.04482).
 
 **"Stochastic search for approximate compilation of unitaries"**  
 R. Shaffer  
