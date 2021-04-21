@@ -188,6 +188,17 @@ title: Group Members
             When not in the lab, I enjoy traveling, playing video games, watching and playing soccer."
       %}
     </tr>
+    <tr>
+      {% include member.html
+          name="Ben Saarel"
+          title="Grad Student"
+          image="/members/pics/placeholder.jpg"
+          email_name="bsaarel"
+          email_domain="berkeley"
+          email_suffix="edu"
+          bio=" "
+      %}
+    </tr>
   </table>
 </div>
 
