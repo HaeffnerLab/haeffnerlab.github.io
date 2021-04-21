@@ -187,8 +187,6 @@ title: Group Members
             quantum computers, as well as the emergent physics revealed in such quantum system.
             When not in the lab, I enjoy traveling, playing video games, watching and playing soccer."
       %}
-    </tr>
-    <tr>
       {% include member.html
           name="Ben Saarel"
           title="Grad Student"
