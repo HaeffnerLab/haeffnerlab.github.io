@@ -42,6 +42,20 @@ title: Group Members
     </tr>
     <tr>
       {% include member.html
+          name="Wei-Ting Chen"
+          title="Post-Doc"
+          image="/members/pics/wei_ting.jpg"
+          email_name="wtchen0108"
+          email_domain="gmail"
+          email_suffix="com"
+          bio="After working years on using AMO techniques to studying      
+            plasma physics with a system which usually contains 10^5 to a 
+            million charged particles, I decided to switch my interest to 
+            ion trap research which involves only a couple or
+            just one charged particle with a very high degree of control 
+            and understanding of the properties of the ion."
+      %}
+      {% include member.html
           name="Sara Mouradian"
           title="Post-Doc"
           image="/members/pics/sara.jpg"
@@ -54,6 +68,8 @@ title: Group Members
             for computation, communication, and sensing. Outside the lab I am
             usually climbing, cooking, or eating."
       %}
+    </tr>
+    <tr>
       {% include member.html
           name="Alberto Alonso"
           title="Post-Doc"
@@ -68,8 +84,6 @@ title: Group Members
             applications. I also enjoy playing boardgames, hiking, and videogames when
             I'm not in the lab."
       %}
-      <\tr>
-      <tr>
       {% include member.html
           name="Sumanta Khan"
           title="Post-Doc"
@@ -83,15 +97,6 @@ title: Group Members
             ions. Outside of the lab, I like roaming around the bay area, travelling, cooking,
             listening to music and watching TV series."
       %}
-      {% include member.html
-          name="Neha Yadav"
-          title="Post-Doc"
-          image="/members/pics/placeholder.jpg"
-          email_name=""
-          email_domain="berkeley"
-          email_suffix="edu"
-          bio=""
-      %}  
     </tr>
     <tr>
       {% include member.html
@@ -207,7 +212,6 @@ title: Group Members
 
 ## Group Alumni
 
-| Wei-Ting Chen | |
 | Eli Megidish | *Physicist at Atom Computing* |
 | Clemens Matthiesen | *Senior Scientist at Oxford Ionics* |
 | Maya Berlin-Udi | *Process Engineer at DiCon Fiberoptics* |
