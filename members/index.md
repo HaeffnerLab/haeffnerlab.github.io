@@ -42,18 +42,13 @@ title: Group Members
     </tr>
     <tr>
       {% include member.html
-          name="Wei-Ting Chen"
+          name="Neha Yadav"
           title="Post-Doc"
-          image="/members/pics/wei_ting.jpg"
-          email_name="wtchen0108"
+          image="/members/pics/placeholder.jpg"
+          email_name=""
           email_domain="gmail"
           email_suffix="com"
-          bio="After working years on using AMO techniques to studying      
-            plasma physics with a system which usually contains 10^5 to a 
-            million charged particles, I decided to switch my interest to 
-            ion trap research which involves only a couple or
-            just one charged particle with a very high degree of control 
-            and understanding of the properties of the ion."
+          bio=""
       %}
       {% include member.html
           name="Sara Mouradian"
@@ -212,6 +207,7 @@ title: Group Members
 
 ## Group Alumni
 
+| Wei-Ting Chen |   |
 | Eli Megidish | *Physicist at Atom Computing* |
 | Clemens Matthiesen | *Senior Scientist at Oxford Ionics* |
 | Maya Berlin-Udi | *Process Engineer at DiCon Fiberoptics* |
