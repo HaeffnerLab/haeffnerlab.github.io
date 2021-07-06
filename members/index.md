@@ -11,7 +11,7 @@ title: Group Members
           full_row=true
           name="<a href='/members/hartmut/'>Hartmut H&auml;ffner</a>"
           title="PI<br />
-            Office Location: 301H, Old LeConte<br />
+            Office Location: 301H, Physics South<br />
             Office Phone: (510) 664-4299<br />
             Lab Phone: (510) 664-4296"
           image="/members/pics/hartmut.jpg"
