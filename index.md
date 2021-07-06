@@ -31,7 +31,7 @@ We have a limited number of undergraduate research positions available! If you a
 	<p>
 		Mailing address:<br>
 		&nbsp;&nbsp;Department of Physics, University of California<br>
-		&nbsp;&nbsp;366 LeConte Hall #7300<br>
+		&nbsp;&nbsp;366 Physics North #7300<br>
 		&nbsp;&nbsp;Berkeley, CA 94720-7300, USA<br><br>
 		&nbsp;&nbsp;Phone: (510) 664-4296  (Lab)
 	</p>
