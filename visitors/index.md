@@ -8,8 +8,8 @@ We can be conveniently reached by BART. From Downtown Berkeley station, the depa
 
 When exiting the station turn east up the hill. Soon you will reach the campus.
 Head uphill towards the Campanile (Sather Tower), marked with a "C", and enter the physics building right next to it
-(either Birge or LeConte Hall). Hartmut's office ("O") is on the 3rd floor in Old LeConte Hall 301H, the labs ("L")
-are on the ground floor in LeConte Hall 144.
+(either Birge or Physics North). Hartmut's office ("O") is on the 3rd floor in Physics South 301H, the labs ("L")
+are on the ground floor in Physics North 144.
 For the faculty clubs head south over the small foot bridge and then uphill, i.e. east, again.
 
 Parking on campus is very limited and on-street parking around campus is usually limited to 2 hours.
@@ -22,9 +22,9 @@ structures south of campus. See also the
 ## Map Legend
 
 <p id="visitor-legend">
-	<img src="/images/office.png" alt="Map icon for Hartmut's office">Hartmut's office at 301H Old LeConte Hall
+	<img src="/images/office.png" alt="Map icon for Hartmut's office">Hartmut's office at 301H Physics South
 	<br/>
-	<img src="/images/lab.png" alt="Map icon for lab">Lab at 144 LeConte Hall
+	<img src="/images/lab.png" alt="Map icon for lab">Lab at 144 Physics North
 	<br/>
 	<img src="/images/campanile.png" alt="Map icon for Campanile">Campanile (Sather tower), easy-to-spot landmark
 </p>
