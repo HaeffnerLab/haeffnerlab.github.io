@@ -199,6 +199,7 @@ title: Group Members
 
 * Simone Bibawi
 * Simon Mayr
+* Shijia Sun
 
 ## Current Undergraduates
 
@@ -227,7 +228,7 @@ title: Group Members
 
 | Ishan Talukdar | Brian Timar | Thilo van Hoevel | Ahmed Adelrahman |  |
 | Omid Khosravani | Sankara Narayanan | Josselin Bernardoff | Christian Zimmer |  |
-| Ryan Blais | Ross Hutson | Charles Paul |  |  |
+| Ryan Blais | Ross Hutson | Charles Paul | Kai Krimmel | Lorenzo Leandro |
 | Mark Kokish | Sebastian Gerber | Greg Bolloten | Daniel Tatum | Ian Hayes |
 | Calvin Lau | Axel Kreuter | Oliver Neitzke | Boyan Tabakov | Sam Fendell |
 | Kelsey Johnsen | Nathan Poon | Jiachen Yang | Isabela Le Bras | Todd Karin |
