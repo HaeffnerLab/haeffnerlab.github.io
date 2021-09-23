@@ -11,9 +11,13 @@ Jump to:
 
 ## Journal Papers
 
+**"Coupling two laser-cooled ions via a room-temperature conductor"**  
+D. An, A. M. Alonso, C. Matthiesen, H. Häffner  
+[arXiv:2107.00851](https://arxiv.org/abs/2107.00851).
+
 **"Trapped electrons and ions as particle detectors"**  
 D. Carney, H. Häffner, D. C. Moore, J. M. Taylor  
-[arXiv:2104.05737](https://arxiv.org/abs/2104.05737).
+[Phys. Rev. Lett. 127, 061804 (2021)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.061804), [arXiv:2104.05737](https://arxiv.org/abs/2104.05737).
 
 **"Changes in electric-field noise due to thermal transformation of a surface ion trap"**  
 M. Berlin-Udi, C. Matthiesen, P.N.T. Lloyd, A. M. Alonso, C. Noel, C. Orme, C.-E. Kim, V. Lordi, H. Häffner  
