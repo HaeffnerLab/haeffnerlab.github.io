@@ -4,4 +4,4 @@ title: Retired Projects
 
 # {{ page.title }}
 
-[Charge-Coupled Traps](quantum-electronics)
+2005 - 2021: [Charge-Coupled Traps](quantum-electronics)
