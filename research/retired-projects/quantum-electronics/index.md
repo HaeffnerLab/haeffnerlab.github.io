@@ -13,7 +13,7 @@ precision electric-field noise detection, trapping of vertical ion strings witho
 and potential applications for scalable quantum computers with surface ion traps.
 
 <figure>
-	<img src="/research/quantum-electronics/SingleTrap.jpeg" alt="Trap layout and potentials" height="200" />
+	<img src="SingleTrap.jpeg" alt="Trap layout and potentials" height="200" />
 	<figcaption>
 		Fig. 1. (a) False-color microscope image of the microfabricated four-rf-electrode trap.
 		Static voltages are applied to electrodes labeled dc, and rf electrodes are labeled rf+-
@@ -24,7 +24,7 @@ and potential applications for scalable quantum computers with surface ion traps
 </figure>
 
 <figure>
-	<img src="/research/quantum-electronics/potential_lines.gif" alt="Potential during ion shuttling" height="350" />
+	<img src="potential_lines.gif" alt="Potential during ion shuttling" height="350" />
 	<figcaption>
 		Fig. 2. Simulated shuttling of the ion perpendicular to the trap surface.
 	</figcaption>
@@ -40,7 +40,7 @@ noise sources, our distance scaling data is consistent with a noise correlation 
 &mu;m at the trap surface.
 
 <figure>
-	<img src="/research/quantum-electronics/DistanceScaling.png" alt="Heating rate vs. distance" height="300" />
+	<img src="DistanceScaling.png" alt="Heating rate vs. distance" height="300" />
 	<figcaption>
 		Fig. 3. Planar (blue) and normal (red) heating rates as a function of ion-surface distance for a
 		fixed secular frequency of 1 MHz. Power-law fits are overlayed for reference.
@@ -58,7 +58,7 @@ and realization of hybrid systems by coupling an ion-trap quantum computer to a 
 e.g. a system of Josephson junctions.
 
 <figure>
-	<img src="/research/quantum-electronics/DoubleTrap.png" alt="Double trap" height="300" />
+	<img src="DoubleTrap.png" alt="Double trap" height="300" />
 	<figcaption>
 		Fig. 4. Schematic of coupling trap. The two trapping regions are located above the centers of the red squares,
 		which are connected via an electrically floating wire. Out-of-phase RF is applied to the green electrodes,
