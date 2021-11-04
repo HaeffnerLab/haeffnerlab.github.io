@@ -11,6 +11,10 @@ Jump to:
 
 ## Journal Papers
 
+**"One- and two-qubit gate infidelities due to motional errors in trapped ions and electrons"**  
+R. T. Sutherland, Q. Yu, K. M. Beck, H. Häffner  
+[arXiv:2111.01913](https://arxiv.org/abs/2111.01913).
+
 **"Coupling two laser-cooled ions via a room-temperature conductor"**  
 D. An, A. M. Alonso, C. Matthiesen, H. Häffner  
 [arXiv:2107.00851](https://arxiv.org/abs/2107.00851).
