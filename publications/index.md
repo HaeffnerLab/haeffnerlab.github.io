@@ -220,6 +220,11 @@ H. Häffner, C. F. Roos, and R. Blatt.
 
 ## PhD Theses
 
+**"Electric-field noise scaling and wire-mediated ion-ion energy exchange in a
+novel elevator surface trap
+"**  
+D. An (2021). [Download.](/publications/An-thesis.pdf)  
+
 **"Treatments of a Surface Ion Trap: A Study of Electric-Field Noise near a Contaminated Metal Surface"**  
 M. Berlin-Udi (2020). [Download.](/publications/Berlin-Udi-thesis.pdf)  
 
@@ -227,7 +232,9 @@ M. Berlin-Udi (2020). [Download.](/publications/Berlin-Udi-thesis.pdf)
 C. Noel (2019). [Download.](/publications/Noel_thesis.pdf)  
 
 **"Implementation of a Rotationally Symmetric Ring Ion Trap and Coherent Control of Rotational States"**  
-E. Urban (2019). [Download.](/publications/Urban_Thesis.pdf)  
+E. Urban (2019). [Download.](/publications/Urban_
+
+s.pdf)  
 
 **"Establishing tools to optimize surface traps for wiring up trapped ions"**  
 S. Selvarajan (2017). [Download.](/publications/selvarajan-thesis.pdf)  
