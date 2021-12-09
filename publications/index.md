@@ -11,6 +11,10 @@ Jump to:
 
 ## Journal Papers
 
+**"Feasibility study of quantum computing using trapped electrons"**  
+Q. Yu, A. M. Alonso, J. Caminiti, K. M. Beck, R. T. Sutherland, D. Leibfried, K. J. Rodriguez, M. Dhital, B. Hemmerling, H. Häffner
+[arXiv:2112.04034 ](https://arxiv.org/abs/2112.04034).
+
 **"One- and two-qubit gate infidelities due to motional errors in trapped ions and electrons"**  
 R. T. Sutherland, Q. Yu, K. M. Beck, H. Häffner  
 [arXiv:2111.01913](https://arxiv.org/abs/2111.01913).
