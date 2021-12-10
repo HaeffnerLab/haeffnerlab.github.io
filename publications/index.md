@@ -236,9 +236,7 @@ M. Berlin-Udi (2020). [Download.](/publications/Berlin-Udi-thesis.pdf)
 C. Noel (2019). [Download.](/publications/Noel_thesis.pdf)  
 
 **"Implementation of a Rotationally Symmetric Ring Ion Trap and Coherent Control of Rotational States"**  
-E. Urban (2019). [Download.](/publications/Urban_
-
-s.pdf)  
+E. Urban (2019). [Download.](/publications/Urban_thesis.pdf)  
 
 **"Establishing tools to optimize surface traps for wiring up trapped ions"**  
 S. Selvarajan (2017). [Download.](/publications/selvarajan-thesis.pdf)  
