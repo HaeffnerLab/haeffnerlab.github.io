@@ -241,6 +241,7 @@ title: Group Members
 * Yi Zhou
 
 ## Group Alumni
+
 | Sara Mouradian | *Assistant Professor of Electrical and Computer Engineering, University of Washington* |
 | Da An | *Systems Engineer at Aeva* |
 | Wei-Ting Chen |   |
