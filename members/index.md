@@ -231,13 +231,10 @@ title: Group Members
 
 ## Current Visitors
 
-* Simone Bibawi
-* Simon Mayr
-* Shijia Sun
+* Bingran Yu
 
 ## Current Undergraduates
 
-* Hang Ren
 * Yi Zhou
 
 ## Group Alumni
@@ -271,6 +268,7 @@ title: Group Members
 | Andy Li Cheong Yiu | Chris Overstreet | Gebhard Littich | Sean Arifin | David Gee |
 | Christopher Reilly | Alex Georges | Jessica Yu | Andre He | Thomas Lloyd |
 | Zhao Zhang | Nadav Drechsler | Lara Ostertag | Samuel Cui | Tim Guo |
+| Simone Bibawi | Simon Mayr | Shijia Sun | Sun Ximo | |
 
 <figure>
   <img src="/members/pics/groupphoto_2018_final.jpg" width="372px" alt="Group photo 2018"/>
