@@ -244,7 +244,7 @@ title: Group Members
 | Wei-Ting Chen |   |
 | Eli Megidish | *Physicist at Atom Computing* |
 | Clemens Matthiesen | *Senior Scientist at Oxford Ionics* |
-| Maya Berlin-Udi | *Process Engineer at DiCon Fiberoptics* |
+| Maya Berlin-Udi | *Materials Engineer at Cellino Biotech* |
 | Crystal Noel | *Assistant Professor of Physics, Duke University* |
 | Erik Urban | *Electrical Engineer at Exponent* |
 | Alex Chuang | *NSF Fellow, PhD Student at Massachusetts Institute of Technology* |
