@@ -45,23 +45,19 @@ title: Group Members
           name="Neha Yadav"
           title="Post-Doc"
           image="/members/pics/placeholder.jpg"
-          email_name=""
-          email_domain="gmail"
-          email_suffix="com"
+          email_name="neha_yadav"
+          email_domain="berkeley"
+          email_suffix="edu"
           bio=""
       %}
       {% include member.html
-          name="Sara Mouradian"
+          name="Elia Perego"
           title="Post-Doc"
-          image="/members/pics/sara.jpg"
-          email_name="smouradi"
-          email_domain="berkeley"
-          email_suffix="edu"
-          bio="After working with solid state systems during my PhD I am
-            excited to work with trapped ions. Regardless of implementation,
-            I am interested in building and using large coherent quantum systems
-            for computation, communication, and sensing. Outside the lab I am
-            usually climbing, cooking, or eating."
+          image="/members/pics/placeholder.jpg"
+          email_name="elia.perego21"
+          email_domain="gmail"
+          email_suffix="com"
+          bio=""
       %}
     </tr>
     <tr>
@@ -109,19 +105,6 @@ title: Group Members
             10 year old German shepherd, Lia."
       %}
       {% include member.html
-          name="Da An (Chi Chi)"
-          title="Grad Student"
-          image="/members/pics/da.jpg"
-          email_name="da.an"
-          email_domain="berkeley"
-          email_suffix="edu"
-          bio="I'm a graduate student, excited to learn about the theory and techniques of ion
-            trapping, along with its applications to quantum information. Outside of the lab,
-            I enjoy playing card/board games and eating."
-      %}
-    </tr>
-    <tr>
-      {% include member.html
           name="Neil Glikin"
           title="Grad Student"
           image="/members/pics/neil.jpg"
@@ -132,6 +115,8 @@ title: Group Members
             as just learning and discovering how the universe works. I enjoy exploring the bay
             area, video games, and making lists."
       %}
+    </tr>
+    <tr>
       {% include member.html
           name="Nicole Greene"
           title="Grad Student"
@@ -143,8 +128,6 @@ title: Group Members
             my time designing an apparatus that will soon shuttle and entangle large chains of ions.
             Outside the lab I enjoy exploring San Francisco, watching films, and skiing."
       %}
-    </tr>
-    <tr>
       {% include member.html
           name="Ryan Shaffer"
           title="Grad Student"
@@ -157,6 +140,8 @@ title: Group Members
             with quantum information, and how to realize this in physical systems. I also enjoy some
             human things, like playing basketball, cooking, and traveling."
       %}
+    </tr>
+    <tr>
       {% include member.html
           name="Qian Yu"
           title="Grad Student"
@@ -169,8 +154,6 @@ title: Group Members
           including coherent evolution and decoherence. Outside the lab I like traveling, reading,
           cooking and playing board games."
       %}
-    </tr>
-    <tr>
       {% include member.html
           name="Shuqi Xu"
           title="Grad Student"
@@ -182,6 +165,8 @@ title: Group Members
             quantum computers, as well as the emergent physics revealed in such quantum system.
             When not in the lab, I enjoy traveling, playing video games, watching and playing soccer."
       %}
+    </tr>
+    <tr>
       {% include member.html
           name="Ben Saarel"
           title="Grad Student"
@@ -190,6 +175,55 @@ title: Group Members
           email_domain="berkeley"
           email_suffix="edu"
           bio=" "
+      %}
+      {% include member.html
+          name="Ryan Tollefsen"
+          title="Grad Student"
+          image="/members/pics/placeholder.jpg"
+          email_name="tollefsen"
+          email_domain="berkeley"
+          email_suffix="edu"
+          bio=""
+      %}
+    </tr>
+    <tr>
+      {% include member.html
+          name="Justin Phillips"
+          title="Grad Student"
+          image="/members/pics/placeholder.jpg"
+          email_name="justin.phillips"
+          email_domain="berkeley"
+          email_suffix="edu"
+          bio=""
+      %}
+      {% include member.html
+          name="Isabel Sacksteder"
+          title="Grad Student"
+          image="/members/pics/placeholder.jpg"
+          email_name="izzesacksteder"
+          email_domain="berkeley"
+          email_suffix="edu"
+          bio=""
+      %}
+    </tr>
+        <tr>
+      {% include member.html
+          name="Hang Ren"
+          title="Grad Student"
+          image="/members/pics/placeholder.jpg"
+          email_name="hangren"
+          email_domain="berkeley"
+          email_suffix="edu"
+          bio=""
+      %}
+      {% include member.html
+          name="Dana Griffith"
+          title="Grad Student"
+          image="/members/pics/placeholder.jpg"
+          email_name="dana_griffith"
+          email_domain="berkeley"
+          email_suffix="edu"
+          bio=""
       %}
     </tr>
   </table>
@@ -207,7 +241,8 @@ title: Group Members
 * Yi Zhou
 
 ## Group Alumni
-
+| Sara Mouradian | *Assistant Professor of Electrical and Computer Engineering, University of Washington* |
+| Da An | *Systems Engineer at Aeva* |
 | Wei-Ting Chen |   |
 | Eli Megidish | *Physicist at Atom Computing* |
 | Clemens Matthiesen | *Senior Scientist at Oxford Ionics* |
