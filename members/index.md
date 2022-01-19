@@ -231,7 +231,7 @@ title: Group Members
 
 ## Current Visitors
 
-* Bingran Yu
+* Bingran You
 
 ## Current Undergraduates
 
