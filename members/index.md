@@ -235,7 +235,7 @@ title: Group Members
 
 ## Current Undergraduates
 
-* Yi Zhou
+* Yi Zhu
 
 ## Group Alumni
 
