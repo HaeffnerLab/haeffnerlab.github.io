@@ -239,7 +239,7 @@ title: Group Members
 
 ## Group Alumni
 
-| Sara Mouradian | *Assistant Professor of Electrical and Computer Engineering, University of Washington* |
+| Sara Mouradian | *Assistant Professor of ECE, University of Washington* |
 | Da An | *Systems Engineer at Aeva* |
 | Wei-Ting Chen |   |
 | Eli Megidish | *Physicist at Atom Computing* |
