@@ -216,15 +216,6 @@ title: Group Members
           email_suffix="edu"
           bio=""
       %}
-      {% include member.html
-          name="Dana Griffith"
-          title="Grad Student"
-          image="/members/pics/placeholder.jpg"
-          email_name="dana_griffith"
-          email_domain="berkeley"
-          email_suffix="edu"
-          bio=""
-      %}
     </tr>
   </table>
 </div>
@@ -236,6 +227,7 @@ title: Group Members
 ## Current Undergraduates
 
 * Yi Zhu
+* Emiliia Dyrenkova
 
 ## Group Alumni
 
