@@ -21,7 +21,9 @@ R. T. Sutherland, Q. Yu, K. M. Beck, H. Häffner
 
 **"Coupling two laser-cooled ions via a room-temperature conductor"**  
 D. An, A. M. Alonso, C. Matthiesen, H. Häffner  
-[arXiv:2107.00851](https://arxiv.org/abs/2107.00851).
+[Phys. Rev. Lett. 128, 063201 (2022)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.063201), [arXiv:2107.00851](https://arxiv.org/abs/2107.00851).
+See also Physics Focus story by Christian Tomás Schmiegelow:  
+_"“Tin-Can Telephone” Connects Two Ions"_, [Physics 15, 16](https://physics.aps.org/articles/v15/16).  
 
 **"Trapped electrons and ions as particle detectors"**  
 D. Carney, H. Häffner, D. C. Moore, J. M. Taylor  
