@@ -54,9 +54,9 @@ title: Group Members
           name="Elia Perego"
           title="Post-Doc"
           image="/members/pics/placeholder.jpg"
-          email_name="elia.perego21"
-          email_domain="gmail"
-          email_suffix="com"
+          email_name="e.perego"
+          email_domain="berkeley"
+          email_suffix="edu"
           bio=""
       %}
     </tr>
