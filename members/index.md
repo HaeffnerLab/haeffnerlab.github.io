@@ -97,7 +97,7 @@ title: Group Members
           email_name="jbroz"
           email_domain="berkeley"
           email_suffix="edu"
-          bio="I enjoy learning new things, figuring out how stuff works. In Hartmut's lab I work with the only, legacy, 3D ion trap. The technical challenges are somewhat reduced from on-chip traps and so I am able to focus a little big more on the quantum information side of our research. Outisde of the lab I enjoy boxing for the Berkeley team, trail running and walking my dog Lia!"
+          bio="I enjoy learning new things, figuring out how stuff works. In Hartmut's lab I work with the only, legacy, 3D ion trap. The technical challenges are somewhat reduced from on-chip traps and so I am able to focus a little big more on the quantum information side of our research. I'm particularly interested in exploring the nontrivial and often nonintuitive dynamics that can arise in modestly sized but very precisely controlled and manipulated atomic systems.Outisde of the lab I enjoy boxing for the Berkeley team, trail running and walking my dog Lia!"
       %}
       {% include member.html
           name="Neil Glikin"
