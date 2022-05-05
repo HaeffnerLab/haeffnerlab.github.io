@@ -17,7 +17,7 @@ Q. Yu, A. M. Alonso, J. Caminiti, K. M. Beck, R. T. Sutherland, D. Leibfried, K.
 
 **"One- and two-qubit gate infidelities due to motional errors in trapped ions and electrons"**  
 R. T. Sutherland, Q. Yu, K. M. Beck, H. Häffner  
-[Phys. Rev. A 105, 022437 (2022)(https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.022437)], [arXiv:2111.01913](https://arxiv.org/abs/2111.01913).
+[Phys. Rev. A 105, 022437 (2022)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.022437), [arXiv:2111.01913](https://arxiv.org/abs/2111.01913).
 
 **"Coupling two laser-cooled ions via a room-temperature conductor"**  
 D. An, A. M. Alonso, C. Matthiesen, H. Häffner  
