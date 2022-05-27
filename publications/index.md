@@ -11,6 +11,10 @@ Jump to:
 
 ## Journal Papers
 
+**Efficient verification of continuously-parameterized quantum gates**  
+R. Shaffer, H. Ren, E. Dyrenkova, C. G. Yale, D. S. Lobser, A. D. Burch, M. N. H. Chow, M. C. Revelle, S. M. Clark, H. Häffner  
+[arXiv:2205.13074](https://arxiv.org/abs/2205.13074).
+
 **"Feasibility study of quantum computing using trapped electrons"**  
 Q. Yu, A. M. Alonso, J. Caminiti, K. M. Beck, R. T. Sutherland, D. Leibfried, K. J. Rodriguez, M. Dhital, B. Hemmerling, H. Häffner  
 [Phys. Rev. A 105, 022420 (2022)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.022420), [arXiv:2112.04034](https://arxiv.org/abs/2112.04034).
@@ -32,10 +36,6 @@ D. Carney, H. Häffner, D. C. Moore, J. M. Taylor
 **"Changes in electric-field noise due to thermal transformation of a surface ion trap"**  
 M. Berlin-Udi, C. Matthiesen, P.N.T. Lloyd, A. M. Alonso, C. Noel, C. Orme, C.-E. Kim, V. Lordi, H. Häffner  
 [arXiv:2103.04482](https://arxiv.org/abs/2103.04482).
-
-**"Stochastic search for approximate compilation of unitaries"**  
-R. Shaffer  
-[arXiv:2101.04474](https://arxiv.org/abs/2101.04474).  
 
 **"Quantum Sensing of Intermittent Stochastic Signals"**  
 S. Mouradian, N. Glikin, E. Megidish, K.-I. Ellers, H. Häffner  
