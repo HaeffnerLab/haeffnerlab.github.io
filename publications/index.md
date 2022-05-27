@@ -11,7 +11,7 @@ Jump to:
 
 ## Journal Papers
 
-**Efficient verification of continuously-parameterized quantum gates**  
+**"Efficient verification of continuously-parameterized quantum gates"**  
 R. Shaffer, H. Ren, E. Dyrenkova, C. G. Yale, D. S. Lobser, A. D. Burch, M. N. H. Chow, M. C. Revelle, S. M. Clark, H. Häffner  
 [arXiv:2205.13074](https://arxiv.org/abs/2205.13074).
 
