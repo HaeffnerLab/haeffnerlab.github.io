@@ -15,6 +15,10 @@ Jump to:
 R. Shaffer, H. Ren, E. Dyrenkova, C. G. Yale, D. S. Lobser, A. D. Burch, M. N. H. Chow, M. C. Revelle, S. M. Clark, H. Häffner  
 [arXiv:2205.13074](https://arxiv.org/abs/2205.13074).
 
+**"Surrogate-based optimization for variational quantum algorithms"**  
+R. Shaffer, L. Kocia, M. Sarovar  
+[arXiv:2204.05451](https://arxiv.org/abs/2204.05451).
+
 **"Feasibility study of quantum computing using trapped electrons"**  
 Q. Yu, A. M. Alonso, J. Caminiti, K. M. Beck, R. T. Sutherland, D. Leibfried, K. J. Rodriguez, M. Dhital, B. Hemmerling, H. Häffner  
 [Phys. Rev. A 105, 022420 (2022)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.022420), [arXiv:2112.04034](https://arxiv.org/abs/2112.04034).
