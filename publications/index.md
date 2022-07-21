@@ -43,7 +43,7 @@ D. Carney, H. Häffner, D. C. Moore, J. M. Taylor
 
 **"Changes in electric-field noise due to thermal transformation of a surface ion trap"**  
 M. Berlin-Udi, C. Matthiesen, P.N.T. Lloyd, A. M. Alonso, C. Noel, C. Orme, C.-E. Kim, V. Lordi, H. Häffner  
-[arXiv:2103.04482](https://arxiv.org/abs/2103.04482).
+[Phys. Rev. B 106, 035409 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035409),[arXiv:2103.04482](https://arxiv.org/abs/2103.04482).
 
 **"Quantum Sensing of Intermittent Stochastic Signals"**  
 S. Mouradian, N. Glikin, E. Megidish, K.-I. Ellers, H. Häffner  
