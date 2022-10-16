@@ -275,6 +275,7 @@ title: Group Members
 | Emiliia Dyrenkova |
 
 <figure>
+   <img src="/members/pics/group_photo_2019_lowres.jpg" width="372px" alt="Group photo 2018"/>
   <img src="/members/pics/groupphoto_2018_final.jpg" width="372px" alt="Group photo 2018"/>
   <img src="/members/pics/group_photo_2017.JPG" width="372px" alt="Group photo 2017"/>
   <img src="/members/pics/group_fall2015.JPG" width="372px" alt="Group photo fall 2015"/>
