@@ -236,6 +236,7 @@ title: Group Members
 * Andris Huang 
 * Anderson Park
 * Tian Cheng
+* Zuoyao Chen
 
 ## Group Alumni
 
