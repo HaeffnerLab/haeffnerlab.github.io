@@ -17,7 +17,7 @@ We have a limited number of undergraduate research positions available! If you a
 -->
 
 <figure>
-	<img src="/members/pics/group_photo_2019_lowres.jpg" width="600px" alt="Group photo 2019" />
+	<img src="/members/pics/groupphoto2022.jpg" width="600px" alt="Group photo 2019" />
 </figure>
 
 <div align="center">
