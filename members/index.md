@@ -41,6 +41,17 @@ title: Group Members
       %}
     </tr>
     <tr>
+      {% include member.html 
+          name="Erhan Saglamyurek" 
+          title="Project Scientist" 
+          image="/members/pics/placeholder.jpg" 
+          email_name="esaglamyurek" 
+          email_domain="berkeley" 
+          email_suffix="edu" 
+          bio="" 
+      %} 
+    </tr>
+    <tr>
       {% include member.html
           name="Neha Yadav"
           title="Post-Doc"
@@ -88,17 +99,6 @@ title: Group Members
             ions. Outside of the lab, I like roaming around the bay area, travelling, cooking,
             listening to music and watching TV series."
       %}
-    </tr>
-    <tr>
-      {% include member.html 
-          name="Erhan Saglamyurek" 
-          title="Project Scientist" 
-          image="/members/pics/placeholder.jpg" 
-          email_name="esaglamyurek" 
-          email_domain="berkeley" 
-          email_suffix="edu" 
-          bio="" 
-      %} 
     </tr>
     <tr>
       {% include member.html
