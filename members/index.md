@@ -74,8 +74,6 @@ title: Group Members
           email_suffix="edu"
           bio=""
       %}
-    </tr>
-    <tr>
       {% include member.html
           name="Alberto Alonso"
           title="Post-Doc"
@@ -90,6 +88,8 @@ title: Group Members
             applications. I also enjoy playing boardgames, hiking, and videogames when
             I'm not in the lab."
       %}
+    </tr>
+    <tr>
       {% include member.html
           name="Sumanta Khan"
           title="Post-Doc"
