@@ -31,16 +31,29 @@ title: Group Members
     <tr>
       {% include member.html
           full_row=true
-          name="Sara Wexler"
+          name="Claire Legas"
           title="Administrative Assistant"
           image=""
-          email_name="sarwexler3"
+          email_name="legas"
           email_domain="berkeley"
           email_suffix="edu"
           bio=""
       %}
     </tr>
     <tr>
+      {% include member.html
+          name="Erhan Saglamyurek"
+          title="Project Scientist"
+          image="/members/pics/placeholder.jpg"
+          email_name="esaglamyurek"
+          email_domain="berkeley"
+          email_suffix="edu"
+          bio="After working with quantum optics experiments using vapor cells during my
+            PhD, I am really excited to work on quantum information processing experiments
+            using trapped ions. I am working on simulating a quantum system with trapped
+            ions. Outside of the lab, I like roaming around the bay area, travelling, cooking,
+            listening to music and watching TV series."
+      %}
       {% include member.html
           name="Neha Yadav"
           title="Post-Doc"
@@ -50,6 +63,8 @@ title: Group Members
           email_suffix="edu"
           bio=""
       %}
+    </tr>
+    <tr>
       {% include member.html
           name="Elia Perego"
           title="Post-Doc"
@@ -203,10 +218,10 @@ title: Group Members
     </tr>
         <tr>
       {% include member.html
-          name="Hang Ren"
+          name="Bingran You"
           title="Grad Student"
           image="/members/pics/placeholder.jpg"
-          email_name="hangren"
+          email_name="bingran.you"
           email_domain="berkeley"
           email_suffix="edu"
           bio=""
@@ -217,12 +232,13 @@ title: Group Members
 
 ## Current Visitors
 
-* Bingran You
+
 
 ## Current Undergraduates
 
-* Yi Zhu
-* Emiliia Dyrenkova
+* Shreya Nagpal
+* Andris Huang
+* Anderson Park
 
 ## Group Alumni
 
@@ -255,7 +271,7 @@ title: Group Members
 | Andy Li Cheong Yiu | Chris Overstreet | Gebhard Littich | Sean Arifin | David Gee |
 | Christopher Reilly | Alex Georges | Jessica Yu | Andre He | Thomas Lloyd |
 | Zhao Zhang | Nadav Drechsler | Lara Ostertag | Samuel Cui | Tim Guo |
-| Simone Bibawi | Simon Mayr | Shijia Sun | Sun Ximo | |
+| Simone Bibawi | Simon Mayr | Shijia Sun | Sun Ximo | Peter Tirler |
 
 <figure>
   <img src="/members/pics/groupphoto_2018_final.jpg" width="372px" alt="Group photo 2018"/>
