@@ -31,25 +31,14 @@ title: Group Members
     <tr>
       {% include member.html
           full_row=true
-          name="Claire Legas"
+          name="Sara Wexler"
           title="Administrative Assistant"
-          image="/members/pics/clairelegas.jpg"
-          email_name="legas"
+          image=""
+          email_name="sarwexler3"
           email_domain="berkeley"
           email_suffix="edu"
           bio=""
       %}
-    </tr>
-    <tr>
-      {% include member.html 
-          name="Erhan Saglamyurek" 
-          title="Project Scientist" 
-          image="/members/pics/placeholder.jpg" 
-          email_name="esaglamyurek" 
-          email_domain="berkeley" 
-          email_suffix="edu" 
-          bio="" 
-      %} 
     </tr>
     <tr>
       {% include member.html
@@ -196,7 +185,7 @@ title: Group Members
       {% include member.html
           name="Justin Phillips"
           title="Grad Student"
-          image="/members/pics/justin.jpg"
+          image="/members/pics/placeholder.jpg"
           email_name="justin.phillips"
           email_domain="berkeley"
           email_suffix="edu"
@@ -212,12 +201,12 @@ title: Group Members
           bio=""
       %}
     </tr>
-    <tr>
+        <tr>
       {% include member.html
-          name="Bingran You"
+          name="Hang Ren"
           title="Grad Student"
           image="/members/pics/placeholder.jpg"
-          email_name="bingran.you"
+          email_name="hangren"
           email_domain="berkeley"
           email_suffix="edu"
           bio=""
@@ -228,14 +217,12 @@ title: Group Members
 
 ## Current Visitors
 
-* 
+* Bingran You
 
 ## Current Undergraduates
 
-* Shreya Nagpal 
-* Andris Huang 
-* Anderson Park
-* Tian Cheng
+* Yi Zhu
+* Emiliia Dyrenkova
 
 ## Group Alumni
 
@@ -268,11 +255,9 @@ title: Group Members
 | Andy Li Cheong Yiu | Chris Overstreet | Gebhard Littich | Sean Arifin | David Gee |
 | Christopher Reilly | Alex Georges | Jessica Yu | Andre He | Thomas Lloyd |
 | Zhao Zhang | Nadav Drechsler | Lara Ostertag | Samuel Cui | Tim Guo |
-| Simone Bibawi | Simon Mayr | Shijia Sun | Sun Ximo | Yi Zhu |
-| Emiliia Dyrenkova | Peter Tirler | | | |
+| Simone Bibawi | Simon Mayr | Shijia Sun | Sun Ximo | |
 
 <figure>
-  <img src="/members/pics/group_photo_2019_lowres.jpg" width="372px" alt="Group photo 2019"/>
   <img src="/members/pics/groupphoto_2018_final.jpg" width="372px" alt="Group photo 2018"/>
   <img src="/members/pics/group_photo_2017.JPG" width="372px" alt="Group photo 2017"/>
   <img src="/members/pics/group_fall2015.JPG" width="372px" alt="Group photo fall 2015"/>
