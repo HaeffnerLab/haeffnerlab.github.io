@@ -212,7 +212,7 @@ title: Group Members
           bio=""
       %}
     </tr>
-        <tr>
+    <tr>
       {% include member.html
           name="Bingran You"
           title="Grad Student"
@@ -235,6 +235,7 @@ title: Group Members
 * Shreya Nagpal 
 * Andris Huang 
 * Anderson Park
+* Tian Cheng
 
 ## Group Alumni
 
