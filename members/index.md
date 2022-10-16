@@ -33,7 +33,7 @@ title: Group Members
           full_row=true
           name="Claire Legas"
           title="Administrative Assistant"
-          image=""
+          image="/members/pics/clairelegas.jpg"
           email_name="legas"
           email_domain="berkeley"
           email_suffix="edu"
