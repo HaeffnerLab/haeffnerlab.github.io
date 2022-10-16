@@ -31,10 +31,10 @@ title: Group Members
     <tr>
       {% include member.html
           full_row=true
-          name="Sara Wexler"
+          name="Claire Legas"
           title="Administrative Assistant"
-          image=""
-          email_name="sarwexler3"
+          image="/members/pics/clairelegas.jpg"
+          email_name="legas"
           email_domain="berkeley"
           email_suffix="edu"
           bio=""
@@ -203,10 +203,10 @@ title: Group Members
     </tr>
         <tr>
       {% include member.html
-          name="Hang Ren"
+          name="Bingran You"
           title="Grad Student"
           image="/members/pics/placeholder.jpg"
-          email_name="hangren"
+          email_name="bingran.you"
           email_domain="berkeley"
           email_suffix="edu"
           bio=""
@@ -217,12 +217,13 @@ title: Group Members
 
 ## Current Visitors
 
-* Bingran You
+* 
 
 ## Current Undergraduates
 
-* Yi Zhu
-* Emiliia Dyrenkova
+* Shreya Nagpal 
+* Andris Huang 
+* Anderson Park
 
 ## Group Alumni
 
@@ -255,7 +256,8 @@ title: Group Members
 | Andy Li Cheong Yiu | Chris Overstreet | Gebhard Littich | Sean Arifin | David Gee |
 | Christopher Reilly | Alex Georges | Jessica Yu | Andre He | Thomas Lloyd |
 | Zhao Zhang | Nadav Drechsler | Lara Ostertag | Samuel Cui | Tim Guo |
-| Simone Bibawi | Simon Mayr | Shijia Sun | Sun Ximo | |
+| Simone Bibawi | Simon Mayr | Shijia Sun | Sun Ximo | Yi Zhu |
+| Emiliia Dyrenkova | | | | |
 
 <figure>
   <img src="/members/pics/groupphoto_2018_final.jpg" width="372px" alt="Group photo 2018"/>
