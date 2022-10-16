@@ -90,6 +90,17 @@ title: Group Members
       %}
     </tr>
     <tr>
+      {% include member.html 
+          name="Erhan Saglamyurek" 
+          title="Project Scientist" 
+          image="/members/pics/placeholder.jpg" 
+          email_name="esaglamyurek" 
+          email_domain="berkeley" 
+          email_suffix="edu" 
+          bio="" 
+      %} 
+    </tr>
+    <tr>
       {% include member.html
           name="Joseph Broz"
           title="Grad Student"
@@ -257,9 +268,10 @@ title: Group Members
 | Christopher Reilly | Alex Georges | Jessica Yu | Andre He | Thomas Lloyd |
 | Zhao Zhang | Nadav Drechsler | Lara Ostertag | Samuel Cui | Tim Guo |
 | Simone Bibawi | Simon Mayr | Shijia Sun | Sun Ximo | Yi Zhu |
-| Emiliia Dyrenkova | | | | |
+| Emiliia Dyrenkova | Peter Tirler | | | |
 
 <figure>
+  <img src="/members/pics/group_photo_2019_lowres.jpg" width="372px" alt="Group photo 2019"/>
   <img src="/members/pics/groupphoto_2018_final.jpg" width="372px" alt="Group photo 2018"/>
   <img src="/members/pics/group_photo_2017.JPG" width="372px" alt="Group photo 2017"/>
   <img src="/members/pics/group_fall2015.JPG" width="372px" alt="Group photo fall 2015"/>
