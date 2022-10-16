@@ -271,7 +271,8 @@ title: Group Members
 | Andy Li Cheong Yiu | Chris Overstreet | Gebhard Littich | Sean Arifin | David Gee |
 | Christopher Reilly | Alex Georges | Jessica Yu | Andre He | Thomas Lloyd |
 | Zhao Zhang | Nadav Drechsler | Lara Ostertag | Samuel Cui | Tim Guo |
-| Simone Bibawi | Simon Mayr | Shijia Sun | Sun Ximo | Peter Tirler |
+| Simone Bibawi | Simon Mayr | Shijia Sun | Sun Ximo | Peter Tirler | Yi Zhu|
+| Emiliia Dyrenkova |
 
 <figure>
   <img src="/members/pics/groupphoto_2018_final.jpg" width="372px" alt="Group photo 2018"/>
