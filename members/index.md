@@ -200,7 +200,7 @@ title: Group Members
       {% include member.html
           name="Justin Phillips"
           title="Grad Student"
-          image="/members/pics/placeholder.jpg"
+          image="/members/pics/justin.jpg"
           email_name="justin.phillips"
           email_domain="berkeley"
           email_suffix="edu"
