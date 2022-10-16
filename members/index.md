@@ -48,11 +48,7 @@ title: Group Members
           email_name="esaglamyurek"
           email_domain="berkeley"
           email_suffix="edu"
-          bio="After working with quantum optics experiments using vapor cells during my
-            PhD, I am really excited to work on quantum information processing experiments
-            using trapped ions. I am working on simulating a quantum system with trapped
-            ions. Outside of the lab, I like roaming around the bay area, travelling, cooking,
-            listening to music and watching TV series."
+          bio=""
       %}
       {% include member.html
           name="Neha Yadav"
@@ -216,7 +212,7 @@ title: Group Members
           bio=""
       %}
     </tr>
-        <tr>
+    <tr>
       {% include member.html
           name="Bingran You"
           title="Grad Student"
