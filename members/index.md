@@ -216,7 +216,7 @@ title: Group Members
       {% include member.html
           name="Bingran You"
           title="Grad Student"
-          image="/members/pics/placeholder.jpg"
+          image="/members/pics/BingranYou.jpg"
           email_name="bingran.you"
           email_domain="berkeley"
           email_suffix="edu"
