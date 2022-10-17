@@ -44,7 +44,7 @@ title: Group Members
       {% include member.html 
           name="Erhan Saglamyurek" 
           title="Project Scientist" 
-          image="/members/pics/placeholder.jpg" 
+          image="/members/pics/Erhan.jpeg" 
           email_name="esaglamyurek" 
           email_domain="berkeley" 
           email_suffix="edu" 
