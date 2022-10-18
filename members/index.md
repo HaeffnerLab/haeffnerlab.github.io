@@ -55,7 +55,7 @@ title: Group Members
       {% include member.html
           name="Neha Yadav"
           title="Post-Doc"
-          image="/members/pics/placeholder.jpg"
+          image="/members/pics/neha.jpg"
           email_name="neha_yadav"
           email_domain="berkeley"
           email_suffix="edu"
