@@ -176,7 +176,7 @@ title: Group Members
       {% include member.html
           name="Ben Saarel"
           title="Grad Student"
-          image="/members/pics/placeholder.jpg"
+          image="/members/pics/ben.PNG"
           email_name="bsaarel"
           email_domain="berkeley"
           email_suffix="edu"
