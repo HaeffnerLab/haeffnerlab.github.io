@@ -235,7 +235,7 @@ H. Häffner, C. F. Roos, and R. Blatt.
 ## PhD Theses
 
 **"Efficient and trusted operation of quantum computers and quantum simulators"**  
-R. Shaffer (2022). [Download.](/publications/Shaffer-thesis.pdf)  
+R. Shaffer (2022). [Download.](/publications/Shaffer_Thesis.pdf)  
 
 **"Electric-field noise scaling and wire-mediated ion-ion energy exchange in a novel elevator surface trap"**  
 D. An (2021). [Download.](/publications/An-thesis.pdf)  
