@@ -135,20 +135,6 @@ title: Group Members
             Outside the lab I enjoy exploring San Francisco, watching films, and skiing."
       %}
       {% include member.html
-          name="Ryan Shaffer"
-          title="Grad Student"
-          image="/members/pics/ryan.JPG"
-          email_name="ryan.shaffer"
-          email_domain="berkeley"
-          email_suffix="edu"
-          bio="I spent several years programming classical computers before coming to Berkeley
-            to study quantum computers. I'm most interested in the intersection of computer science
-            with quantum information, and how to realize this in physical systems. I also enjoy some
-            human things, like playing basketball, cooking, and traveling."
-      %}
-    </tr>
-    <tr>
-      {% include member.html
           name="Qian Yu"
           title="Grad Student"
           image="/members/pics/qian.jpg"
@@ -160,6 +146,8 @@ title: Group Members
           including coherent evolution and decoherence. Outside the lab I like traveling, reading,
           cooking and playing board games."
       %}
+    </tr>
+    <tr>
       {% include member.html
           name="Shuqi Xu"
           title="Grad Student"
@@ -171,8 +159,6 @@ title: Group Members
             quantum computers, as well as the emergent physics revealed in such quantum system.
             When not in the lab, I enjoy traveling, playing video games, watching and playing soccer."
       %}
-    </tr>
-    <tr>
       {% include member.html
           name="Ben Saarel"
           title="Grad Student"
@@ -182,6 +168,8 @@ title: Group Members
           email_suffix="edu"
           bio=" "
       %}
+    </tr>
+    <tr>
       {% include member.html
           name="Ryan Tollefsen"
           title="Grad Student"
@@ -191,8 +179,6 @@ title: Group Members
           email_suffix="edu"
           bio=""
       %}
-    </tr>
-    <tr>
       {% include member.html
           name="Justin Phillips"
           title="Grad Student"
@@ -202,6 +188,8 @@ title: Group Members
           email_suffix="edu"
           bio=""
       %}
+    </tr>
+    <tr>
       {% include member.html
           name="Isabel Sacksteder"
           title="Grad Student"
@@ -211,8 +199,6 @@ title: Group Members
           email_suffix="edu"
           bio=""
       %}
-    </tr>
-    <tr>
       {% include member.html
           name="Bingran You"
           title="Grad Student"
@@ -240,6 +226,7 @@ title: Group Members
 
 ## Group Alumni
 
+| Ryan Shaffer | *Applied Scientist at Amazon* |
 | Sara Mouradian | *Assistant Professor of ECE, University of Washington* |
 | Da An | *Systems Engineer at Aeva* |
 | Wei-Ting Chen |   |
