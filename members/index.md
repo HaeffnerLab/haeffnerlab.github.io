@@ -221,7 +221,7 @@ title: Group Members
 * Shreya Nagpal 
 * Andris Huang 
 * Anderson Park
-* Tian Cheng
+* Tiancheng Zheng
 * Zuoyao Chen
 
 ## Group Alumni
