@@ -11,6 +11,10 @@ Jump to:
 
 ## Journal Papers
 
+**"Quantum simulation of weak-field light-matter interactions"**<br>
+Steve M. Young, Hartmut Häffner, and Mohan Sarovar<br>
+[Phys. Rev. Research 5, 013027](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.013027).
+
 **"Test of Causal Non-Linear Quantum Mechanics by Ramsey Interferometry on the Vibrational Mode of a Trapped Ion"**<br>
 Joseph Broz, Bingran You, Sumanta Khan, Hartmut Haeffner, David E. Kaplan, Surjeet Rajendran<br>
 [arxiv:2206.12976](https://arxiv.org/abs/2206.12976).
