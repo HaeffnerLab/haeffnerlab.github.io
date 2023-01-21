@@ -20,12 +20,12 @@ We have a limited number of undergraduate research positions available! If you a
 	<img src="/members/pics/groupphoto2022.jpg" width="600px" alt="Group photo 2022" />
 </figure>
 
-<div align="center">
+<!-- <div align="center">
 	<a class="twitter-timeline" data-width="650" data-height="1000" data-dnt="true" data-theme="light" href="https://twitter.com/Berkeley_ions?ref_src=twsrc%5Etfw">
 		Tweets from Berkeley_ions
 	</a>
 	<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+</div> -->
 
 <div id="contact-info">
 	<p>
