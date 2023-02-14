@@ -64,7 +64,7 @@ title: Group Members
       {% include member.html
           name="Elia Perego"
           title="Post-Doc"
-          image="/members/pics/placeholder.jpg"
+          image="/members/pics/elia.jpg"
           email_name="e.perego"
           email_domain="berkeley"
           email_suffix="edu"
