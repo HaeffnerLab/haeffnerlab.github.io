@@ -11,13 +11,9 @@ Jump to:
 
 ## Journal Papers
 
-**"Quantum simulation of weak-field light-matter interactions"**<br>
-Steve M. Young, Hartmut Häffner, and Mohan Sarovar<br>
-[Phys. Rev. Research 5, 013027](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.013027).
-
-**"Test of Causal Non-Linear Quantum Mechanics by Ramsey Interferometry on the Vibrational Mode of a Trapped Ion"**<br>
-Joseph Broz, Bingran You, Sumanta Khan, Hartmut Haeffner, David E. Kaplan, Surjeet Rajendran<br>
-[arxiv:2206.12976](https://arxiv.org/abs/2206.12976).
+**"Test of Causal Non-Linear Quantum Mechanics by Ramsey Interferometry on the Vibrational Mode of a Trapped Ion"**  
+Joseph Broz, Bingran You, Sumanta Khan, Hartmut Haeffner, David E. Kaplan, Surjeet Rajendran  
+[arXiv:2206.12976](https://arxiv.org/abs/2206.12976).
 
 **"Efficient verification of continuously-parameterized quantum gates"**  
 R. Shaffer, H. Ren, E. Dyrenkova, C. G. Yale, D. S. Lobser, A. D. Burch, M. N. H. Chow, M. C. Revelle, S. M. Clark, H. Häffner  
@@ -26,6 +22,10 @@ R. Shaffer, H. Ren, E. Dyrenkova, C. G. Yale, D. S. Lobser, A. D. Burch, M. N. H
 **"Surrogate-based optimization for variational quantum algorithms"**  
 R. Shaffer, L. Kocia, M. Sarovar  
 [Phys. Rev. A 107, 032415 (2023)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.032415), [arXiv:2204.05451](https://arxiv.org/abs/2204.05451).
+
+**"Quantum simulation of weak-field light-matter interactions"**  
+S. M. Young, H. Häffner, M. Sarovar  
+[Phys. Rev. Research 5, 013027 (2023)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.013027), [arXiv.2112.07177](https://arxiv.org/abs/2112.07177).
 
 **"Feasibility study of quantum computing using trapped electrons"**  
 Q. Yu, A. M. Alonso, J. Caminiti, K. M. Beck, R. T. Sutherland, D. Leibfried, K. J. Rodriguez, M. Dhital, B. Hemmerling, H. Häffner  
