@@ -25,7 +25,7 @@ R. Shaffer, H. Ren, E. Dyrenkova, C. G. Yale, D. S. Lobser, A. D. Burch, M. N. H
 
 **"Surrogate-based optimization for variational quantum algorithms"**  
 R. Shaffer, L. Kocia, M. Sarovar  
-[arXiv:2204.05451](https://arxiv.org/abs/2204.05451).
+[Phys. Rev. A 107, 032415 (2023)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.032415), [arXiv:2204.05451](https://arxiv.org/abs/2204.05451).
 
 **"Feasibility study of quantum computing using trapped electrons"**  
 Q. Yu, A. M. Alonso, J. Caminiti, K. M. Beck, R. T. Sutherland, D. Leibfried, K. J. Rodriguez, M. Dhital, B. Hemmerling, H. Häffner  
