@@ -13,7 +13,7 @@ Jump to:
 
 **"Test of Causal Non-Linear Quantum Mechanics by Ramsey Interferometry on the Vibrational Mode of a Trapped Ion"**  
 Joseph Broz, Bingran You, Sumanta Khan, Hartmut Haeffner, David E. Kaplan, Surjeet Rajendran  
-[arXiv:2206.12976](https://arxiv.org/abs/2206.12976).
+[Phys. Rev. Lett. 130, 200201 (2023)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.200201), [arXiv:2206.12976](https://arxiv.org/abs/2206.12976).
 
 **"Sample-efficient verification of continuously-parameterized quantum gates for small quantum processors"**  
 R. Shaffer, H. Ren, E. Dyrenkova, C. G. Yale, D. S. Lobser, A. D. Burch, M. N. H. Chow, M. C. Revelle, S. M. Clark, H. Häffner  
