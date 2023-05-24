@@ -190,7 +190,7 @@ title: Group Members
           email_suffix="edu"
           bio=""
       %}
-      {% include member.html
+<!--       {% include member.html
           name="Bingran You"
           title="Grad Student"
           image="/members/pics/BingranYou.jpg"
@@ -198,7 +198,7 @@ title: Group Members
           email_domain="berkeley"
           email_suffix="edu"
           bio=""
-      %}
+      %} -->
     </tr>
   </table>
 </div>
