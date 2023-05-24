@@ -12,7 +12,7 @@ Jump to:
 ## Journal Papers
 
 **"Test of Causal Non-Linear Quantum Mechanics by Ramsey Interferometry on the Vibrational Mode of a Trapped Ion"**  
-Joseph Broz, Bingran You, Sumanta Khan, Hartmut Haeffner, David E. Kaplan, Surjeet Rajendran  
+Joseph Broz, Sumanta Khan, Hartmut Haeffner, David E. Kaplan, Surjeet Rajendran  
 [Phys. Rev. Lett. 130, 200201 (2023)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.200201), [arXiv:2206.12976](https://arxiv.org/abs/2206.12976).
 
 **"Sample-efficient verification of continuously-parameterized quantum gates for small quantum processors"**  
