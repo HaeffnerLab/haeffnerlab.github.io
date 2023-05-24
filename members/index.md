@@ -112,8 +112,6 @@ title: Group Members
             as just learning and discovering how the universe works. I enjoy exploring the bay
             area, video games, and making lists."
       %}
-    </tr>
-    <tr>
       {% include member.html
           name="Nicole Greene"
           title="Grad Student"
@@ -125,6 +123,8 @@ title: Group Members
             my time designing an apparatus that will soon shuttle and entangle large chains of ions.
             Outside the lab I enjoy exploring San Francisco, watching films, and skiing."
       %}
+    </tr>
+    <tr>
       {% include member.html
           name="Qian Yu"
           title="Grad Student"
@@ -137,8 +137,6 @@ title: Group Members
           including coherent evolution and decoherence. Outside the lab I like traveling, reading,
           cooking and playing board games."
       %}
-    </tr>
-    <tr>
       {% include member.html
           name="Shuqi Xu"
           title="Grad Student"
@@ -150,6 +148,8 @@ title: Group Members
             quantum computers, as well as the emergent physics revealed in such quantum system.
             When not in the lab, I enjoy traveling, playing video games, watching and playing soccer."
       %}
+    </tr>
+    <tr>
       {% include member.html
           name="Ben Saarel"
           title="Grad Student"
@@ -159,8 +159,6 @@ title: Group Members
           email_suffix="edu"
           bio=" "
       %}
-    </tr>
-    <tr>
       {% include member.html
           name="Ryan Tollefsen"
           title="Grad Student"
@@ -170,6 +168,8 @@ title: Group Members
           email_suffix="edu"
           bio=""
       %}
+    </tr>
+    <tr>
       {% include member.html
           name="Justin Phillips"
           title="Grad Student"
@@ -179,8 +179,6 @@ title: Group Members
           email_suffix="edu"
           bio=""
       %}
-    </tr>
-    <tr>
       {% include member.html
           name="Isabel Sacksteder"
           title="Grad Student"
