@@ -87,17 +87,13 @@ title: Group Members
             I'm not in the lab."
       %}
       {% include member.html
-          name="Sumanta Khan"
+          name="Qiming Wu"
           title="Post-Doc"
-          image="/members/pics/khan.jpg"
-          email_name="sumanta"
+          image="/members/pics/placeholder.jpg"
+          email_name="qiming.wu"
           email_domain="berkeley"
           email_suffix="edu"
-          bio="After working with quantum optics experiments using vapor cells during my
-            PhD, I am really excited to work on quantum information processing experiments
-            using trapped ions. I am working on simulating a quantum system with trapped
-            ions. Outside of the lab, I like roaming around the bay area, travelling, cooking,
-            listening to music and watching TV series."
+          bio="..."
       %}
     </tr>
     <tr>
