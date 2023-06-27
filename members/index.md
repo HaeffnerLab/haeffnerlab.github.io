@@ -176,13 +176,13 @@ title: Group Members
           bio=""
       %}
       {% include member.html
-          name="Isabel Sacksteder"
+          name="Izze Sacksteder"
           title="Grad Student"
-          image="/members/pics/placeholder.jpg"
+          image="/members/pics/izze.jpg"
           email_name="izzesacksteder"
           email_domain="berkeley"
           email_suffix="edu"
-          bio=""
+          bio="I’m izze and I majored in math and physics at Willamette University in Salem Oregon, where I became interested in quantum computing. I joined the Häffner group to work on the electron trap project and I’m particularly interested in cooling electrons in a Paul trap using a tank circuit. In my free time I like gardening and going to shows to see local Bay Area bands."
       %}
 <!--       {% include member.html
           name="Bingran You"
