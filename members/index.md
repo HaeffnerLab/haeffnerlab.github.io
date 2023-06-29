@@ -178,7 +178,7 @@ title: Group Members
       {% include member.html
           name="Izze Sacksteder"
           title="Grad Student"
-          image="/members/pics/izze.jpg"
+          image="/members/pics/izze_pic.jpeg"
           email_name="izzesacksteder"
           email_domain="berkeley"
           email_suffix="edu"
