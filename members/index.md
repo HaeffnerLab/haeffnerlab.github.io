@@ -182,7 +182,7 @@ title: Group Members
           email_name="izzesacksteder"
           email_domain="berkeley"
           email_suffix="edu"
-          bio="I’m izze and I majored in math and physics at Willamette University in Salem Oregon. I joined the Häffner group to work on the electron trap project and I’m particularly interested in cooling electrons in a Paul trap using a tank circuit. In my free time I like gardening and going to shows to see local Bay Area bands."
+          bio="I’m Izze and I majored in math and physics at Willamette University in Salem Oregon. I joined the Häffner group to work on the electron trap project and I’m particularly interested in cooling electrons in a Paul trap using a tank circuit. In my free time I like gardening and going to shows to see local Bay Area bands."
       %}
 <!--       {% include member.html
           name="Bingran You"
