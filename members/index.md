@@ -196,7 +196,7 @@ title: Group Members
           bio=""
       %}
       {% include member.html
-          name="Bingran You"
+          name="Ozgur Sahin"
           title="Grad Student"
           image="/members/pics/Ozgur.jpg"
           email_name="ozgur_sahin"
