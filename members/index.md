@@ -214,7 +214,7 @@ title: Group Members
 
 ## Current Undergraduates
 
-* Shreya Nagpal 
+* Berkelly Gonzalez 
 * Andris Huang 
 * Anderson Park
 * Tiancheng Zheng
@@ -255,7 +255,7 @@ title: Group Members
 | Christopher Reilly | Alex Georges | Jessica Yu | Andre He | Thomas Lloyd |
 | Zhao Zhang | Nadav Drechsler | Lara Ostertag | Samuel Cui | Tim Guo |
 | Simone Bibawi | Simon Mayr | Shijia Sun | Sun Ximo | Yi Zhu |
-| Emiliia Dyrenkova | Peter Tirler | | | |
+| Emiliia Dyrenkova | Peter Tirler | Shreya Nagpal | | |
 
 <figure>
   <img src="/members/pics/group_photo_2019_lowres.jpg" width="372px" alt="Group photo 2019"/>
