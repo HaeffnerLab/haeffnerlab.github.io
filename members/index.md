@@ -89,7 +89,7 @@ title: Group Members
       {% include member.html
           name="Qiming Wu"
           title="Post-Doc"
-          image="/members/pics/placeholder.jpg"
+          image="/members/pics/Qiming.jpg"
           email_name="qiming.wu"
           email_domain="berkeley"
           email_suffix="edu"
@@ -210,7 +210,7 @@ title: Group Members
 
 ## Current Visitors
 
-* 
+* Damian Schon
 
 ## Current Undergraduates
 
@@ -219,6 +219,8 @@ title: Group Members
 * Anderson Park
 * Tiancheng Zheng
 * Zuoyao Chen
+* Weiwei Wu
+* Gursimar Rana
 
 ## Group Alumni
 
