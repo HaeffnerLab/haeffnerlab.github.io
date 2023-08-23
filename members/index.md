@@ -116,8 +116,8 @@ title: Group Members
           email_domain="berkeley"
           email_suffix="edu"
           bio="Having previously worked on the local Lorentz invariance experiment, I now spend
-            my time designing an apparatus that will soon shuttle and entangle large chains of ions.
-            Outside the lab I enjoy exploring San Francisco, watching films, and skiing."
+            my time studying the noise sensitivity of entanglement gates.
+            Outside the lab I enjoy exploring San Francisco, watching films, and hiking."
       %}
     </tr>
     <tr>
