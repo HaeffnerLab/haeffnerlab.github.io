@@ -12,7 +12,7 @@ Jump to:
 ## Journal Papers
 
 **"3D-Printed Micro Ion Trap Technology for Scalable Quantum Information Processing"**
-Shuqi Xu, Xiaoxing Xia, Qian Yu, Sumanta Khan, Eli Megidish, Bingran You, Boerge Hemmerling, Andrew Jayich, Juergen Biener, Hartmut Häffner
+S. Xu, X. Xia, Q. Yu, S. Khan, E. Megidish, B. You, B. Hemmerling, A. Jayich, J. Biener, H. Häffner  
 [arXiv:2310.00595](https://arxiv.org/abs/2310.00595).
 
 **"Test of Causal Non-Linear Quantum Mechanics by Ramsey Interferometry on the Vibrational Mode of a Trapped Ion"**  
