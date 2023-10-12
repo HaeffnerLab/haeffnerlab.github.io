@@ -11,6 +11,10 @@ Jump to:
 
 ## Journal Papers
 
+**"3D-Printed Micro Ion Trap Technology for Scalable Quantum Information Processing"**
+Shuqi Xu, Xiaoxing Xia, Qian Yu, Sumanta Khan, Eli Megidish, Bingran You, Boerge Hemmerling, Andrew Jayich, Juergen Biener, Hartmut Häffner
+[arXiv:2310.00595](https://arxiv.org/abs/2310.00595).
+
 **"Test of Causal Non-Linear Quantum Mechanics by Ramsey Interferometry on the Vibrational Mode of a Trapped Ion"**  
 Joseph Broz, Bingran You, Sumanta Khan, Hartmut Haeffner, David E. Kaplan, Surjeet Rajendran  
 [Phys. Rev. Lett. 130, 200201 (2023)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.200201), [arXiv:2206.12976](https://arxiv.org/abs/2206.12976).
