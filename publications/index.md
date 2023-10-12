@@ -16,7 +16,7 @@ S. Xu, X. Xia, Q. Yu, S. Khan, E. Megidish, B. You, B. Hemmerling, A. Jayich, J.
 [arXiv:2310.00595](https://arxiv.org/abs/2310.00595).
 
 **"Test of Causal Non-Linear Quantum Mechanics by Ramsey Interferometry on the Vibrational Mode of a Trapped Ion"**  
-Joseph Broz, Bingran You, Sumanta Khan, Hartmut Haeffner, David E. Kaplan, Surjeet Rajendran  
+J. Broz, B. You, S. Khan, H. Häffner, D. E. Kaplan, S. Rajendran  
 [Phys. Rev. Lett. 130, 200201 (2023)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.200201), [arXiv:2206.12976](https://arxiv.org/abs/2206.12976).
 
 **"Sample-efficient verification of continuously-parameterized quantum gates for small quantum processors"**  
