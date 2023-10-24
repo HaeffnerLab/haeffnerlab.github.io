@@ -11,11 +11,11 @@ Jump to:
 
 ## Journal Papers
 
-**"Systematic study of rotational decoherence with a trapped-ion planar rotor"**
+**"Systematic study of rotational decoherence with a trapped-ion planar rotor"**  
 N. Glikin, B. A. Stickler, R. Tollefsen, S. Mouradian, N. Yadav, E. Urban, K. Hornberger, H. Häffner  
 [arXiv:2310.13293](https://arxiv.org/abs/2310.13293).
 
-**"3D-Printed Micro Ion Trap Technology for Scalable Quantum Information Processing"**
+**"3D-Printed Micro Ion Trap Technology for Scalable Quantum Information Processing"**  
 S. Xu, X. Xia, Q. Yu, S. Khan, E. Megidish, B. You, B. Hemmerling, A. Jayich, J. Biener, H. Häffner  
 [arXiv:2310.00595](https://arxiv.org/abs/2310.00595).
 
