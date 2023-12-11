@@ -248,7 +248,7 @@ H. Häffner, C. F. Roos, and R. Blatt.
 ## PhD Theses
 
 **"Quantum metrology with trapped ions"**  
-J. Broz (2023). [Download.](/publications/broz_thesis.pdf)  
+J. Broz (2023). [Download.](/publications/broz-thesis.pdf)  
 
 **"Efficient and trusted operation of quantum computers and quantum simulators"**  
 R. Shaffer (2022). [Download.](/publications/Shaffer_Thesis.pdf)  
