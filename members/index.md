@@ -241,18 +241,17 @@ title: Group Members
 
 <br/>
 
-| Ishan Talukdar | Brian Timar | Thilo van Hoevel | Ahmed Adelrahman |  |
-| Omid Khosravani | Sankara Narayanan | Josselin Bernardoff | Christian Zimmer |  |
-| Ryan Blais | Ross Hutson | Charles Paul | Kai Krimmel | Lorenzo Leandro |
-| Mark Kokish | Sebastian Gerber | Greg Bolloten | Daniel Tatum | Ian Hayes |
-| Calvin Lau | Axel Kreuter | Oliver Neitzke | Boyan Tabakov | Sam Fendell |
-| Kelsey Johnsen | Nathan Poon | Jiachen Yang | Isabela Le Bras | Todd Karin |
-| Andy Li Cheong Yiu | Chris Overstreet | Gebhard Littich | Sean Arifin | David Gee |
-| Christopher Reilly | Alex Georges | Jessica Yu | Andre He | Thomas Lloyd |
-| Zhao Zhang | Nadav Drechsler | Lara Ostertag | Samuel Cui | Tim Guo |
-| Simone Bibawi | Simon Mayr | Shijia Sun | Sun Ximo | Yi Zhu |
-| Emiliia Dyrenkova | Peter Tirler | Shreya Nagpal | Berkelly Gonzalez 
-| Weiwei Wu | Zuoyao Chen | 
+| Ishan Talukdar | Brian Timar | Thilo van Hoevel | Ahmed Adelrahman |  Omid Khosravani |
+| Sankara Narayanan | Josselin Bernardoff | Christian Zimmer | Ryan Blais  | Ross Hutson |
+| Charles Paul | Kai Krimmel | Lorenzo Leandro | Mark Kokish | Sebastian Gerber | 
+| Greg Bolloten | Daniel Tatum | Ian Hayes | Calvin Lau | Axel Kreuter |
+| Oliver Neitzke | Boyan Tabakov | Sam Fendell | Kelsey Johnsen | Nathan Poon | 
+| Jiachen Yang | Isabela Le Bras | Todd Karin |  Andy Li Cheong Yiu | Chris Overstreet |
+| Gebhard Littich | Sean Arifin | David Gee |  Christopher Reilly | Alex Georges | 
+| Jessica Yu | Andre He | Thomas Lloyd |  Zhao Zhang | Nadav Drechsler |
+| Lara Ostertag | Samuel Cui | Tim Guo | Simone Bibawi | Simon Mayr |
+| Shijia Sun | Sun Ximo | Yi Zhu | Emiliia Dyrenkova | Peter Tirler |
+|  Shreya Nagpal | Berkelly Gonzalez | Weiwei Wu | Zuoyao Chen |  |
 
 <figure>
   <img src="/members/pics/group_photo_2019_lowres.jpg" width="372px" alt="Group photo 2019"/>
