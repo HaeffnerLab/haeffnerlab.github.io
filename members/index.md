@@ -73,20 +73,6 @@ title: Group Members
     </tr>
     <tr>
       {% include member.html
-          name="Alberto Alonso"
-          title="Post-Doc"
-          image="/members/pics/alberto.png"
-          email_name="a.alonso"
-          email_domain="berkeley"
-          email_suffix="edu"
-          bio="After working on antimatter spectroscopy with positronium atoms during
-            my PhD, I am now interested in learning more about the extreme fidelity and
-            control that can be attained with ion traps by manipulating single ions at a
-            time, as well as the implications for fundamental physics and technological
-            applications. I also enjoy playing boardgames, hiking, and videogames when
-            I'm not in the lab."
-      %}
-      {% include member.html
           name="Qiming Wu"
           title="Post-Doc"
           image="/members/pics/Qiming.jpg"
@@ -211,16 +197,14 @@ title: Group Members
 ## Current Visitors
 
 * Damian Schon
+* Bruno Walter Giuliano Wuensch
+* Nathan Gonzalez
 
 ## Current Undergraduates
 
-* Berkelly Gonzalez 
 * Andris Huang 
 * Anderson Park
-* Tiancheng Zheng
-* Zuoyao Chen
-* Weiwei Wu
-* Gursimar Rana
+  
 
 ## Group Alumni
 
@@ -257,7 +241,8 @@ title: Group Members
 | Christopher Reilly | Alex Georges | Jessica Yu | Andre He | Thomas Lloyd |
 | Zhao Zhang | Nadav Drechsler | Lara Ostertag | Samuel Cui | Tim Guo |
 | Simone Bibawi | Simon Mayr | Shijia Sun | Sun Ximo | Yi Zhu |
-| Emiliia Dyrenkova | Peter Tirler | Shreya Nagpal | | |
+| Emiliia Dyrenkova | Peter Tirler | Shreya Nagpal | Berkelly Gonzalez 
+| Weiwei Wu | Zuoyao Chen | 
 
 <figure>
   <img src="/members/pics/group_photo_2019_lowres.jpg" width="372px" alt="Group photo 2019"/>
