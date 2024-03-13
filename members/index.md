@@ -23,9 +23,7 @@ title: Group Members
             strong electric fields change the magnetic moment of the electron, studied
             quantum chaos, ran quantum gates, characterized entangled states, and teleported
             quantum information over 10 micrometers. Notable current achievements of my group
-            are ultra low-noise ion traps and a Michelson-Morley test for electrons. When not
-            behind a keyboard, I love being outside such as on playgrounds with my daughters
-            or on the water windsurfing."
+            are ultra low-noise ion traps, 3D-printed ion traps, control over a quantum rotor, and trapped elecrons. "
       %}
     </tr>
     <tr>
