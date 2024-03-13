@@ -81,9 +81,7 @@ title: Group Members
           email_suffix="edu"
           bio="..."
       %}
-    </tr>
-    <tr>
-      {% include member.html
+            {% include member.html
           name="Neil Glikin"
           title="Grad Student"
           image="/members/pics/neil.jpg"
@@ -94,6 +92,8 @@ title: Group Members
             as just learning and discovering how the universe works. I enjoy exploring the bay
             area, video games, and making lists."
       %}
+    </tr>
+    <tr>
       {% include member.html
           name="Nicole Greene"
           title="Grad Student"
@@ -105,8 +105,6 @@ title: Group Members
             my time studying the noise sensitivity of entanglement gates.
             Outside the lab I enjoy exploring San Francisco, watching films, and hiking."
       %}
-    </tr>
-    <tr>
       {% include member.html
           name="Qian Yu"
           title="Grad Student"
@@ -119,6 +117,8 @@ title: Group Members
           including coherent evolution and decoherence. Outside the lab I like traveling, reading,
           cooking and playing board games."
       %}
+    </tr>
+    <tr>
       {% include member.html
           name="Shuqi Xu"
           title="Grad Student"
@@ -130,8 +130,6 @@ title: Group Members
             quantum computers, as well as the emergent physics revealed in such quantum system.
             When not in the lab, I enjoy traveling, playing video games, watching and playing soccer."
       %}
-    </tr>
-    <tr>
       {% include member.html
           name="Ben Saarel"
           title="Grad Student"
@@ -141,6 +139,8 @@ title: Group Members
           email_suffix="edu"
           bio=" "
       %}
+    </tr>
+    <tr>
       {% include member.html
           name="Ryan Tollefsen"
           title="Grad Student"
@@ -150,8 +150,6 @@ title: Group Members
           email_suffix="edu"
           bio=""
       %}
-    </tr>
-    <tr>
       {% include member.html
           name="Justin Phillips"
           title="Grad Student"
@@ -161,6 +159,8 @@ title: Group Members
           email_suffix="edu"
           bio=""
       %}
+    </tr>
+    <tr>
       {% include member.html
           name="Izze Sacksteder"
           title="Grad Student"
@@ -170,8 +170,6 @@ title: Group Members
           email_suffix="edu"
           bio="I’m Izze and I majored in math and physics at Willamette University in Salem Oregon. I joined the Häffner group to work on the electron trap project and I’m particularly interested in cooling electrons in a Paul trap using a tank circuit. In my free time I like gardening and going to shows to see local Bay Area bands."
       %}
-  </tr>
-  <tr>
       {% include member.html
           name="Bingran You"
           title="Grad Student"
@@ -181,11 +179,22 @@ title: Group Members
           email_suffix="edu"
           bio=""
       %}
+  </tr>
+  <tr>
       {% include member.html
           name="Ozgur Sahin"
           title="Grad Student"
           image="/members/pics/Ozgur.jpg"
           email_name="ozgur_sahin"
+          email_domain="berkeley"
+          email_suffix="edu"
+          bio=""
+      %}
+      {% include member.html
+          name="Yu-Lung Tang"
+          title="Grad Student"
+          image="/members/pics/placeholder.jpg"
+          email_name="yulung_tang"
           email_domain="berkeley"
           email_suffix="edu"
           bio=""
