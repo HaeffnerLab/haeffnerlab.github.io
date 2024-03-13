@@ -217,7 +217,7 @@ title: Group Members
 
 ## Group Alumni
 
-| Alberto Alonso | *PsiQuantum* | 
+| Alberto Alonso | *Research Scientist at PsiQuantum* | 
 | Joseph Broz | *Research Scientist at HRL Laboratories*|
 | Sumanta Khan | *Post-Doc at Aarhus University*|
 | Ryan Shaffer | *Applied Scientist at Amazon* |
