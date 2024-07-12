@@ -12,7 +12,7 @@ Jump to:
 ## Journal Papers
 
 **"Temporally multiplexed ion-photon quantum interface via fast ion-chain transport"**  
-B. You, Q. Wu, D. Miron, W. Ke, I. Monga, E. Saglamyurek, H. Haeffner
+B. You, Q. Wu, D. Miron, W. Ke, I. Monga, E. Saglamyurek, H. Haeffner  
 [arXiv:2405.10501](https://arxiv.org/abs/2405.10501).
 
 **"Systematic study of rotational decoherence with a trapped-ion planar rotor"**  
