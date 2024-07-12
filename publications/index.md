@@ -11,6 +11,10 @@ Jump to:
 
 ## Journal Papers
 
+**"Temporally multiplexed ion-photon quantum interface via fast ion-chain transport"**  
+B. You, Q. Wu, D. Miron, W. Ke, I. Monga, E. Saglamyurek, H. Haeffner
+[arXiv:2405.10501](https://arxiv.org/abs/2405.10501).
+
 **"Systematic study of rotational decoherence with a trapped-ion planar rotor"**  
 N. Glikin, B. A. Stickler, R. Tollefsen, S. Mouradian, N. Yadav, E. Urban, K. Hornberger, H. Häffner  
 [arXiv:2310.13293](https://arxiv.org/abs/2310.13293).
