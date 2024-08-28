@@ -25,7 +25,7 @@ S. Xu, X. Xia, Q. Yu, S. Khan, E. Megidish, B. You, B. Hemmerling, A. Jayich, J.
 
 **"QUANT-NET: A testbed for quantum networking research over deployed fiber"**  
 I. Monga, E. Saglamyrek, E. Kissel, H. Häffner, W. Wu  
-[QuNet '23: Proceedings of the 1st Workshop on Quantum Networks and Distributed Quantum Computing, 2023 Proceeding, ISBN 970-8-4007-0306-5, Association for Computing Machinery New York, NY, United States](https://dl.acm.org/doi/proceedings/10.1145/3610251).
+[QuNet '23: Proceedings of the 1st Workshop on Quantum Networks and Distributed Quantum Computing, 2023 Proceeding, Pages 31–37, ISBN 970-8-4007-0306-5](https://dl.acm.org/doi/proceedings/10.1145/3610251).
 
 **"Test of Causal Non-Linear Quantum Mechanics by Ramsey Interferometry on the Vibrational Mode of a Trapped Ion"**  
 J. Broz, B. You, S. Khan, H. Häffner, D. E. Kaplan, S. Rajendran  
