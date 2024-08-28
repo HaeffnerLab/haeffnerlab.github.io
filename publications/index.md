@@ -23,6 +23,10 @@ N. Glikin, B. A. Stickler, R. Tollefsen, S. Mouradian, N. Yadav, E. Urban, K. Ho
 S. Xu, X. Xia, Q. Yu, S. Khan, E. Megidish, B. You, B. Hemmerling, A. Jayich, J. Biener, H. Häffner  
 [arXiv:2310.00595](https://arxiv.org/abs/2310.00595).
 
+**"QUANT-NET: A testbed for quantum networking research over deployed fiber"**  
+I. Monga, E. Saglamyrek, E. Kissel, H. Häffner, W. Wu  
+[QuNet '23: Proceedings of the 1st Workshop on Quantum Networks and Distributed Quantum Computing, 2023 Proceeding, ISBN 970-8-4007-0306-5, Association for Computing Machinery New York, NY, United States](https://dl.acm.org/doi/proceedings/10.1145/3610251).
+
 **"Test of Causal Non-Linear Quantum Mechanics by Ramsey Interferometry on the Vibrational Mode of a Trapped Ion"**  
 J. Broz, B. You, S. Khan, H. Häffner, D. E. Kaplan, S. Rajendran  
 [Phys. Rev. Lett. 130, 200201 (2023)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.200201), [arXiv:2206.12976](https://arxiv.org/abs/2206.12976).
