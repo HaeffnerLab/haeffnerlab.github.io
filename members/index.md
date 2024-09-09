@@ -81,7 +81,7 @@ title: Group Members
       %}
             {% include member.html
           name="Neil Glikin"
-          title="Grad Student"
+          title="Post-Doc"
           image="/members/pics/neil.jpg"
           email_name="glikin"
           email_domain="berkeley"
