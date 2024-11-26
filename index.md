@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Welcome to the Ion Trap Group at UC Berkeley
+# Welcome to the Ion and Electron Trap Group at UC Berkeley
 
 <div id="affiliations">
 	Department of Physics, University of California, Berkeley <br/>
