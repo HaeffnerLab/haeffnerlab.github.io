@@ -209,23 +209,32 @@ title: Group Members
           bio=""
       %}
     </tr>
+    <tr>
+      {% include member.html
+          name="Andris Huang"
+          title="Grad Student"
+          image="/members/pics/placeholder.jpg"
+          email_name="andrewhz"
+          email_domain="berkeley"
+          email_suffix="edu"
+          bio=""
+      %}
+    </tr>
   </table>
 </div>
 
 ## Current Visitors
 
-* Damian Schon
-* Bruno Walter Giuliano Wuensch
-* Nathan Gonzalez
-
 ## Current Undergraduates
 
-* Andris Huang 
 * Anderson Park
   
 
 ## Group Alumni
 
+| Damian Schon | *Graduate Student Duke* 
+| Bruno Wuensch |   |
+| Nathan Gonzalez |   |
 | Alberto Alonso | *Research Scientist at PsiQuantum* | 
 | Joseph Broz | *Research Scientist at HRL Laboratories*|
 | Sumanta Khan | *Post-Doc at Aarhus University*|
