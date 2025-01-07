@@ -219,6 +219,26 @@ title: Group Members
           email_suffix="edu"
           bio=""
       %}
+      {% include member.html
+          name="Jiarui Liu"
+          title="Grad Student"
+          image="/members/pics/placeholder.jpg"
+          email_name="jry_liu"
+          email_domain="berkeley"
+          email_suffix="edu"
+          bio=""
+      %}
+    </tr>
+    <tr>
+      {% include member.html
+          name="Guangqi Gao"
+          title="Grad Student"
+          image="/members/pics/placeholder.jpg"
+          email_name="guangqi_gao"
+          email_domain="berkeley"
+          email_suffix="edu"
+          bio=""
+      %}
     </tr>
   </table>
 </div>
