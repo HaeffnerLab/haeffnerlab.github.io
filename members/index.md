@@ -91,6 +91,17 @@ title: Group Members
             area, video games, and making lists."
       %}
     </tr>
+        <tr>
+      {% include member.html
+          name="Ke Sun"
+          title="Post-Doc"
+          image="/members/pics/placeholder.jpg"
+          email_name="kesun"
+          email_domain="berkeley"
+          email_suffix="edu"
+          bio="..."
+      %}
+    </tr>
     <tr>
       {% include member.html
           name="Nicole Greene"
