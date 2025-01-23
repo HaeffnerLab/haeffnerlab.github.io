@@ -17,7 +17,7 @@ B. You, Q. Wu, D. Miron, W. Ke, I. Monga, E. Saglamyurek, H. Haeffner
 
 **"Systematic study of rotational decoherence with a trapped-ion planar rotor"**  
 N. Glikin, B. A. Stickler, R. Tollefsen, S. Mouradian, N. Yadav, E. Urban, K. Hornberger, H. Häffner  
-[arXiv:2310.13293](https://arxiv.org/abs/2310.13293).
+[Phys. Rev. Lett. 134, 033601 (2025)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.033601), [arXiv:2310.13293](https://arxiv.org/abs/2310.13293).
 
 **"3D-Printed Micro Ion Trap Technology for Scalable Quantum Information Processing"**  
 S. Xu, X. Xia, Q. Yu, S. Khan, E. Megidish, B. You, B. Hemmerling, A. Jayich, J. Biener, H. Häffner  
