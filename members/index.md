@@ -101,6 +101,15 @@ title: Group Members
           email_suffix="edu"
           bio="..."
       %}
+      {% include member.html
+          name="Baiyi Yu"
+          title="Post-Doc"
+          image="/members/pics/placeholder.jpg"
+          email_name="baiyi_yu"
+          email_domain="berkeley"
+          email_suffix="edu"
+          bio="..."
+      %}
     </tr>
     <tr>
       {% include member.html
