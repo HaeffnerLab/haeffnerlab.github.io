@@ -15,7 +15,7 @@ Jump to:
 B. You, Q. Wu, D. Miron, W. Ke, I. Monga, E. Saglamyurek, H. Haeffner  
 [arXiv:2405.10501](https://arxiv.org/abs/2405.10501).
 
-**"Systematic study of rotational decoherence with a trapped-ion planar rotor"**  
+**"Probing Rotational Decoherence with a Trapped-Ion Planar Rotor"**  
 N. Glikin, B. A. Stickler, R. Tollefsen, S. Mouradian, N. Yadav, E. Urban, K. Hornberger, H. Häffner  
 [Phys. Rev. Lett. 134, 033601 (2025)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.033601), [arXiv:2310.13293](https://arxiv.org/abs/2310.13293).
 
