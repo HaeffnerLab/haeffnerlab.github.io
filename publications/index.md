@@ -13,7 +13,11 @@ Jump to:
 
 **"Numerical Investigations of Electron Dynamics in a Linear Paul Trap"**  
 A. Huang, E. Hausten, Q. Yu, K. Taniguchi, N. Yadav, I. Sacksteder, A. Noguchi, R. Schneider, H. Haeffner
-[arXiv:2503.12379](https://arxiv.org/pdf/2503.12379).
+[arXiv:2503.12379](https://arxiv.org/abs/2503.12379).
+
+**"Mitigation of birefringence in cavity-based quantum networks using frequency-encoded photons"**  
+C. Zhang, J. Phillips, I. Monga, E. Saglamyurek, Q. Wu, H. Haeffner
+[arXiv:2503.05014](https://arxiv.org/abs/2503.05014).
 
 **"Temporally multiplexed ion-photon quantum interface via fast ion-chain transport"**  
 B. You, Q. Wu, D. Miron, W. Ke, I. Monga, E. Saglamyurek, H. Haeffner  
