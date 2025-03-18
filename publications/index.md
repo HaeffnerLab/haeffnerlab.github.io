@@ -11,6 +11,10 @@ Jump to:
 
 ## Journal Papers
 
+**"Numerical Investigations of Electron Dynamics in a Linear Paul Trap"**  
+A. Huang, E. Hausten, Q. Yu, K. Taniguchi, N. Yadav, I. Sacksteder, A. Noguchi, R. Schneider, H. Haeffner
+[arXiv:2503.12379](https://arxiv.org/pdf/2503.12379).
+
 **"Temporally multiplexed ion-photon quantum interface via fast ion-chain transport"**  
 B. You, Q. Wu, D. Miron, W. Ke, I. Monga, E. Saglamyurek, H. Haeffner  
 [arXiv:2405.10501](https://arxiv.org/abs/2405.10501).
