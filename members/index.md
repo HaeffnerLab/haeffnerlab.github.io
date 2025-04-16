@@ -111,6 +111,17 @@ title: Group Members
           bio="..."
       %}
     </tr>
+        <tr>
+      {% include member.html
+          name="Kento Taniguchi"
+          title="Post-Doc"
+          image="/members/pics/placeholder.jpg"
+          email_name="kento-taniguichi@berkeley.edu"
+          email_domain="berkeley"
+          email_suffix="edu"
+          bio="..."
+      %}
+    </tr>
     <tr>
       {% include member.html
           name="Nicole Greene"
