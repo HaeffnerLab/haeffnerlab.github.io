@@ -12,19 +12,19 @@ Jump to:
 ## Journal Papers
 
 **"TrapSIMD: SIMD-Aware Compiler Optimization for 2D Trapped-Ion Quantum Machines"**  
-J. Ruan, H. Zhang, X. Fang, A. Li, W.C. Campbell, E. Hudson, D. Hayes, H. Haeffner, T. Humble, J. Palsberg, Y. Ding
+J. Ruan, H. Zhang, X. Fang, A. Li, W.C. Campbell, E. Hudson, D. Hayes, H. Haeffner, T. Humble, J. Palsberg, Y. Ding  
 [arxiv:2503.12379](https://arxiv.org/abs/2504.17886).
 
 **"Flexion: Adaptive In-Situ Encoding for On-Demand QEC in Ion Trap Systems"**  
-K. Yin, X. Fang, Z. Chen, A. Li, D. Hayes, E. Kaur, R. Nejabati, H. Haeffner, W. Campbell, E. Hudson, J. Palsberg, T. Humble, Y. Ding
+K. Yin, X. Fang, Z. Chen, A. Li, D. Hayes, E. Kaur, R. Nejabati, H. Haeffner, W. Campbell, E. Hudson, J. Palsberg, T. Humble, Y. Ding  
 [arXiv:2503.05014](https://arxiv.org/abs/2503.05014).
 
 **"Numerical Investigations of Electron Dynamics in a Linear Paul Trap"**  
-A. Huang, E. Hausten, Q. Yu, K. Taniguchi, N. Yadav, I. Sacksteder, A. Noguchi, R. Schneider, H. Haeffner
+A. Huang, E. Hausten, Q. Yu, K. Taniguchi, N. Yadav, I. Sacksteder, A. Noguchi, R. Schneider, H. Haeffner  
 [arXiv:2503.12379](https://arxiv.org/abs/2503.12379).
 
 **"Mitigation of birefringence in cavity-based quantum networks using frequency-encoded photons"**  
-C. Zhang, J. Phillips, I. Monga, E. Saglamyurek, Q. Wu, H. Haeffner
+C. Zhang, J. Phillips, I. Monga, E. Saglamyurek, Q. Wu, H. Haeffner  
 [arXiv:2503.05014](https://arxiv.org/abs/2503.05014).
 
 **"Temporally multiplexed ion-photon quantum interface via fast ion-chain transport"**  
