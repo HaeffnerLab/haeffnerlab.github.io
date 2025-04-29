@@ -264,7 +264,7 @@ H. Häffner, C. F. Roos, and R. Blatt.
 ## PhD Theses
 
 **"Creating and Destroying Rotational Quantum Coherence in a Trapped-Ion Coulomb Crystal Rotor"**  
-N. Glikin (2023). [Download.](/publications/Glikin_Thesis.pdf)  
+N. Glikin (2023). [Download.](/publications/Glikin_Thesis_Anniv_Ed.pdf)  
 
 **"Quantum metrology with trapped ions"**  
 J. Broz (2023). [Download.](/publications/broz-thesis.pdf)  
