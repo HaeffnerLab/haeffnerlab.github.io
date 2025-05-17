@@ -17,7 +17,7 @@ J. Ruan, H. Zhang, X. Fang, A. Li, W.C. Campbell, E. Hudson, D. Hayes, H. Haeffn
 
 **"Flexion: Adaptive In-Situ Encoding for On-Demand QEC in Ion Trap Systems"**  
 K. Yin, X. Fang, Z. Chen, A. Li, D. Hayes, E. Kaur, R. Nejabati, H. Haeffner, W. Campbell, E. Hudson, J. Palsberg, T. Humble, Y. Ding  
-[arXiv:2503.05014](https://arxiv.org/abs/2503.05014).
+[arXiv:2504.17886](https://arxiv.org/abs/2504.17886).
 
 **"Numerical Investigations of Electron Dynamics in a Linear Paul Trap"**  
 A. Huang, E. Hausten, Q. Yu, K. Taniguchi, N. Yadav, I. Sacksteder, A. Noguchi, R. Schneider, H. Haeffner  
