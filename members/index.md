@@ -79,19 +79,6 @@ title: Group Members
           email_suffix="edu"
           bio="..."
       %}
-            {% include member.html
-          name="Neil Glikin"
-          title="Post-Doc"
-          image="/members/pics/neil.jpg"
-          email_name="glikin"
-          email_domain="berkeley"
-          email_suffix="edu"
-          bio="I love being able to see the effects of quantum mechanics on a tabletop, as well
-            as just learning and discovering how the universe works. I enjoy exploring the bay
-            area, video games, and making lists."
-      %}
-    </tr>
-        <tr>
       {% include member.html
           name="Ke Sun"
           title="Post-Doc"
@@ -101,6 +88,8 @@ title: Group Members
           email_suffix="edu"
           bio="..."
       %}
+    </tr>
+        <tr>
       {% include member.html
           name="Baiyi Yu"
           title="Post-Doc"
@@ -110,8 +99,6 @@ title: Group Members
           email_suffix="edu"
           bio="..."
       %}
-    </tr>
-        <tr>
       {% include member.html
           name="Kento Taniguchi"
           title="Post-Doc"
@@ -122,6 +109,7 @@ title: Group Members
           bio="..."
       %}
     </tr>
+    
     <tr>
       {% include member.html
           name="Nicole Greene"
@@ -272,11 +260,13 @@ title: Group Members
 
 ## Group Alumni
 
+| Neil Glikin | "Research Scientist at IonQ" |
 | Damian Schon | *Graduate Student Duke* 
 | Bruno Wuensch |   |
 | Nathan Gonzalez |   |
 | Alberto Alonso | *Research Scientist at PsiQuantum* | 
 | Joseph Broz | *Research Scientist at HRL Laboratories*|
+| Sara Mouradian | "Assistant Professor, University of Washington, [https://people.ece.uw.edu/mouradian_sara/index.html](https://people.ece.uw.edu/mouradian_sara/index.html)" |
 | Sumanta Khan | *Post-Doc at Aarhus University*|
 | Ryan Shaffer | *Applied Scientist at Amazon* |
 | Sara Mouradian | *Assistant Professor of ECE, University of Washington* |
@@ -285,7 +275,7 @@ title: Group Members
 | Eli Megidish | *Physicist at Atom Computing* |
 | Clemens Matthiesen | *Senior Scientist at Oxford Ionics* |
 | Maya Berlin-Udi | *Materials Engineer at Cellino Biotech* |
-| Crystal Noel | *Assistant Professor of Physics, Duke University* |
+| Crystal Noel | *Assistant Professor of Physics, Duke University, [https://noellab.pratt.duke.edu/](https://noellab.pratt.duke.edu/)* |
 | Erik Urban | *Electrical Engineer at Exponent* |
 | Alex Chuang | *NSF Fellow, PhD Student at Massachusetts Institute of Technology* |
 | Boerge Hemmerling | *Assistant Professor of Physics, UC Riverside [https://molecules.ucr.edu](https://molecules.ucr.edu)* |
