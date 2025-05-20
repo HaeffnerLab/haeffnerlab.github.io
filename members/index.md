@@ -266,7 +266,7 @@ title: Group Members
 | Nathan Gonzalez |   |
 | Alberto Alonso | *Research Scientist at PsiQuantum* | 
 | Joseph Broz | *Research Scientist at HRL Laboratories*|
-| Sara Mouradian | "Assistant Professor, University of Washington, [https://people.ece.uw.edu/mouradian_sara/index.html](https://people.ece.uw.edu/mouradian_sara/index.html)" |
+| Sara Mouradian | *Assistant Professor, University of Washington, [https://people.ece.uw.edu/mouradian_sara/index.html](https://people.ece.uw.edu/mouradian_sara/index.html)* |
 | Sumanta Khan | *Post-Doc at Aarhus University*|
 | Ryan Shaffer | *Applied Scientist at Amazon* |
 | Sara Mouradian | *Assistant Professor of ECE, University of Washington* |
