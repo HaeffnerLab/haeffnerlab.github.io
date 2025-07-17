@@ -93,7 +93,7 @@ title: Group Members
       {% include member.html
           name="Baiyi Yu"
           title="Post-Doc"
-          image="/members/pics/placeholder.jpg"
+          image="/members/pics/Baiyi.jpg"
           email_name="baiyi_yu"
           email_domain="berkeley"
           email_suffix="edu"
