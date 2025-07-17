@@ -48,22 +48,11 @@ title: Group Members
           email_suffix="edu" 
           bio="" 
       %} 
-    </tr>
-    <tr>
       {% include member.html
           name="Neha Yadav"
           title="Post-Doc"
           image="/members/pics/neha.jpg"
           email_name="neha_yadav"
-          email_domain="berkeley"
-          email_suffix="edu"
-          bio=""
-      %}
-      {% include member.html
-          name="Elia Perego"
-          title="Post-Doc"
-          image="/members/pics/elia.JPG"
-          email_name="e.perego"
           email_domain="berkeley"
           email_suffix="edu"
           bio=""
@@ -255,15 +244,14 @@ title: Group Members
 
 ## Current Undergraduates
 
-* Anderson Park
+* Makayla Hu, Engineering Physics
   
 
 ## Group Alumni
 
-| Neil Glikin | "Research Scientist at IonQ" |
-| Damian Schon | *Graduate Student Duke* 
-| Bruno Wuensch |   |
-| Nathan Gonzalez |   |
+| Elia Perego |   |
+| Neil Glikin | *Research Scientist at IonQ* |
+| Damian Schon | *Graduate Student at Duke University* 
 | Alberto Alonso | *Research Scientist at PsiQuantum* | 
 | Joseph Broz | *Research Scientist at HRL Laboratories*|
 | Sara Mouradian | *Assistant Professor, University of Washington, [https://people.ece.uw.edu/mouradian_sara/index.html](https://people.ece.uw.edu/mouradian_sara/index.html)* |
@@ -294,12 +282,14 @@ title: Group Members
 | Charles Paul | Kai Krimmel | Lorenzo Leandro | Mark Kokish | Sebastian Gerber | 
 | Greg Bolloten | Daniel Tatum | Ian Hayes | Calvin Lau | Axel Kreuter |
 | Oliver Neitzke | Boyan Tabakov | Sam Fendell | Kelsey Johnsen | Nathan Poon | 
-| Jiachen Yang | Isabela Le Bras | Todd Karin |  Andy Li Cheong Yiu | Chris Overstreet |
-| Gebhard Littich | Sean Arifin | David Gee |  Christopher Reilly | Alex Georges | 
+| Jiachen Yang | Isabela Le Bras | Todd Karin | Andy Li Cheong Yiu | Chris Overstreet |
+| Gebhard Littich | Sean Arifin | David Gee | Christopher Reilly | Alex Georges | 
 | Jessica Yu | Andre He | Thomas Lloyd |  Zhao Zhang | Nadav Drechsler |
 | Lara Ostertag | Samuel Cui | Tim Guo | Simone Bibawi | Simon Mayr |
 | Shijia Sun | Sun Ximo | Yi Zhu | Emiliia Dyrenkova | Peter Tirler |
-|  Shreya Nagpal | Berkelly Gonzalez | Weiwei Wu | Zuoyao Chen |  |
+| Shreya Nagpal | Berkelly Gonzalez | Weiwei Wu | Zuoyao Chen | Bruno Wuensch |
+| Nathan Gonzalez | Anderson Park |
+
 
 <figure>
   <img src="/members/pics/group_photo_2019_lowres.jpg" width="372px" alt="Group photo 2019"/>
