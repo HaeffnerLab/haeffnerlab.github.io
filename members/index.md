@@ -74,7 +74,7 @@ title: Group Members
       {% include member.html
           name="Ke Sun"
           title="Post-Doc"
-          image="/members/pics/placeholder.jpg"
+          image="/members/pics/ke.jpg"
           email_name="kesun"
           email_domain="berkeley"
           email_suffix="edu"
