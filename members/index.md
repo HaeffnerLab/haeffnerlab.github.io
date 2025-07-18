@@ -48,6 +48,8 @@ title: Group Members
           email_suffix="edu" 
           bio="" 
       %} 
+    </tr>
+    <tr>
       {% include member.html
           name="Neha Yadav"
           title="Post-Doc"
@@ -57,8 +59,7 @@ title: Group Members
           email_suffix="edu"
           bio=""
       %}
-    </tr>
-    <tr>
+    
       {% include member.html
           name="Qiming Wu"
           title="Post-Doc"
@@ -66,8 +67,10 @@ title: Group Members
           email_name="qiming.wu"
           email_domain="berkeley"
           email_suffix="edu"
-          bio="..."
+          bio=" "
       %}
+    </tr>
+    <tr>
       {% include member.html
           name="Ke Sun"
           title="Post-Doc"
@@ -75,30 +78,38 @@ title: Group Members
           email_name="kesun"
           email_domain="berkeley"
           email_suffix="edu"
-          bio="..."
+          bio=" "
       %}
-    </tr>
-        <tr>
       {% include member.html
           name="Baiyi Yu"
           title="Post-Doc"
-          image="/members/pics/Baiyi.jpg"
+          image="/members/pics/baiyi.jpg"
           email_name="baiyi_yu"
           email_domain="berkeley"
           email_suffix="edu"
-          bio="..."
+          bio=" "
       %}
+    </tr>
+    <tr>
       {% include member.html
           name="Kento Taniguchi"
           title="Post-Doc"
-          image="/members/pics/placeholder.jpg"
+          image="/members/pics/kento.jpg"
           email_name="kento-taniguichi531"
           email_domain="berkeley"
           email_suffix="edu"
-          bio="..."
+          bio=" "
+      %}
+      {% include member.html
+          name="Swapnil Patel"
+          title="Post-Doc"
+          image="/members/pics/placeholder.jpg"
+          email_name="???"
+          email_domain="berkeley"
+          email_suffix="edu"
+          bio=" "
       %}
     </tr>
-    
     <tr>
       {% include member.html
           name="Nicole Greene"
@@ -185,8 +196,8 @@ title: Group Members
           email_suffix="edu"
           bio=""
       %}
-  </tr>
-  <tr>
+    </tr>
+    <tr>
       {% include member.html
           name="Ozgur Sahin"
           title="Grad Student"
@@ -210,11 +221,11 @@ title: Group Members
       {% include member.html
           name="Andris Huang"
           title="Grad Student"
-          image="/members/pics/placeholder.jpg"
+          image="/members/pics/andris.jpg"
           email_name="andrewhz"
           email_domain="berkeley"
           email_suffix="edu"
-          bio=""
+          bio="I was a Berkeley undergrad in Physics and CS and I'm continuing my research here on the trapped electron project. My current research interests lie in the control of electrons using RF electronics. If you are an undergrad student interested in working on trapped electrons, feel free to email me. Note that QCB members will be prioritized :)"
       %}
       {% include member.html
           name="Jiarui Liu"
@@ -230,11 +241,11 @@ title: Group Members
       {% include member.html
           name="Guangqi Gao"
           title="Grad Student"
-          image="/members/pics/placeholder.jpg"
+          image="/members/pics/guangqi.jpg"
           email_name="guangqi_gao"
           email_domain="berkeley"
           email_suffix="edu"
-          bio=""
+          bio="I am Guangqi Gao, a PhD student in the Applied Science & Technology program. I received my bachelor's degree in Physics from Peking University in 2024, where I conducted undergraduate research on quantum chaos. Currently, I am working on the QuantNet project in Hartmut’s lab. After completing my undergraduate studies, I decided to pursue engineering-oriented research. Hartmut’s lab is the perfect place for me, as trapped ion systems lie at the intersection of physics and engineering."
       %}
     </tr>
   </table>
