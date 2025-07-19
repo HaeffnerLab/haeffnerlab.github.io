@@ -63,7 +63,7 @@ title: Group Members
       {% include member.html
           name="Qiming Wu"
           title="Post-Doc"
-          image="/members/pics/Qiming.jpg"
+          image="/members/pics/qiming_2025.jpg"
           email_name="qiming.wu"
           email_domain="berkeley"
           email_suffix="edu"
@@ -103,10 +103,10 @@ title: Group Members
       {% include member.html
           name="Swapnil Patel"
           title="Post-Doc"
-          image="/members/pics/placeholder.jpg"
-          email_name="???"
-          email_domain="berkeley"
-          email_suffix="edu"
+          image="/members/pics/swapnil.jpg"
+          email_name="swapnilpatel"
+          email_domain="lbl"
+          email_suffix="gov"
           bio=" "
       %}
     </tr>
@@ -230,11 +230,11 @@ title: Group Members
       {% include member.html
           name="Jiarui Liu"
           title="Grad Student"
-          image="/members/pics/placeholder.jpg"
+          image="/members/pics/jiarui.jpg"
           email_name="jry_liu"
           email_domain="berkeley"
           email_suffix="edu"
-          bio=""
+          bio="I am Jiarui Liu from USTC undergradute class of 2023. I am working on analogue quantum simulation with trapped ion spins and bosons."
       %}
     </tr>
     <tr>
@@ -251,11 +251,13 @@ title: Group Members
   </table>
 </div>
 
-## Current Visitors
-
+## Current Interns
+* Jason Lee, UC Berkeley
+* Jingxiang (Sam) Yang, University of Oxford
+  
 ## Current Undergraduates
-
 * Makayla Hu, Engineering Physics
+* Keith Chiang, Physics
   
 
 ## Group Alumni
