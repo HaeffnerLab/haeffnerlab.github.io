@@ -219,15 +219,6 @@ title: Group Members
     </tr>
     <tr>
       {% include member.html
-          name="Andris Huang"
-          title="Grad Student"
-          image="/members/pics/andris.jpg"
-          email_name="andrewhz"
-          email_domain="berkeley"
-          email_suffix="edu"
-          bio="I was a Berkeley undergrad in Physics and CS and I'm continuing my research here working on trapping and controlling electrons using RF electronics. If you are an undergrad student interested in working on trapped electrons, feel free to email me. Note that QCB members will be prioritized :)"
-      %}
-      {% include member.html
           name="Jiarui Liu"
           title="Grad Student"
           image="/members/pics/jiarui.png"
@@ -235,6 +226,15 @@ title: Group Members
           email_domain="berkeley"
           email_suffix="edu"
           bio="I am Jiarui Liu from USTC undergradute class of 2023. I am working on analogue quantum simulation with trapped ion spins and bosons."
+      %}
+      {% include member.html
+          name="Andris Huang"
+          title="Grad Student"
+          image="/members/pics/andris.jpg"
+          email_name="andrewhz"
+          email_domain="berkeley"
+          email_suffix="edu"
+          bio="I was a Berkeley undergrad in Physics and CS and I'm continuing my research here working on trapping and controlling electrons using RF electronics. If you are an undergrad student interested in working on trapped electrons, feel free to email me. Note that QCB members will be prioritized :)"
       %}
     </tr>
     <tr>
