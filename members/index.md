@@ -225,12 +225,12 @@ title: Group Members
           email_name="andrewhz"
           email_domain="berkeley"
           email_suffix="edu"
-          bio="I was a Berkeley undergrad in Physics and CS and I'm continuing my research here on the trapped electron project. My current research interests lie in the control of electrons using RF electronics. If you are an undergrad student interested in working on trapped electrons, feel free to email me. Note that QCB members will be prioritized :)"
+          bio="I was a Berkeley undergrad in Physics and CS and I'm continuing my research here working on trapping and controlling electrons using RF electronics. If you are an undergrad student interested in working on trapped electrons, feel free to email me. Note that QCB members will be prioritized :)"
       %}
       {% include member.html
           name="Jiarui Liu"
           title="Grad Student"
-          image="/members/pics/jiarui.jpg"
+          image="/members/pics/jiarui.png"
           email_name="jry_liu"
           email_domain="berkeley"
           email_suffix="edu"
