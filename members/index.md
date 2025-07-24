@@ -210,7 +210,7 @@ title: Group Members
       {% include member.html
           name="Yu-Lung Tang"
           title="Grad Student"
-          image="/members/pics/placeholder.jpg"
+          image="/members/pics/yu-lung.jpg"
           email_name="yulung_tang"
           email_domain="berkeley"
           email_suffix="edu"
@@ -257,6 +257,7 @@ title: Group Members
   
 ## Current Undergraduates
 * Makayla Hu, Engineering Physics
+* Adrian Guan, EECS
 * Keith Chiang, Physics
   
 
