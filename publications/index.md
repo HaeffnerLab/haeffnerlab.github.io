@@ -11,7 +11,7 @@ Jump to:
 
 ## Journal Papers
 
-**"Momenzadeh, Melika, et al. "Scalable Trapped Ion Addressing with Adjoint-optimized Multimode Photonic Circuits"**
+**"Scalable Trapped Ion Addressing with Adjoint-optimized Multimode Photonic Circuits"**
 M. Momenzadeh, K. Sun, Q. Wu, B. You, Y. L. Tang, H. Häffner, M. R. Shcherbakov 
 [arXiv:2505.08997](https://arxiv.org/abs/2505.08997).
 
