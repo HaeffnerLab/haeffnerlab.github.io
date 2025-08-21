@@ -161,7 +161,7 @@ title: Group Members
       {% include member.html
           name="Ryan Tollefsen"
           title="Grad Student"
-          image="/members/pics/placeholder.jpg"
+          image="/members/pics/ryan-tollefsen.png"
           email_name="tollefsen"
           email_domain="berkeley"
           email_suffix="edu"

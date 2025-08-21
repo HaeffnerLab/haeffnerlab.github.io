@@ -11,6 +11,10 @@ Jump to:
 
 ## Journal Papers
 
+**"Momenzadeh, Melika, et al. "Scalable Trapped Ion Addressing with Adjoint-optimized Multimode Photonic Circuits"**
+M. Momenzadeh, K. Sun, Q. Wu, B. You, Y. L. Tang, H. Häffner, M. R. Shcherbakov 
+[arXiv:2505.08997](https://arxiv.org/abs/2505.08997).
+
 **"TrapSIMD: SIMD-Aware Compiler Optimization for 2D Trapped-Ion Quantum Machines"**  
 J. Ruan, H. Zhang, X. Fang, A. Li, W.C. Campbell, E. Hudson, D. Hayes, H. Haeffner, T. Humble, J. Palsberg, Y. Ding  
 [arxiv:2504.17886](https://arxiv.org/abs/2504.17886).
