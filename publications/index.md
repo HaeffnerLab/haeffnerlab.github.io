@@ -11,6 +11,10 @@ Jump to:
 
 ## Journal Papers
 
+**"Trapping of electrons and Ca+ ions in a dual-frequency Paul trap"**
+V. Mikhailovskii, N. Sheth, G. Qu, M. Hejduk, N. V. Lausti, K. T. Satyajith, C. Smorra, G. Werth, N. Yadav, Q. Yu, C. Matthiesen, H. Häffner, F. Schmidt-Kaler, H. Bekker, D. Budker
+[arXiv:2508.16407](https://arxiv.org/abs/2508.16407).
+
 **"Scalable Trapped Ion Addressing with Adjoint-optimized Multimode Photonic Circuits"**
 M. Momenzadeh, K. Sun, Q. Wu, B. You, Y. L. Tang, H. Häffner, M. R. Shcherbakov 
 [arXiv:2505.08997](https://arxiv.org/abs/2505.08997).
