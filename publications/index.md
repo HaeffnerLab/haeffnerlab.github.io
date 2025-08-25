@@ -12,7 +12,6 @@ Jump to:
 ## Journal Papers
 
 **"Trapping of electrons and Ca+ ions in a dual-frequency Paul trap"**
-
 V. Mikhailovskii, N. Sheth, G. Qu, M. Hejduk, N. V. Lausti, K. T. Satyajith, C. Smorra, G. Werth, N. Yadav, Q. Yu, C. Matthiesen, H. Häffner, F. Schmidt-Kaler, H. Bekker, D. Budker
 [arXiv:2508.16407](https://arxiv.org/abs/2508.16407).
 
@@ -34,7 +33,7 @@ A. Huang, E. Hausten, Q. Yu, K. Taniguchi, N. Yadav, I. Sacksteder, A. Noguchi, 
 
 **"Mitigation of birefringence in cavity-based quantum networks using frequency-encoded photons"**  
 C. Zhang, J. Phillips, I. Monga, E. Saglamyurek, Q. Wu, H. Haeffner  
-[Phys. Rev. A 111, 062608 (2025)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.062608) [arXiv:2503.05014](https://arxiv.org/abs/2503.05014).
+[Phys. Rev. A 111, 062608 (2025)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.062608), [arXiv:2503.05014](https://arxiv.org/abs/2503.05014).
 
 **"Temporally multiplexed ion-photon quantum interface via fast ion-chain transport"**  
 B. You, Q. Wu, D. Miron, W. Ke, I. Monga, E. Saglamyurek, H. Haeffner  
