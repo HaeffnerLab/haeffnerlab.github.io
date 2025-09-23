@@ -11,6 +11,10 @@ Jump to:
 
 ## Journal Papers
 
+**"Feasibility Study of 3D-Printed Micro Junction Array for Ion Trap Quantum Processor"**
+Kento Taniguchi, Ke Sun, Shuqi Xu, Abhinav Parakh, Xiaoxing Xia, Michael Schecter, Curtis Volin, Eric Hudson, Hartmut Haeffner
+[arXiv:2509.17275](https://arxiv.org/abs/2509.17275).
+
 **"Trapping of electrons and Ca+ ions in a dual-frequency Paul trap"**
 V. Mikhailovskii, N. Sheth, G. Qu, M. Hejduk, N. V. Lausti, K. T. Satyajith, C. Smorra, G. Werth, N. Yadav, Q. Yu, C. Matthiesen, H. Häffner, F. Schmidt-Kaler, H. Bekker, D. Budker
 [arXiv:2508.16407](https://arxiv.org/abs/2508.16407).
