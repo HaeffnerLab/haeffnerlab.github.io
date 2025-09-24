@@ -11,6 +11,10 @@ Jump to:
 
 ## Journal Papers
 
+**"Observation of synchronization between two quantum van der Pol oscillators in trapped ions"**
+Jiarui Liu, Qiming Wu, Joel E. Moore, Hartmut Haeffner, Christopher W. Wächtler
+[arXiv:2509.18423](https://arxiv.org/abs/2509.18423).
+
 **"Feasibility Study of 3D-Printed Micro Junction Array for Ion Trap Quantum Processor"**
 Kento Taniguchi, Ke Sun, Shuqi Xu, Abhinav Parakh, Xiaoxing Xia, Michael Schecter, Curtis Volin, Eric Hudson, Hartmut Haeffner
 [arXiv:2509.17275](https://arxiv.org/abs/2509.17275).
