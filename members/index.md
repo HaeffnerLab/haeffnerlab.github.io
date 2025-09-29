@@ -95,7 +95,7 @@ title: Group Members
           name="Kento Taniguchi"
           title="Post-Doc"
           image="/members/pics/kento.jpg"
-          email_name="kento-taniguichi531"
+          email_name="kento-taniguchi531"
           email_domain="berkeley"
           email_suffix="edu"
           bio=" "
