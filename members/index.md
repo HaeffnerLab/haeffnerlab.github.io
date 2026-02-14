@@ -112,31 +112,6 @@ title: Group Members
     </tr>
     <tr>
       {% include member.html
-          name="Nicole Greene"
-          title="Grad Student"
-          image="/members/pics/nicole.jpg"
-          email_name="nsgreene"
-          email_domain="berkeley"
-          email_suffix="edu"
-          bio="Having previously worked on the local Lorentz invariance experiment, I now spend
-            my time studying the noise sensitivity of entanglement gates.
-            Outside the lab I enjoy exploring San Francisco, watching films, and hiking."
-      %}
-      {% include member.html
-          name="Qian Yu"
-          title="Grad Student"
-          image="/members/pics/qian.jpg"
-          email_name="qian_yu"
-          email_domain="berkeley"
-          email_suffix="edu"
-          bio="I'm interested in the physical realization of quantum computation and techniques of
-          ion trapping, and I like to explore the quantum dynamics of strongly interacting systems
-          including coherent evolution and decoherence. Outside the lab I like traveling, reading,
-          cooking and playing board games."
-      %}
-    </tr>
-    <tr>
-      {% include member.html
           name="Shuqi Xu"
           title="Grad Student"
           image="/members/pics/shuqi.jpg"
@@ -263,7 +238,10 @@ title: Group Members
 
 ## Group Alumni
 
-| Elia Perego |   |
+| Qian Yu | |
+| Shuqi Xu | |
+| Nicole Greene | *Research Scientist at HRL Laboratories* |
+| Elia Perego | *Research Scientist at Eniquantic* |
 | Neil Glikin | *Research Scientist at IonQ* |
 | Damian Schon | *Graduate Student at Duke University* 
 | Alberto Alonso | *Research Scientist at PsiQuantum* | 
