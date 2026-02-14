@@ -23,9 +23,9 @@ Kento Taniguchi, Ke Sun, Shuqi Xu, Abhinav Parakh, Xiaoxing Xia, Michael Schecte
 V. Mikhailovskii, N. Sheth, G. Qu, M. Hejduk, N. V. Lausti, K. T. Satyajith, C. Smorra, G. Werth, N. Yadav, Q. Yu, C. Matthiesen, H. Häffner, F. Schmidt-Kaler, H. Bekker, D. Budker
 [arXiv:2508.16407](https://arxiv.org/abs/2508.16407).
 
-**"Scalable Trapped Ion Addressing with Adjoint-optimized Multimode Photonic Circuits"**
+**"Individual trapped-ion addressing with adjoint-optimized multimode photonic circuits
 M. Momenzadeh, K. Sun, Q. Wu, B. You, Y. L. Tang, H. Häffner, M. R. Shcherbakov 
-[arXiv:2505.08997](https://arxiv.org/abs/2505.08997).
+[npj Nanophotonics 3 3 (2026)]{https://www.nature.com/articles/s44310-025-00102-4}, [arXiv:2505.08997](https://arxiv.org/abs/2505.08997)
 
 **"TrapSIMD: SIMD-Aware Compiler Optimization for 2D Trapped-Ion Quantum Machines"**  
 J. Ruan, H. Zhang, X. Fang, A. Li, W.C. Campbell, E. Hudson, D. Hayes, H. Haeffner, T. Humble, J. Palsberg, Y. Ding  
