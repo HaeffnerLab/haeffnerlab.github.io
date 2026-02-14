@@ -112,17 +112,6 @@ title: Group Members
     </tr>
     <tr>
       {% include member.html
-          name="Shuqi Xu"
-          title="Grad Student"
-          image="/members/pics/shuqi.jpg"
-          email_name="sqxu"
-          email_domain="berkeley"
-          email_suffix="edu"
-          bio="My research interests lie in tackling challenges towards scalable trapped ion
-            quantum computers, as well as the emergent physics revealed in such quantum system.
-            When not in the lab, I enjoy traveling, playing video games, watching and playing soccer."
-      %}
-      {% include member.html
           name="Ben Saarel"
           title="Grad Student"
           image="/members/pics/ben.PNG"
@@ -131,8 +120,6 @@ title: Group Members
           email_suffix="edu"
           bio=" "
       %}
-    </tr>
-    <tr>
       {% include member.html
           name="Ryan Tollefsen"
           title="Grad Student"
@@ -142,6 +129,8 @@ title: Group Members
           email_suffix="edu"
           bio=""
       %}
+    </tr>
+    <tr>
       {% include member.html
           name="Justin Phillips"
           title="Grad Student"
@@ -151,9 +140,7 @@ title: Group Members
           email_suffix="edu"
           bio=""
       %}
-    </tr>
-    <tr>
-      {% include member.html
+     {% include member.html
           name="Izze Sacksteder"
           title="Grad Student"
           image="/members/pics/izze_pic.jpeg"
@@ -162,6 +149,8 @@ title: Group Members
           email_suffix="edu"
           bio="I’m Izze and I majored in math and physics at Willamette University in Salem Oregon. I joined the Häffner group to work on the electron trap project and I’m particularly interested in cooling electrons in a Paul trap using a tank circuit. In my free time I like gardening and going to shows to see local Bay Area bands."
       %}
+    </tr>
+    <tr>
       {% include member.html
           name="Bingran You"
           title="Grad Student"
@@ -171,8 +160,6 @@ title: Group Members
           email_suffix="edu"
           bio=""
       %}
-    </tr>
-    <tr>
       {% include member.html
           name="Ozgur Sahin"
           title="Grad Student"
@@ -182,6 +169,8 @@ title: Group Members
           email_suffix="edu"
           bio=""
       %}
+    </tr>
+    <tr>
       {% include member.html
           name="Yu-Lung Tang"
           title="Grad Student"
@@ -191,8 +180,6 @@ title: Group Members
           email_suffix="edu"
           bio=""
       %}
-    </tr>
-    <tr>
       {% include member.html
           name="Jiarui Liu"
           title="Grad Student"
@@ -202,6 +189,8 @@ title: Group Members
           email_suffix="edu"
           bio="I am Jiarui Liu from USTC undergradute class of 2023. I am working on analogue quantum simulation with trapped ion spins and bosons."
       %}
+    </tr>
+    <tr>
       {% include member.html
           name="Andris Huang"
           title="Grad Student"
@@ -211,8 +200,6 @@ title: Group Members
           email_suffix="edu"
           bio="I was a Berkeley undergrad in Physics and CS and I'm continuing my research here working on trapping and controlling electrons using RF electronics. If you are an undergrad student interested in working on trapped electrons, feel free to email me. Note that QCB members will be prioritized :)"
       %}
-    </tr>
-    <tr>
       {% include member.html
           name="Guangqi Gao"
           title="Grad Student"
@@ -231,7 +218,6 @@ title: Group Members
 * Jingxiang (Sam) Yang, University of Oxford
   
 ## Current Undergraduates
-* Makayla Hu, Engineering Physics
 * Adrian Guan, EECS
 * Keith Chiang, Physics
   
@@ -254,7 +240,7 @@ title: Group Members
 | Wei-Ting Chen |   |
 | Eli Megidish | *Physicist at Atom Computing* |
 | Clemens Matthiesen | *Senior Scientist at Oxford Ionics* |
-| Maya Berlin-Udi | *Materials Engineer at Cellino Biotech* |
+| Maya Berlin-Udi | *Application Scientist at Zurich Instruments* |
 | Crystal Noel | *Assistant Professor of Physics, Duke University, [https://noellab.pratt.duke.edu/](https://noellab.pratt.duke.edu/)* |
 | Erik Urban | *Electrical Engineer at Exponent* |
 | Alex Chuang | *NSF Fellow, PhD Student at Massachusetts Institute of Technology* |
