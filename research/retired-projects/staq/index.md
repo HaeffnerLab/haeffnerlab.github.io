@@ -5,8 +5,8 @@ title: High Optical Access Trap
 # {{ page.title }}
 
 <figure>
-    <img src="/research/staq/SETUP1.png" alt="Ion trap and rendering of experimental apparatus" height="200" />
-    <img src="/research/staq/SETUP2.png" alt="Diagram of trapping regions" height="166" />
+    <img src="/research/retired-projects/staq/SETUP1.png" alt="Ion trap and rendering of experimental apparatus" height="200" />
+    <img src="/research/retired-projects/staq/SETUP2.png" alt="Diagram of trapping regions" height="166" />
     <figcaption>
         Illustration of experimental setup, including the HOA trap from Sandia, the feedthrough and support
         assembly, and the available trapping regions.
@@ -21,14 +21,14 @@ Key features:
 ## Entangle Long Chains of Ions ([STAQ](https://staq.pratt.duke.edu/))
 
 <figure>
-    <img src="/research/staq/STAQ1.png" alt="Illustration of pairwise gates on distant ions" height="168" />
+    <img src="/research/retired-projects/staq/STAQ1.png" alt="Illustration of pairwise gates on distant ions" height="168" />
     <figcaption>
         Entangling long chains of ions using pairwise M&oslash;lmer-S&oslash;rensen gates on distant ions and ion shuttling.
     </figcaption>
 </figure>
 
 <figure>
-    <img src="/research/staq/STAQ2.png" alt="Illustration of ion chain splitting" height="142" />
+    <img src="/research/retired-projects/staq/STAQ2.png" alt="Illustration of ion chain splitting" height="142" />
     <figcaption>
         Splitting and shuttling entangled states. Measure Bell violation (CHSH) to test entanglement robustness to ions' shuttling.
     </figcaption>
@@ -41,14 +41,14 @@ Using Calcium-40 as logical qubit, we have two options for spectator qubit:
 * Strontium
 
 <figure>
-    <img src="/research/staq/MURI1.png" alt="Illustration of usage of spectator qubits" height="185" />
+    <img src="/research/retired-projects/staq/MURI1.png" alt="Illustration of usage of spectator qubits" height="185" />
     <figcaption>
         Fast B-field fluctuation compensation by measuring spectator qubits and adjusting laser frequency.
     </figcaption>
 </figure>
 
 <figure>
-    <img src="/research/staq/MURI2.png" alt="Illustration of sympathetic cooling" height="155" />
+    <img src="/research/retired-projects/staq/MURI2.png" alt="Illustration of sympathetic cooling" height="155" />
     <figcaption>
         Sympathetic cooling on spectator ions' motional modes to cool logical qubits.
     </figcaption>
