@@ -11,7 +11,7 @@ Jump to:
 
 ## Journal Papers
 
-**"Experimental characterization of coherent and non-Markovian errors using tangent space decomposition"**
+**"Experimental characterization of coherent and non-Markovian errors using tangent space decomposition"**<br>
 Elia Perego, Andrea Rodriguez-Blanco, K. Birgitta Whaley, Bharath Hebbe Madhusudhana
 [arXiv:2602.20128](https://arxiv.org/abs/2602.20128).
 
