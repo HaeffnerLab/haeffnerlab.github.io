@@ -15,19 +15,19 @@ Jump to:
 Elia Perego, Andrea Rodriguez-Blanco, K. Birgitta Whaley, Bharath Hebbe Madhusudhana
 [arXiv:2602.20128](https://arxiv.org/abs/2602.20128).
 
-**"Observation of synchronization between two quantum van der Pol oscillators in trapped ions"**
+**"Observation of synchronization between two quantum van der Pol oscillators in trapped ions"**  
 Jiarui Liu, Qiming Wu, Joel E. Moore, Hartmut Haeffner, Christopher W. Wächtler
 [arXiv:2509.18423](https://arxiv.org/abs/2509.18423).
 
-**"Feasibility Study of 3D-Printed Micro Junction Array for Ion Trap Quantum Processor"**
+**"Feasibility Study of 3D-Printed Micro Junction Array for Ion Trap Quantum Processor"**  
 Kento Taniguchi, Ke Sun, Shuqi Xu, Abhinav Parakh, Xiaoxing Xia, Michael Schecter, Curtis Volin, Eric Hudson, Hartmut Haeffner
 [arXiv:2509.17275](https://arxiv.org/abs/2509.17275).
 
-**"Trapping of electrons and Ca+ ions in a dual-frequency Paul trap"**
+**"Trapping of electrons and Ca+ ions in a dual-frequency Paul trap"**  
 V. Mikhailovskii, N. Sheth, G. Qu, M. Hejduk, N. V. Lausti, K. T. Satyajith, C. Smorra, G. Werth, N. Yadav, Q. Yu, C. Matthiesen, H. Häffner, F. Schmidt-Kaler, H. Bekker, D. Budker
 [arXiv:2508.16407](https://arxiv.org/abs/2508.16407).
 
-**"Individual trapped-ion addressing with adjoint-optimized multimode photonic circuits"**
+**"Individual trapped-ion addressing with adjoint-optimized multimode photonic circuits"**  
 M. Momenzadeh, K. Sun, Q. Wu, B. You, Y. L. Tang, H. Häffner, M. R. Shcherbakov 
 [npj Nanophotonics 3, 3 (2026)](https://www.nature.com/articles/s44310-025-00102-4), [arXiv:2505.08997](https://arxiv.org/abs/2505.08997)
 
