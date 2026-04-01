@@ -25,7 +25,7 @@ Kento Taniguchi, Ke Sun, Shuqi Xu, Abhinav Parakh, Xiaoxing Xia, Michael Schecte
 
 **"Trapping of electrons and Ca+ ions in a dual-frequency Paul trap"**  
 V. Mikhailovskii, N. Sheth, G. Qu, M. Hejduk, N. V. Lausti, K. T. Satyajith, C. Smorra, G. Werth, N. Yadav, Q. Yu, C. Matthiesen, H. Häffner, F. Schmidt-Kaler, H. Bekker, D. Budker
-[arXiv:2508.16407](https://arxiv.org/abs/2508.16407).
+[Phys. Rev. A 113, 043102](https://journals.aps.org/pra/abstract/10.1103/q5kr-5dp7), [arXiv:2508.16407](https://arxiv.org/abs/2508.16407).
 
 **"Individual trapped-ion addressing with adjoint-optimized multimode photonic circuits"**  
 M. Momenzadeh, K. Sun, Q. Wu, B. You, Y. L. Tang, H. Häffner, M. R. Shcherbakov 
