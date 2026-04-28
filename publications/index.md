@@ -38,7 +38,7 @@ J. Ruan, H. Zhang, X. Fang, A. Li, W.C. Campbell, E. Hudson, D. Hayes, H. Haeffn
 **"iSwitch: QEC on Demand via In-Situ Encoding of BareQubits for Ion Trap Architectures"**  
 K. Yin, X. Fang, Z. Chen, A. Li, D. Hayes, E. Kaur, R. Nejabati, H. Haeffner, W. Campbell, E. Hudson, J. Palsberg, T. Humble, Y. Ding  
 [ASPLOS '26: Proceedings of the 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2
-Pages 1007 - 1021, Volumne 2](https://doi.org/10.1145/3779212.3790177), [arXiv:2504.16303](https://arxiv.org/abs/2504.16303).
+Pages 1007 - 1021](https://doi.org/10.1145/3779212.3790177), [arXiv:2504.16303](https://arxiv.org/abs/2504.16303).
 
 **"Numerical Investigations of Electron Dynamics in a Linear Paul Trap"**  
 A. Huang, E. Hausten, Q. Yu, K. Taniguchi, N. Yadav, I. Sacksteder, A. Noguchi, R. Schneider, H. Haeffner  
