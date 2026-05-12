@@ -73,7 +73,6 @@ J. Broz, B. You, S. Khan, H. Häffner, D. E. Kaplan, S. Rajendran<br>
 
 **"Sample-efficient verification of continuously-parameterized quantum gates for small quantum processors"**<br>
 R. Shaffer, H. Ren, E. Dyrenkova, C. G. Yale, D. S. Lobser, A. D. Burch, M. N. H. Chow, M. C. Revelle, S. M. Clark, H. Häffner<br>
-
 [Quantum 7, 997 (2023)](https://quantum-journal.org/papers/q-2023-05-04-997/), 
 [arXiv:2205.13074](https://arxiv.org/abs/2205.13074).
 
