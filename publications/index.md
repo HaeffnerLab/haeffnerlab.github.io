@@ -10,6 +10,9 @@ Jump to:
 [Masters Theses](#masters-theses)
 
 ## Journal Papers
+**"Design and fabrication of a micro-ion trap with a 3D-printed loading zone for improved hot-ion capture"**  
+Sayan Patra, Abhinav Parakh, Xiaoxing Xia, Juergen Biener, Hartmut Häffner, Kristin M. Beck
+[arXiv:2605.08502](https://arxiv.org/abs/2605.08502).
 
 **"Experimental characterization of coherent and non-Markovian errors using tangent space decomposition"**<br>
 Elia Perego, Andrea Rodriguez-Blanco, K. Birgitta Whaley, Bharath Hebbe Madhusudhana  
