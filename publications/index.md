@@ -15,11 +15,11 @@ Sayan Patra, Abhinav Parakh, Xiaoxing Xia, Juergen Biener, Hartmut Häffner, Kri
 [arXiv:2605.08502](https://arxiv.org/abs/2605.08502).
 
 **"Experimental characterization of coherent and non-Markovian errors using tangent space decomposition"**<br>
-Elia Perego, Andrea Rodriguez-Blanco, K. Birgitta Whaley, Bharath Hebbe Madhusudhana  
+Elia Perego, Andrea Rodriguez-Blanco, K. Birgitta Whaley, Bharath Hebbe Madhusudhana<br>
 [arXiv:2602.20128](https://arxiv.org/abs/2602.20128).
 
-**"Observation of synchronization between two quantum van der Pol oscillators in trapped ions"**  
-Jiarui Liu, Qiming Wu, Joel E. Moore, Hartmut Haeffner, Christopher W. Wächtler  
+**"Observation of synchronization between two quantum van der Pol oscillators in trapped ions"**<br>  
+Jiarui Liu, Qiming Wu, Joel E. Moore, Hartmut Haeffner, Christopher W. Wächtler<br>
 [arXiv:2509.18423](https://arxiv.org/abs/2509.18423).
 
 **"Feasibility Study of 3D-Printed Micro Junction Array for Ion Trap Quantum Processor"**  
