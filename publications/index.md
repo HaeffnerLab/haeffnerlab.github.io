@@ -51,24 +51,24 @@ A. Huang, E. Hausten, Q. Yu, K. Taniguchi, N. Yadav, I. Sacksteder, A. Noguchi, 
 C. Zhang, J. Phillips, I. Monga, E. Saglamyurek, Q. Wu, H. Haeffner<br>
 [Phys. Rev. A 111, 062608 (2025)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.062608), [arXiv:2503.05014](https://arxiv.org/abs/2503.05014).
 
-**"Temporally multiplexed ion-photon quantum interface via fast ion-chain transport"**<br>  
-B. You, Q. Wu, D. Miron, W. Ke, I. Monga, E. Saglamyurek, H. Haeffner<br>  
+**"Temporally multiplexed ion-photon quantum interface via fast ion-chain transport"**<br>
+B. You, Q. Wu, D. Miron, W. Ke, I. Monga, E. Saglamyurek, H. Haeffner<br>
 [arXiv:2405.10501](https://arxiv.org/abs/2405.10501).
 
-**"Probing Rotational Decoherence with a Trapped-Ion Planar Rotor"**<br>  
-N. Glikin, B. A. Stickler, R. Tollefsen, S. Mouradian, N. Yadav, E. Urban, K. Hornberger, H. Häffner<br>  
+**"Probing Rotational Decoherence with a Trapped-Ion Planar Rotor"**<br>
+N. Glikin, B. A. Stickler, R. Tollefsen, S. Mouradian, N. Yadav, E. Urban, K. Hornberger, H. Häffner<br>
 [Phys. Rev. Lett. 134, 033601 (2025)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.033601), [arXiv:2310.13293](https://arxiv.org/abs/2310.13293).
 
-**"3D-Printed Micro Ion Trap Technology for Scalable Quantum Information Processing"**<br>  
-S. Xu, X. Xia, Q. Yu, S. Khan, E. Megidish, B. You, B. Hemmerling, A. Jayich, J. Biener, H. Häffner<br>  
+**"3D-Printed Micro Ion Trap Technology for Scalable Quantum Information Processing"**<br>
+S. Xu, X. Xia, Q. Yu, S. Khan, E. Megidish, B. You, B. Hemmerling, A. Jayich, J. Biener, H. Häffner<br>
 [Nature 645, 362-368 (2025)](https://www.nature.com/articles/s41586-025-09474-1), [arXiv:2310.00595](https://arxiv.org/abs/2310.00595).
 
-**"QUANT-NET: A testbed for quantum networking research over deployed fiber"**<br>  
-I. Monga, E. Saglamyrek, E. Kissel, H. Häffner, W. Wu<br>  
+**"QUANT-NET: A testbed for quantum networking research over deployed fiber"**<br>
+I. Monga, E. Saglamyrek, E. Kissel, H. Häffner, W. Wu<br>
 [QuNet '23: Proceedings of the 1st Workshop on Quantum Networks and Distributed Quantum Computing, 2023 Proceeding, Pages 31–37, ISBN 970-8-4007-0306-5](https://dl.acm.org/doi/proceedings/10.1145/3610251).
 
-**"Test of Causal Non-Linear Quantum Mechanics by Ramsey Interferometry on the Vibrational Mode of a Trapped Ion"**<br>  
-J. Broz, B. You, S. Khan, H. Häffner, D. E. Kaplan, S. Rajendran<br>  
+**"Test of Causal Non-Linear Quantum Mechanics by Ramsey Interferometry on the Vibrational Mode of a Trapped Ion"**<br>
+J. Broz, B. You, S. Khan, H. Häffner, D. E. Kaplan, S. Rajendran<br>
 [Phys. Rev. Lett. 130, 200201 (2023)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.200201), [arXiv:2206.12976](https://arxiv.org/abs/2206.12976).
 
 **"Sample-efficient verification of continuously-parameterized quantum gates for small quantum processors"**<br>  
