@@ -32,7 +32,7 @@ V. Mikhailovskii, N. Sheth, G. Qu, M. Hejduk, N. V. Lausti, K. T. Satyajith, C. 
 
 **"Individual trapped-ion addressing with adjoint-optimized multimode photonic circuits"**<br>
 M. Momenzadeh, K. Sun, Q. Wu, B. You, Y. L. Tang, H. Häffner, M. R. Shcherbakov<br>
-[npj Nanophotonics 3, 3 (2026)](https://www.nature.com/articles/s44310-025-00102-4), [arXiv:2505.08997](https://arxiv.org/abs/2505.08997)
+[npj Nanophotonics 3, 3 (2026)](https://www.nature.com/articles/s44310-025-00102-4), [arXiv:2505.08997](https://arxiv.org/abs/2505.08997).
 
 **"TrapSIMD: SIMD-Aware Compiler Optimization for 2D Trapped-Ion Quantum Machines"**<br>
 J. Ruan, H. Zhang, X. Fang, A. Li, W.C. Campbell, E. Hudson, D. Hayes, H. Haeffner, T. Humble, J. Palsberg, Y. Ding<br>
@@ -71,24 +71,25 @@ I. Monga, E. Saglamyrek, E. Kissel, H. Häffner, W. Wu<br>
 J. Broz, B. You, S. Khan, H. Häffner, D. E. Kaplan, S. Rajendran<br>
 [Phys. Rev. Lett. 130, 200201 (2023)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.200201), [arXiv:2206.12976](https://arxiv.org/abs/2206.12976).
 
-**"Sample-efficient verification of continuously-parameterized quantum gates for small quantum processors"**<br>  
-R. Shaffer, H. Ren, E. Dyrenkova, C. G. Yale, D. S. Lobser, A. D. Burch, M. N. H. Chow, M. C. Revelle, S. M. Clark, H. Häffner<br>  
+**"Sample-efficient verification of continuously-parameterized quantum gates for small quantum processors"**<br>
+R. Shaffer, H. Ren, E. Dyrenkova, C. G. Yale, D. S. Lobser, A. D. Burch, M. N. H. Chow, M. C. Revelle, S. M. Clark, H. Häffner<br>
+
 [Quantum 7, 997 (2023)](https://quantum-journal.org/papers/q-2023-05-04-997/), 
 [arXiv:2205.13074](https://arxiv.org/abs/2205.13074).
 
-**"Surrogate-based optimization for variational quantum algorithms"**<br>  
-R. Shaffer, L. Kocia, M. Sarovar<br>  
+**"Surrogate-based optimization for variational quantum algorithms"**<br>
+R. Shaffer, L. Kocia, M. Sarovar<br>
 [Phys. Rev. A 107, 032415 (2023)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.032415), [arXiv:2204.05451](https://arxiv.org/abs/2204.05451).
 
-**"Quantum simulation of weak-field light-matter interactions"**<br>  
+**"Quantum simulation of weak-field light-matter interactions"**<br>
 S. M. Young, H. Häffner, M. Sarovar<br>
 [Phys. Rev. Research 5, 013027 (2023)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.013027), [arXiv.2112.07177](https://arxiv.org/abs/2112.07177).
 
-**"Feasibility study of quantum computing using trapped electrons"**<br>  
-Q. Yu, A. M. Alonso, J. Caminiti, K. M. Beck, R. T. Sutherland, D. Leibfried, K. J. Rodriguez, M. Dhital, B. Hemmerling, H. Häffner<br>  
+**"Feasibility study of quantum computing using trapped electrons"**<br>
+Q. Yu, A. M. Alonso, J. Caminiti, K. M. Beck, R. T. Sutherland, D. Leibfried, K. J. Rodriguez, M. Dhital, B. Hemmerling, H. Häffner<br>
 [Phys. Rev. A 105, 022420 (2022)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.022420), [arXiv:2112.04034](https://arxiv.org/abs/2112.04034).
 
-**"One- and two-qubit gate infidelities due to motional errors in trapped ions and electrons"**<br>  
+**"One- and two-qubit gate infidelities due to motional errors in trapped ions and electrons"**<br>
 R. T. Sutherland, Q. Yu, K. M. Beck, H. Häffner<br>
 [Phys. Rev. A 105, 022437 (2022)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.022437), [arXiv:2111.01913](https://arxiv.org/abs/2111.01913).
 
