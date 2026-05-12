@@ -22,74 +22,74 @@ Elia Perego, Andrea Rodriguez-Blanco, K. Birgitta Whaley, Bharath Hebbe Madhusud
 Jiarui Liu, Qiming Wu, Joel E. Moore, Hartmut Haeffner, Christopher W. Wächtler<br>
 [arXiv:2509.18423](https://arxiv.org/abs/2509.18423).
 
-**"Feasibility Study of 3D-Printed Micro Junction Array for Ion Trap Quantum Processor"**  
-Kento Taniguchi, Ke Sun, Shuqi Xu, Abhinav Parakh, Xiaoxing Xia, Michael Schecter, Curtis Volin, Eric Hudson, Hartmut Haeffner  
+**"Feasibility Study of 3D-Printed Micro Junction Array for Ion Trap Quantum Processor"**<br>  
+Kento Taniguchi, Ke Sun, Shuqi Xu, Abhinav Parakh, Xiaoxing Xia, Michael Schecter, Curtis Volin, Eric Hudson, Hartmut Haeffner<br> 
 [arXiv:2509.17275](https://arxiv.org/abs/2509.17275).
 
-**"Trapping of electrons and Ca+ ions in a dual-frequency Paul trap"**  
-V. Mikhailovskii, N. Sheth, G. Qu, M. Hejduk, N. V. Lausti, K. T. Satyajith, C. Smorra, G. Werth, N. Yadav, Q. Yu, C. Matthiesen, H. Häffner, F. Schmidt-Kaler, H. Bekker, D. Budker  
+**"Trapping of electrons and Ca+ ions in a dual-frequency Paul trap"**<br>  
+V. Mikhailovskii, N. Sheth, G. Qu, M. Hejduk, N. V. Lausti, K. T. Satyajith, C. Smorra, G. Werth, N. Yadav, Q. Yu, C. Matthiesen, H. Häffner, F. Schmidt-Kaler, H. Bekker, D. Budker<br>  
 [Phys. Rev. A 113, 043102](https://journals.aps.org/pra/abstract/10.1103/q5kr-5dp7), [arXiv:2508.16407](https://arxiv.org/abs/2508.16407).
 
-**"Individual trapped-ion addressing with adjoint-optimized multimode photonic circuits"**  
-M. Momenzadeh, K. Sun, Q. Wu, B. You, Y. L. Tang, H. Häffner, M. R. Shcherbakov  
+**"Individual trapped-ion addressing with adjoint-optimized multimode photonic circuits"**<br>  
+M. Momenzadeh, K. Sun, Q. Wu, B. You, Y. L. Tang, H. Häffner, M. R. Shcherbakov<br>  
 [npj Nanophotonics 3, 3 (2026)](https://www.nature.com/articles/s44310-025-00102-4), [arXiv:2505.08997](https://arxiv.org/abs/2505.08997)
 
-**"TrapSIMD: SIMD-Aware Compiler Optimization for 2D Trapped-Ion Quantum Machines"**  
-J. Ruan, H. Zhang, X. Fang, A. Li, W.C. Campbell, E. Hudson, D. Hayes, H. Haeffner, T. Humble, J. Palsberg, Y. Ding  
+**"TrapSIMD: SIMD-Aware Compiler Optimization for 2D Trapped-Ion Quantum Machines"**<br>  
+J. Ruan, H. Zhang, X. Fang, A. Li, W.C. Campbell, E. Hudson, D. Hayes, H. Haeffner, T. Humble, J. Palsberg, Y. Ding<br>  
 [arxiv:2504.17886](https://arxiv.org/abs/2504.17886).
 
-**"iSwitch: QEC on Demand via In-Situ Encoding of BareQubits for Ion Trap Architectures"**  
-K. Yin, X. Fang, Z. Chen, A. Li, D. Hayes, E. Kaur, R. Nejabati, H. Haeffner, W. Campbell, E. Hudson, J. Palsberg, T. Humble, Y. Ding  
+**"iSwitch: QEC on Demand via In-Situ Encoding of BareQubits for Ion Trap Architectures"**<br>  
+K. Yin, X. Fang, Z. Chen, A. Li, D. Hayes, E. Kaur, R. Nejabati, H. Haeffner, W. Campbell, E. Hudson, J. Palsberg, T. Humble, Y. Ding<br>  
 [ASPLOS '26: Proceedings of the 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2
 Pages 1007 - 1021](https://doi.org/10.1145/3779212.3790177), [arXiv:2504.16303](https://arxiv.org/abs/2504.16303).
 
-**"Numerical Investigations of Electron Dynamics in a Linear Paul Trap"**  
-A. Huang, E. Hausten, Q. Yu, K. Taniguchi, N. Yadav, I. Sacksteder, A. Noguchi, R. Schneider, H. Haeffner  
+**"Numerical Investigations of Electron Dynamics in a Linear Paul Trap"**<br>  
+A. Huang, E. Hausten, Q. Yu, K. Taniguchi, N. Yadav, I. Sacksteder, A. Noguchi, R. Schneider, H. Haeffner<br>  
 [arXiv:2503.12379](https://arxiv.org/abs/2503.12379).
 
-**"Mitigation of birefringence in cavity-based quantum networks using frequency-encoded photons"**  
-C. Zhang, J. Phillips, I. Monga, E. Saglamyurek, Q. Wu, H. Haeffner  
+**"Mitigation of birefringence in cavity-based quantum networks using frequency-encoded photons"**<br>  
+C. Zhang, J. Phillips, I. Monga, E. Saglamyurek, Q. Wu, H. Haeffner<br>  
 [Phys. Rev. A 111, 062608 (2025)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.062608), [arXiv:2503.05014](https://arxiv.org/abs/2503.05014).
 
-**"Temporally multiplexed ion-photon quantum interface via fast ion-chain transport"**  
-B. You, Q. Wu, D. Miron, W. Ke, I. Monga, E. Saglamyurek, H. Haeffner  
+**"Temporally multiplexed ion-photon quantum interface via fast ion-chain transport"**<br>  
+B. You, Q. Wu, D. Miron, W. Ke, I. Monga, E. Saglamyurek, H. Haeffner<br>  
 [arXiv:2405.10501](https://arxiv.org/abs/2405.10501).
 
-**"Probing Rotational Decoherence with a Trapped-Ion Planar Rotor"**  
-N. Glikin, B. A. Stickler, R. Tollefsen, S. Mouradian, N. Yadav, E. Urban, K. Hornberger, H. Häffner  
+**"Probing Rotational Decoherence with a Trapped-Ion Planar Rotor"**<br>  
+N. Glikin, B. A. Stickler, R. Tollefsen, S. Mouradian, N. Yadav, E. Urban, K. Hornberger, H. Häffner<br>  
 [Phys. Rev. Lett. 134, 033601 (2025)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.033601), [arXiv:2310.13293](https://arxiv.org/abs/2310.13293).
 
-**"3D-Printed Micro Ion Trap Technology for Scalable Quantum Information Processing"**  
-S. Xu, X. Xia, Q. Yu, S. Khan, E. Megidish, B. You, B. Hemmerling, A. Jayich, J. Biener, H. Häffner  
+**"3D-Printed Micro Ion Trap Technology for Scalable Quantum Information Processing"**<br>  
+S. Xu, X. Xia, Q. Yu, S. Khan, E. Megidish, B. You, B. Hemmerling, A. Jayich, J. Biener, H. Häffner<br>  
 [Nature 645, 362-368 (2025)](https://www.nature.com/articles/s41586-025-09474-1), [arXiv:2310.00595](https://arxiv.org/abs/2310.00595).
 
-**"QUANT-NET: A testbed for quantum networking research over deployed fiber"**  
-I. Monga, E. Saglamyrek, E. Kissel, H. Häffner, W. Wu  
+**"QUANT-NET: A testbed for quantum networking research over deployed fiber"**<br>  
+I. Monga, E. Saglamyrek, E. Kissel, H. Häffner, W. Wu<br>  
 [QuNet '23: Proceedings of the 1st Workshop on Quantum Networks and Distributed Quantum Computing, 2023 Proceeding, Pages 31–37, ISBN 970-8-4007-0306-5](https://dl.acm.org/doi/proceedings/10.1145/3610251).
 
-**"Test of Causal Non-Linear Quantum Mechanics by Ramsey Interferometry on the Vibrational Mode of a Trapped Ion"**  
-J. Broz, B. You, S. Khan, H. Häffner, D. E. Kaplan, S. Rajendran  
+**"Test of Causal Non-Linear Quantum Mechanics by Ramsey Interferometry on the Vibrational Mode of a Trapped Ion"**<br>  
+J. Broz, B. You, S. Khan, H. Häffner, D. E. Kaplan, S. Rajendran<br>  
 [Phys. Rev. Lett. 130, 200201 (2023)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.200201), [arXiv:2206.12976](https://arxiv.org/abs/2206.12976).
 
-**"Sample-efficient verification of continuously-parameterized quantum gates for small quantum processors"**  
-R. Shaffer, H. Ren, E. Dyrenkova, C. G. Yale, D. S. Lobser, A. D. Burch, M. N. H. Chow, M. C. Revelle, S. M. Clark, H. Häffner  
+**"Sample-efficient verification of continuously-parameterized quantum gates for small quantum processors"**<br>  
+R. Shaffer, H. Ren, E. Dyrenkova, C. G. Yale, D. S. Lobser, A. D. Burch, M. N. H. Chow, M. C. Revelle, S. M. Clark, H. Häffner<br>  
 [Quantum 7, 997 (2023)](https://quantum-journal.org/papers/q-2023-05-04-997/), 
 [arXiv:2205.13074](https://arxiv.org/abs/2205.13074).
 
-**"Surrogate-based optimization for variational quantum algorithms"**  
-R. Shaffer, L. Kocia, M. Sarovar  
+**"Surrogate-based optimization for variational quantum algorithms"**<br>  
+R. Shaffer, L. Kocia, M. Sarovar<br>  
 [Phys. Rev. A 107, 032415 (2023)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.032415), [arXiv:2204.05451](https://arxiv.org/abs/2204.05451).
 
-**"Quantum simulation of weak-field light-matter interactions"**  
-S. M. Young, H. Häffner, M. Sarovar  
+**"Quantum simulation of weak-field light-matter interactions"**<br>  
+S. M. Young, H. Häffner, M. Sarovar<br>
 [Phys. Rev. Research 5, 013027 (2023)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.013027), [arXiv.2112.07177](https://arxiv.org/abs/2112.07177).
 
-**"Feasibility study of quantum computing using trapped electrons"**  
-Q. Yu, A. M. Alonso, J. Caminiti, K. M. Beck, R. T. Sutherland, D. Leibfried, K. J. Rodriguez, M. Dhital, B. Hemmerling, H. Häffner  
+**"Feasibility study of quantum computing using trapped electrons"**<br>  
+Q. Yu, A. M. Alonso, J. Caminiti, K. M. Beck, R. T. Sutherland, D. Leibfried, K. J. Rodriguez, M. Dhital, B. Hemmerling, H. Häffner<br>  
 [Phys. Rev. A 105, 022420 (2022)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.022420), [arXiv:2112.04034](https://arxiv.org/abs/2112.04034).
 
-**"One- and two-qubit gate infidelities due to motional errors in trapped ions and electrons"**  
-R. T. Sutherland, Q. Yu, K. M. Beck, H. Häffner  
+**"One- and two-qubit gate infidelities due to motional errors in trapped ions and electrons"**<br>  
+R. T. Sutherland, Q. Yu, K. M. Beck, H. Häffner<br>
 [Phys. Rev. A 105, 022437 (2022)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.022437), [arXiv:2111.01913](https://arxiv.org/abs/2111.01913).
 
 **"Coupling two laser-cooled ions via a room-temperature conductor"**  
