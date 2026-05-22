@@ -158,7 +158,7 @@ title: Group Members
           email_name="bingran.you"
           email_domain="berkeley"
           email_suffix="edu"
-          bio=""
+          bio="I am Bingran You, a PhD student in the Applied Science & Technology program. My personal website: <a href='https://www.bingranyou.com' target='_blank'>www.bingranyou.com</a>."
       %}
       {% include member.html
           name="Ozgur Sahin"
