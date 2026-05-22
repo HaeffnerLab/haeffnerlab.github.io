@@ -32,7 +32,7 @@ DAMOP 2025 (poster).
 
 ### Grating Couplers
 
-A second route uses focusing grating couplers embedded in a surface-electrode trap to individually address closely-spaced ions through openings in the trap electrodes. By tailoring the coupler geometry with adjoint optimization and controlling the interference of higher-order TE modes, the device delivers diffraction-limited focal spots with simulated crosstalk down to -60 dB at ion separations of 5-8 &micro;m. The higher-order modes themselves provide a new handle for driving spin-motion-coupling transitions, suggesting alternative routes to quantum gates and simulations.
+We are also exploring focusing grating couplers embedded in a surface-electrode trap to individually address closely-spaced ions through openings in the trap electrodes. By tailoring the coupler geometry with adjoint optimization and controlling the interference of higher-order TE modes, the device delivers diffraction-limited focal spots with simulated crosstalk down to -60 dB at ion separations of 5-8 &micro;m. The higher-order modes themselves provide a new handle for driving spin-motion-coupling transitions, suggesting alternative routes to quantum gates and simulations. This effort is supported by the [UC Noyce Initiative](https://ucnoyce.org/).
 
 **"Individual trapped-ion addressing with adjoint-optimized multimode photonic circuits"**  
 M. Momenzadeh, K. Sun, Q. Wu, B. You, Y.-L. Tang, H. H&auml;ffner, M. R. Shcherbakov  
