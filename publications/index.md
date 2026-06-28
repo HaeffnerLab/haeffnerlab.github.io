@@ -299,6 +299,10 @@ H. Häffner, C. F. Roos, and R. Blatt.
 
 ## PhD Theses
 
+**"Probing Electric Field Noise Above Ion Traps from 7 K to 600 K and the Influence of Surface
+Structure on Noise Levels"**  
+B. Saarel (2026). [Download.](/publications/Saarel_Thesis.pdf)  
+
 **"Creating and Destroying Rotational Quantum Coherence in a Trapped-Ion Coulomb Crystal Rotor"**  
 N. Glikin (2023). [Download.](/publications/Glikin_Thesis_Anniv_Ed.pdf)  
 
