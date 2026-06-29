@@ -24,7 +24,10 @@ Elia Perego, Andrea Rodriguez-Blanco, K. Birgitta Whaley, Bharath Hebbe Madhusud
 
 **"Observation of synchronization between two quantum van der Pol oscillators in trapped ions"**<br>
 Jiarui Liu, Qiming Wu, Joel E. Moore, Hartmut Haeffner, Christopher W. Wächtler<br>
-[arXiv:2509.18423](https://arxiv.org/abs/2509.18423).
+[Phys. Rev. X 16, 021062 (2026)](https://doi.org/10.1103/w1bm-wjl4), 
+[arXiv:2509.18423](https://arxiv.org/abs/2509.18423). <br>
+See also Physics Viewpoint by Jamir Marino:  
+_"“Quantum Oscillators Find a Shared Beat"_, [Physics 19, 93](https://physics.aps.org/articles/v19/93).  
 
 **"Feasibility Study of 3D-Printed Micro Junction Array for Ion Trap Quantum Processor"**<br>
 Kento Taniguchi, Ke Sun, Shuqi Xu, Abhinav Parakh, Xiaoxing Xia, Michael Schecter, Curtis Volin, Eric Hudson, Hartmut Haeffner<br> 
