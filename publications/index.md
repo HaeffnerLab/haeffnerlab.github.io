@@ -27,7 +27,7 @@ Jiarui Liu, Qiming Wu, Joel E. Moore, Hartmut Haeffner, Christopher W. Wächtler
 [Phys. Rev. X 16, 021062 (2026)](https://doi.org/10.1103/w1bm-wjl4), 
 [arXiv:2509.18423](https://arxiv.org/abs/2509.18423). <br>
 See also Physics Viewpoint by Jamir Marino:  
-_"“Quantum Oscillators Find a Shared Beat"_, [Physics 19, 93](https://physics.aps.org/articles/v19/93).  
+"Quantum Oscillators Find a Shared Beat"_, [Physics 19, 93](https://physics.aps.org/articles/v19/93).  
 
 **"Feasibility Study of 3D-Printed Micro Junction Array for Ion Trap Quantum Processor"**<br>
 Kento Taniguchi, Ke Sun, Shuqi Xu, Abhinav Parakh, Xiaoxing Xia, Michael Schecter, Curtis Volin, Eric Hudson, Hartmut Haeffner<br> 
@@ -103,7 +103,7 @@ R. T. Sutherland, Q. Yu, K. M. Beck, H. Häffner<br>
 D. An, A. M. Alonso, C. Matthiesen, H. Häffner  
 [Phys. Rev. Lett. 128, 063201 (2022)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.063201), [arXiv:2107.00851](https://arxiv.org/abs/2107.00851).<br>
 See also Physics Viewpoint by Christian Tomás Schmiegelow:  
-_"“Tin-Can Telephone” Connects Two Ions"_, [Physics 15, 16](https://physics.aps.org/articles/v15/16).  
+"Tin-Can Telephone” Connects Two Ions"_, [Physics 15, 16](https://physics.aps.org/articles/v15/16).  
 
 **"Trapped electrons and ions as particle detectors"**  
 D. Carney, H. Häffner, D. C. Moore, J. M. Taylor  
