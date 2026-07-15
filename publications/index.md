@@ -10,9 +10,17 @@ Jump to:
 [Masters Theses](#masters-theses)
 
 ## Journal Papers
+**"Electrical Noise Produced by Micron-Sized Particles above a Surface Paul Trap"**<br>
+Ben Saarel, Ozgur Sahin, Alpha T. N'Diaye, Hartmut Häffner<br>
+[arXiv:2605.19585](https://https://arxiv.org/abs/2606.19585).
+
 **"Engineered Randomness for Ubiquitous Quantum-Enhanced Metrology in Exponential-Dimensional Manifolds"**<br>
 Yaoming Chu, Baiyi Yu, Hartmut Häffner, Markus Heyl, Nathan Goldman, Jianming Cai<br>
 [arXiv:2605.31442](https://https://arxiv.org/abs/2605.31442).
+
+**"Transient dynamics of parametric driving for single-electron image current detection in a Paul trap"**<br>
+Baiyi Yu, Andris Huang, Isabel Sacksteder, Hartmut Haeffner<br>
+[arXiv:2605.15087](https://https://arxiv.org/abs/2605.15087).
 
 **"Design and fabrication of a micro-ion trap with a 3D-printed loading zone for improved hot-ion capture"**<br>
 Sayan Patra, Abhinav Parakh, Xiaoxing Xia, Juergen Biener, Hartmut Häffner, Kristin M. Beck<br>
