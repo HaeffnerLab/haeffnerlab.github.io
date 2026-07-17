@@ -79,7 +79,7 @@ S. Xu, X. Xia, Q. Yu, S. Khan, E. Megidish, B. You, B. Hemmerling, A. Jayich, J.
 [Nature 645, 362-368 (2025)](https://www.nature.com/articles/s41586-025-09474-1), [arXiv:2310.00595](https://arxiv.org/abs/2310.00595).
 
 **"The Quant-NET testbed development and preliminary results"**<br>
-D. Schon, P. Umesh, Y.-W. Cheah, S.-Y. Yu, E. Kissel, R. Valivarthi, E. Saglamyurek, L. Ramakrishnan, W. Wu, A. Sipahigil, M. Spiropulu, H. Häffner, I.r Monga<br>
+D. Schon, P. Umesh, Y.-W. Cheah, S.-Y. Yu, E. Kissel, R. Valivarthi, E. Saglamyurek, L. Ramakrishnan, W. Wu, A. Sipahigil, M. Spiropulu, H. Häffner, I. Monga<br>
 [2024 IEEE International Conference on Quantum Computing and Engineering (QCE)](https://ieeexplore.ieee.org/abstract/document/10821316)
 
 **"QUANT-NET: A testbed for quantum networking research over deployed fiber"**<br>
