@@ -78,6 +78,10 @@ N. Glikin, B. A. Stickler, R. Tollefsen, S. Mouradian, N. Yadav, E. Urban, K. Ho
 S. Xu, X. Xia, Q. Yu, S. Khan, E. Megidish, B. You, B. Hemmerling, A. Jayich, J. Biener, H. Häffner<br>
 [Nature 645, 362-368 (2025)](https://www.nature.com/articles/s41586-025-09474-1), [arXiv:2310.00595](https://arxiv.org/abs/2310.00595).
 
+**"The Quant-NET testbed development and preliminary results"**<br>
+D. Schon, P. Umesh, Y.-W. Cheah, S.-Y. Yu, E. Kissel, R. Valivarthi, E. Saglamyurek, L. Ramakrishnan, W. Wu, A. Sipahigil, M. Spiropulu, H. Häffner, I.r Monga<br>
+[2024 IEEE International Conference on Quantum Computing and Engineering (QCE)](https://ieeexplore.ieee.org/abstract/document/10821316)
+
 **"QUANT-NET: A testbed for quantum networking research over deployed fiber"**<br>
 I. Monga, E. Saglamyrek, E. Kissel, H. Häffner, W. Wu<br>
 [QuNet '23: Proceedings of the 1st Workshop on Quantum Networks and Distributed Quantum Computing, 2023 Proceeding, Pages 31–37, ISBN 970-8-4007-0306-5](https://dl.acm.org/doi/proceedings/10.1145/3610251).
