@@ -10,6 +10,10 @@ Jump to:
 [Masters Theses](#masters-theses)
 
 ## Journal Papers
+**"A broadband, individually addressing two- and three-dimensional photonic integrated circuit for trapped-ion qubit control"**<br>
+Daniel Klawson, Yiyang Zhi, Bingran You, Michael Bareian, Elijah Mossman, Chun-Yuan Fan, Arkadev Roy, Ke Sun, Jason Lee, Sung Cheol Yoon, Qiming Wu, Lai Jiang, Wenjun Ke, Weiwei Wu, Sirui Tang, Zachary Wall, Jiaxiang Wang, Louis Paul Romero, Sam Vizvary, Steven Diaz, Eric R. Hudson, Wesley C. Campbell, Hartmut Haeffner, Ming C. Wu<br>
+[arXiv:2607.25062](https://https://arxiv.org/abs/2607.25062).
+
 **"Electrical Noise Produced by Micron-Sized Particles above a Surface Paul Trap"**<br>
 Ben Saarel, Ozgur Sahin, Alpha T. N'Diaye, Hartmut Häffner<br>
 [arXiv:2605.19585](https://https://arxiv.org/abs/2606.19585).
