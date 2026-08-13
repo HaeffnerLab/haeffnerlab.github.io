@@ -28,6 +28,7 @@ Baiyi Yu, Andris Huang, Isabel Sacksteder, Hartmut Haeffner<br>
 
 **"Design and fabrication of a micro-ion trap with a 3D-printed loading zone for improved hot-ion capture"**<br>
 Sayan Patra, Abhinav Parakh, Xiaoxing Xia, Juergen Biener, Hartmut Häffner, Kristin M. Beck<br>
+[Rev. Sci. Instrum. 97, 083202 (2026)](https://doi.org/10.1063/5.0343417), 
 [arXiv:2605.08502](https://arxiv.org/abs/2605.08502).
 
 **"Experimental characterization of coherent and non-Markovian errors using tangent space decomposition"**<br>
