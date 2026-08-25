@@ -24,7 +24,7 @@ Yaoming Chu, Baiyi Yu, Hartmut Häffner, Markus Heyl, Nathan Goldman, Jianming C
 
 **"Transient dynamics of parametric driving for single-electron image current detection in a Paul trap"**<br>
 Baiyi Yu, Andris Huang, Isabel Sacksteder, Hartmut Haeffner<br>
-[arXiv:2605.15087](https://https://arxiv.org/abs/2605.15087).
+[Phys. Rev. Appl. 26, 024070 (2026)](https://doi.org/10.1103/krxg-clfg), [arXiv:2605.15087](https://https://arxiv.org/abs/2605.15087).
 
 **"Design and fabrication of a micro-ion trap with a 3D-printed loading zone for improved hot-ion capture"**<br>
 Sayan Patra, Abhinav Parakh, Xiaoxing Xia, Juergen Biener, Hartmut Häffner, Kristin M. Beck<br>
