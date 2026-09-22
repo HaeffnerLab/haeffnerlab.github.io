@@ -12,19 +12,19 @@ Jump to:
 ## Journal Papers
 **"A broadband, individually addressing two- and three-dimensional photonic integrated circuit for trapped-ion qubit control"**<br>
 Daniel Klawson, Yiyang Zhi, Bingran You, Michael Bareian, Elijah Mossman, Chun-Yuan Fan, Arkadev Roy, Ke Sun, Jason Lee, Sung Cheol Yoon, Qiming Wu, Lai Jiang, Wenjun Ke, Weiwei Wu, Sirui Tang, Zachary Wall, Jiaxiang Wang, Louis Paul Romero, Sam Vizvary, Steven Diaz, Eric R. Hudson, Wesley C. Campbell, Hartmut Haeffner, Ming C. Wu<br>
-[arXiv:2607.25062](https://https://arxiv.org/abs/2607.25062).
+[arXiv:2607.25062](https://arxiv.org/abs/2607.25062).
 
 **"Electrical Noise Produced by Micron-Sized Particles above a Surface Paul Trap"**<br>
 Ben Saarel, Ozgur Sahin, Alpha T. N'Diaye, Hartmut Häffner<br>
-[arXiv:2605.19585](https://https://arxiv.org/abs/2606.19585).
+[arXiv:2605.19585](https://arxiv.org/abs/2606.19585).
 
 **"Engineered Randomness for Ubiquitous Quantum-Enhanced Metrology in Exponential-Dimensional Manifolds"**<br>
 Yaoming Chu, Baiyi Yu, Hartmut Häffner, Markus Heyl, Nathan Goldman, Jianming Cai<br>
-[arXiv:2605.31442](https://https://arxiv.org/abs/2605.31442).
+[arXiv:2605.31442](https://arxiv.org/abs/2605.31442).
 
 **"Transient dynamics of parametric driving for single-electron image current detection in a Paul trap"**<br>
 Baiyi Yu, Andris Huang, Isabel Sacksteder, Hartmut Haeffner<br>
-[Phys. Rev. Appl. 26, 024070 (2026)](https://doi.org/10.1103/krxg-clfg), [arXiv:2605.15087](https://https://arxiv.org/abs/2605.15087).
+[Phys. Rev. Appl. 26, 024070 (2026)](https://doi.org/10.1103/krxg-clfg), [arXiv:2605.15087](https://arxiv.org/abs/2605.15087).
 
 **"Design and fabrication of a micro-ion trap with a 3D-printed loading zone for improved hot-ion capture"**<br>
 Sayan Patra, Abhinav Parakh, Xiaoxing Xia, Juergen Biener, Hartmut Häffner, Kristin M. Beck<br>
