@@ -15,7 +15,7 @@ Daniel Klawson, Yiyang Zhi, Bingran You, Michael Bareian, Elijah Mossman, Chun-Y
 [arXiv:2607.25062](https://arxiv.org/abs/2607.25062).
 
 **"Electrical Noise Produced by Micron-Sized Particles above a Surface Paul Trap"**<br>
-Ben Saarel, Ozgur Sahin, Alpha T. N'Diaye, Hartmut Häffner<br>
+Ben Saarel, Ozgur Sahin, Hartmut Häffner, Alpha T. N'Diaye<br>
 [arXiv:2605.19585](https://arxiv.org/abs/2606.19585).
 
 **"Engineered Randomness for Ubiquitous Quantum-Enhanced Metrology in Exponential-Dimensional Manifolds"**<br>
