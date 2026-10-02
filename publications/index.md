@@ -77,7 +77,7 @@ C. Zhang, J. Phillips, I. Monga, E. Saglamyurek, Q. Wu, H. Haeffner<br>
 
 **"Temporally multiplexed ion-photon quantum interface via fast ion-chain transport"**<br>
 B. You, Q. Wu, D. Miron, W. Ke, I. Monga, E. Saglamyurek, H. Haeffner<br>
-[arXiv:2405.10501](https://arxiv.org/abs/2405.10501).
+[Phys. Rev. Applied 26, 014101](https://journals.aps.org/prapplied/abstract/10.1103/ppm8-8kx5)[arXiv:2405.10501](https://arxiv.org/abs/2405.10501).
 
 **"Probing Rotational Decoherence with a Trapped-Ion Planar Rotor"**<br>
 N. Glikin, B. A. Stickler, R. Tollefsen, S. Mouradian, N. Yadav, E. Urban, K. Hornberger, H. Häffner<br>
