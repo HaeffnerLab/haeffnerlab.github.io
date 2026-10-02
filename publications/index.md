@@ -10,6 +10,10 @@ Jump to:
 [Masters Theses](#masters-theses)
 
 ## Journal Papers
+**"Predicting electric-field noise in ion traps using fluctuation electrodynamics"**<br>
+Markus Teller, Da An, Alberto M. Alonso, Philip C. Holz, Philipp Schindler, Hartmut Häffner, Tracy E. Northup<br>
+[	arXiv:2610.01693](https://arxiv.org/abs/2610.01693).
+
 **"A broadband, individually addressing two- and three-dimensional photonic integrated circuit for trapped-ion qubit control"**<br>
 Daniel Klawson, Yiyang Zhi, Bingran You, Michael Bareian, Elijah Mossman, Chun-Yuan Fan, Arkadev Roy, Ke Sun, Jason Lee, Sung Cheol Yoon, Qiming Wu, Lai Jiang, Wenjun Ke, Weiwei Wu, Sirui Tang, Zachary Wall, Jiaxiang Wang, Louis Paul Romero, Sam Vizvary, Steven Diaz, Eric R. Hudson, Wesley C. Campbell, Hartmut Haeffner, Ming C. Wu<br>
 [arXiv:2607.25062](https://arxiv.org/abs/2607.25062).
