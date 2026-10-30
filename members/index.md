@@ -40,6 +40,7 @@ title: Group Members
     </tr>
     <tr>
       {% include member.html 
+          full_row=true
           name="Erhan Saglamyurek" 
           title="Project Scientist" 
           image="/members/pics/Erhan.jpeg" 
