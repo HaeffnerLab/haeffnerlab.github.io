@@ -1,12 +1,13 @@
-<td width="112">
-    {% if include.image != "" %}
-        <img src="{{ include.image }}" align="right" height="200px" alt="Photo of {{ include.name }}" />
+<td style="width:112px">
+    {% if include.image %}
+        <img src="{{ include.image }}" alt="Photo of {{ include.name | strip_html }}"
+             style="float:right; height:200px;" />
     {% endif %}
 </td>
 {% if include.full_row %}
-<td width="750" colspan="3">
+<td colspan="3" style="width:750px">
 {% else %}
-<td width="350">
+<td style="width:350px">
 {% endif %}
     <h2>{{ include.name }}</h2>
     <script>
