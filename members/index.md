@@ -168,6 +168,8 @@ title: Group Members
           email_suffix="edu"
           bio="I am Guangqi Gao, a PhD student in the Applied Science & Technology program. I received my bachelor's degree in Physics from Peking University in 2024, where I conducted undergraduate research on quantum chaos. Currently, I am working on the QuantNet project in Hartmut’s lab. After completing my undergraduate studies, I decided to pursue engineering-oriented research. Hartmut’s lab is the perfect place for me, as trapped ion systems lie at the intersection of physics and engineering."
       %}
+    </tr>
+    <tr>
       {% include member.html
           name="Ryan Tollefsen"
           title="Grad Student"
@@ -177,7 +179,6 @@ title: Group Members
           email_suffix="edu"
           bio=""
       %}
-    </tr>
     </tr>
   </table>
 </div>
