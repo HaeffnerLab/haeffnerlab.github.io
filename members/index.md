@@ -22,8 +22,8 @@ title: Group Members
             I lead now a group sharing the same passion. In my previous life, I measured how
             strong electric fields change the magnetic moment of the electron, studied
             quantum chaos, ran quantum gates, characterized entangled states, and teleported
-            quantum information over 10 micrometers. Notable current achievements of my group
-            are ultra low-noise ion traps, 3D-printed ion traps, control over a quantum rotor, and trapped elecrons. "
+            quantum information over 10 micrometers. Notable current achievements of my group include
+            ultra low-noise ion traps, 3D-printed ion traps, control over a quantum rotor, and trapped electrons. "
       %}
     </tr>
     <tr>
@@ -147,7 +147,7 @@ title: Group Members
           email_name="jry_liu"
           email_domain="berkeley"
           email_suffix="edu"
-          bio="I am Jiarui Liu from USTC undergradute class of 2023. I am working on analogue quantum simulation with trapped ion spins and bosons."
+          bio="I am Jiarui Liu from USTC undergraduate class of 2023. I am working on analogue quantum simulation with trapped ion spins and bosons."
       %}
     </tr>
     <tr>
