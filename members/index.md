@@ -50,21 +50,20 @@ title: Group Members
       %} 
     </tr>
     <tr>
-      {% include member.html
-          name="Neha Yadav"
-          title="Post-Doc"
-          image="/members/pics/neha.jpg"
-          email_name="neha_yadav"
-          email_domain="berkeley"
-          email_suffix="edu"
-          bio=""
-      %}
-    
-      {% include member.html
+       {% include member.html
           name="Qiming Wu"
           title="Post-Doc"
           image="/members/pics/qiming_2025.jpg"
           email_name="qiming.wu"
+          email_domain="berkeley"
+          email_suffix="edu"
+          bio=" "
+      %}
+      {% include member.html
+          name="Kento Taniguchi"
+          title="Post-Doc"
+          image="/members/pics/kento.jpg"
+          email_name="kento-taniguchi531"
           email_domain="berkeley"
           email_suffix="edu"
           bio=" "
@@ -88,46 +87,6 @@ title: Group Members
           email_domain="berkeley"
           email_suffix="edu"
           bio=" "
-      %}
-    </tr>
-    <tr>
-      {% include member.html
-          name="Kento Taniguchi"
-          title="Post-Doc"
-          image="/members/pics/kento.jpg"
-          email_name="kento-taniguchi531"
-          email_domain="berkeley"
-          email_suffix="edu"
-          bio=" "
-      %}
-      {% include member.html
-          name="Swapnil Patel"
-          title="Post-Doc"
-          image="/members/pics/swapnil.jpg"
-          email_name="swapnilpatel"
-          email_domain="lbl"
-          email_suffix="gov"
-          bio=" "
-      %}
-    </tr>
-    <tr>
-      {% include member.html
-          name="Ben Saarel"
-          title="Grad Student"
-          image="/members/pics/ben.PNG"
-          email_name="bsaarel"
-          email_domain="berkeley"
-          email_suffix="edu"
-          bio=" "
-      %}
-      {% include member.html
-          name="Ryan Tollefsen"
-          title="Grad Student"
-          image="/members/pics/ryan-tollefsen.png"
-          email_name="tollefsen"
-          email_domain="berkeley"
-          email_suffix="edu"
-          bio=""
       %}
     </tr>
     <tr>
@@ -209,6 +168,16 @@ title: Group Members
           email_suffix="edu"
           bio="I am Guangqi Gao, a PhD student in the Applied Science & Technology program. I received my bachelor's degree in Physics from Peking University in 2024, where I conducted undergraduate research on quantum chaos. Currently, I am working on the QuantNet project in Hartmut’s lab. After completing my undergraduate studies, I decided to pursue engineering-oriented research. Hartmut’s lab is the perfect place for me, as trapped ion systems lie at the intersection of physics and engineering."
       %}
+      {% include member.html
+          name="Ryan Tollefsen"
+          title="Grad Student"
+          image="/members/pics/ryan-tollefsen.png"
+          email_name="tollefsen"
+          email_domain="berkeley"
+          email_suffix="edu"
+          bio=""
+      %}
+    </tr>
     </tr>
   </table>
 </div>
@@ -224,6 +193,9 @@ title: Group Members
 
 ## Group Alumni
 
+| Neha Yadav | |
+| Ben Saarel | *Research Scientist at Quantinuum* |
+| Swapnil Patel | *Research Scientist at PsiQuantum* |
 | Qian Yu | |
 | Shuqi Xu | |
 | Nicole Greene | *Research Scientist at HRL Laboratories* |
@@ -235,11 +207,10 @@ title: Group Members
 | Sara Mouradian | *Assistant Professor, University of Washington, [https://people.ece.uw.edu/mouradian_sara/index.html](https://people.ece.uw.edu/mouradian_sara/index.html)* |
 | Sumanta Khan | *Post-Doc at Aarhus University*|
 | Ryan Shaffer | *Applied Scientist at Amazon* |
-| Sara Mouradian | *Assistant Professor of ECE, University of Washington* |
 | Da An | *Systems Engineer at Aeva* |
 | Wei-Ting Chen |   |
 | Eli Megidish | *Physicist at Atom Computing* |
-| Clemens Matthiesen | *Senior Scientist at Oxford Ionics* |
+| Clemens Matthiesen | *Senior Scientist at IonQ* |
 | Maya Berlin-Udi | *Application Scientist at Zurich Instruments* |
 | Crystal Noel | *Assistant Professor of Physics, Duke University, [https://noellab.pratt.duke.edu/](https://noellab.pratt.duke.edu/)* |
 | Erik Urban | *Electrical Engineer at Exponent* |
