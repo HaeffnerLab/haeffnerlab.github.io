@@ -10,7 +10,7 @@ Jump to:
 [Masters Theses](#masters-theses)
 
 ## Journal Papers
-**"FrontierPhysics: Evaluating Agents for End-to-End Physics Research<br>
+**"FrontierPhysics: Evaluating Agents for End-to-End Physics Research"**<br>
 B. You, W. Ke, R. Rosenauer, B. Liu, W. Chen, M. Chen, S. Xu, Y. Ma, J. Feng, B. Chen, X. Sun, J. Liu, J. Guo, Z. Zhou, X. Huang, Z. Li, H. Li, H. Lin, L. Ding, Y. Zeng, K. Zhang, X. Liu, H. Liu, Z. Li, A. von Recum, Y. Zhu, F. Schwarzfischer, Y. Zhao, J. Wang, B. Li, Q. Yu, C. Li, C. Dai, D. Wang, H. Zhang, J. Sun, K. Feng, M. Qin, R. Yin, Y. Luo, W. Wu, S. Pan, T. Y. Hsieh, X. Huang, Y. Zhang, S. Li, Z. Ren, Z. Tu, K. W. Choe, K. Sun, V. Galia, V. Mishra, J. He, H. Wang, Z. Yang, S. Gaur, Y. Gu, S. Wang, Z. Zuo, S. Dillmann, Y. Sun, X. Han, H. Lee, M. Tao, Y. Zhao, S. Liu, Y. Wu, X. Zhao, X. Li, F. Brand, G. Ceder, H. Haeffner<br>
 [arxiv:2611.06910](https://arxiv.org/abs/2611.06910).
 
