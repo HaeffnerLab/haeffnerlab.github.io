@@ -92,10 +92,10 @@ title: Group Members
     </tr>
     <tr>
       {% include member.html
-          name="Justin Phillips"
+          name="Ryan Tollefsen"
           title="Grad Student"
-          image="/members/pics/justin.jpg"
-          email_name="justin.phillips"
+          image="/members/pics/ryan-tollefsen.png"
+          email_name="tollefsen"
           email_domain="berkeley"
           email_suffix="edu"
           bio=""
@@ -172,10 +172,10 @@ title: Group Members
     </tr>
     <tr>
       {% include member.html
-          name="Ryan Tollefsen"
+      name="Justin Phillips"
           title="Grad Student"
-          image="/members/pics/ryan-tollefsen.png"
-          email_name="tollefsen"
+          image="/members/pics/justin.jpg"
+          email_name="justin.phillips"
           email_domain="berkeley"
           email_suffix="edu"
           bio=""
