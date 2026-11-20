@@ -12,7 +12,7 @@ Jump to:
 ## Journal Papers
 **"Angular momentum transfer from an optical vortex to an atomic rotor"**<br>
 Yu-Lung Tang, Ryan Tollefsen, Neha Yadav, Michael W. Zuerch, and Hartmut Häffner<br>
-[Science 394, 890 (2026)](https://doi.org/10.1126/science.aeh0182).
+[Science 394, 890 (2026)](https://www.science.org/eprint/XYJGFRJPFCZJWCV7VYDQ/full?activationRedirect=/doi/full/10.1126/science.aeh0182).
 
 **"QCCDCert: Formally Verified Compilation for QCCD Co-Design"**<br>
 John Zhuoyang Ye, Jens Palsberg, Ke Sun, Hartmut Haeffner<br>
